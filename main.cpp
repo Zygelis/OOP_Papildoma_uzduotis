@@ -25,9 +25,7 @@ bool ar_yra_URL(const string& zodis, const set<string>& url_pabaigos) {
 }
 
 void ar_zodis_turi_string(const string& isvalytas_zodis, const string& string_rasti) {
-    regex regex_zodis("\\b\\w*" + string_rasti + "\\w*\\b");
-
-    if (regex_match(isvalytas_zodis, regex_zodis))
+    if (isvalytas_zodis.find(string_rasti) != string::npos)
         cout << "Zodis: '" << isvalytas_zodis << "' turi " << string_rasti << endl;
 }
 
