@@ -34,7 +34,7 @@ int main() {
     if (!tekstas.is_open() || !zodziu_danzio_failas.is_open() || !url_isvedimo_failas.is_open() ||
         !cross_reference_failas.is_open() || !url_pabaigu_failas.is_open()) {
         cerr << "Klaida atidarant failus!" << endl;
-        return 1;
+        return 0;
     }
 
     unordered_map<string, std::pair<int, vector<int>>> zodziu_pasirodymai;
@@ -55,11 +55,11 @@ int main() {
         string word;
 
         while (iss >> word) {
-            string cleanedWord = isvalom_zodi(word);
+            string isvalytas_zodis = isvalom_zodi(word);
 
-            if (!cleanedWord.empty() && !ar_yra_URL(cleanedWord, url_pabaigos)) {
-                zodziu_pasirodymai[cleanedWord].first++;
-                zodziu_pasirodymai[cleanedWord].second.push_back(n_eilutes);
+            if (!isvalytas_zodis.empty() && !ar_yra_URL(isvalytas_zodis, url_pabaigos)) {
+                zodziu_pasirodymai[isvalytas_zodis].first++;
+                zodziu_pasirodymai[isvalytas_zodis].second.push_back(n_eilutes);
             }
 
             if (ar_yra_URL(word, url_pabaigos)) {
