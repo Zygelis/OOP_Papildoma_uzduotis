@@ -68,17 +68,16 @@ int main() {
         }
     }
 
+    // Pildom zodziu danzio faila ir cross reference faila
     for (const auto& entry : zodziu_pasirodymai) {
         if (entry.second.first > 1) {
             zodziu_danzio_failas << "Zodis: " << entry.first << ", Pasikartojimu skaicius: " << entry.second.first << endl;
 
-            // Panaikinam pasikartojancius eiluciu numerius ir surusiuojam juos didejimo tvarka kad butu lengviau surasti.
+            // Panaikinam pasikartojancius eiluciu numerius pakeisdami i aibe
             unordered_set<int> unique_eilutes(entry.second.second.begin(), entry.second.second.end());
-            vector<int> surusiuotos_eilutes(unique_eilutes.begin(), unique_eilutes.end());
-            std::sort(surusiuotos_eilutes.begin(), surusiuotos_eilutes.end());
 
             cross_reference_failas << "Zodis: " << entry.first << ", Teksto eilutes: ";
-            for (const auto& eilute : surusiuotos_eilutes) {
+            for (const auto& eilute : unique_eilutes) {
                 cross_reference_failas << eilute << " ";
             }
             cross_reference_failas << endl;
