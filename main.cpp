@@ -8,7 +8,7 @@ string isvalom_zodi(const string& zodis) {
     return isvalytas_zodis;
 }
 
-bool ar_yra_URL(const string& zodis, const unordered_set<string>& url_pabaigos) {
+bool ar_yra_URL(const string& zodis, const set<string>& url_pabaigos) {
     regex url_struktura(R"((https?|ftp):\/\/[^\s/$.?#].[^\s]*|www\.[^\s/$.?#].[^\s]*|HTTP:\/\/[^\s/$.?#].[^\s]*)");
 
     // Ziurime ar zodis atitinka URL struktura
@@ -24,8 +24,15 @@ bool ar_yra_URL(const string& zodis, const unordered_set<string>& url_pabaigos) 
     return false;
 }
 
+void ar_zodis_turi_string(const string& isvalytas_zodis, const string& string_rasti) {
+    regex regex_zodis("\\b\\w*" + string_rasti + "\\w*\\b");
+
+    if (regex_match(isvalytas_zodis, regex_zodis))
+        cout << "Zodis: '" << isvalytas_zodis << "' turi " << string_rasti << endl;
+}
+
 int main() {
-    ifstream tekstas("input\\vilniaus_testas.txt");
+    ifstream tekstas("input\\berlynas.txt");
     ofstream zodziu_danzio_failas("output\\zodziai.txt");
     ofstream url_isvedimo_failas("output\\urls.txt");
     ofstream cross_reference_failas("output\\cross_reference.txt");
@@ -37,8 +44,8 @@ int main() {
         return 0;
     }
 
-    unordered_map<string, pair<int, vector<int>>> zodziu_pasirodymai;
-    unordered_set<string> url_pabaigos;
+    map<string, pair<int, vector<int>>> zodziu_pasirodymai;
+    set<string> url_pabaigos;
 
     string url_pabaiga;
     while (getline(url_pabaigu_failas, url_pabaiga)) {
@@ -57,6 +64,8 @@ int main() {
         while (iss >> word) {
             string isvalytas_zodis = isvalom_zodi(word);
 
+            ar_zodis_turi_string(isvalytas_zodis, "hyv");
+
             if (!isvalytas_zodis.empty() && !ar_yra_URL(isvalytas_zodis, url_pabaigos)) {
                 zodziu_pasirodymai[isvalytas_zodis].first++;
                 zodziu_pasirodymai[isvalytas_zodis].second.push_back(n_eilutes);
@@ -74,7 +83,7 @@ int main() {
             zodziu_danzio_failas << "Zodis: " << entry.first << ", Pasikartojimu skaicius: " << entry.second.first << endl;
 
             // Panaikinam pasikartojancius eiluciu numerius pakeisdami i aibe
-            unordered_set<int> unique_eilutes(entry.second.second.begin(), entry.second.second.end());
+            set<int> unique_eilutes(entry.second.second.begin(), entry.second.second.end());
 
             cross_reference_failas << "Zodis: " << entry.first << ", Teksto eilutes: ";
             for (const auto& eilute : unique_eilutes) {
