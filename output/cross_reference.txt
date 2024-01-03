@@ -1,0 +1,2545 @@
+Zodis: privacy, Teksto eilutes: 1786 1787 
+Zodis: commons, Teksto eilutes: 1775 1786 
+Zodis: europy, Teksto eilutes: 1771 1781 
+Zodis: studia, Teksto eilutes: 1771 1781 
+Zodis: serialo, Teksto eilutes: 1760 1762 
+Zodis: autobus, Teksto eilutes: 1726 1730 1731 1733 
+Zodis: paslaugos, Teksto eilutes: 1721 1725 1735 
+Zodis: susisiekimo, Teksto eilutes: 1721 1725 1735 
+Zodis: indeksas, Teksto eilutes: 1701 1702 1704 1713 
+Zodis: sakur, Teksto eilutes: 1697 1698 
+Zodis: lukiški, Teksto eilutes: 1685 1686 1695 1762 
+Zodis: laura, Teksto eilutes: 1678 1679 
+Zodis: rities, Teksto eilutes: 1672 
+Zodis: perka, Teksto eilutes: 1726 1732 1733 
+Zodis: vietimo, Teksto eilutes: 1653 1655 
+Zodis: vision, Teksto eilutes: 1637 1639 1660 
+Zodis: apply, Teksto eilutes: 1632 1786 
+Zodis: saugumo, Teksto eilutes: 1629 1705 
+Zodis: internetas, Teksto eilutes: 1626 1628 
+Zodis: duris, Teksto eilutes: 1615 1668 
+Zodis: r&d, Teksto eilutes: 1609 1614 
+Zodis: inventions, Teksto eilutes: 1598 
+Zodis: lucendo, Teksto eilutes: 1598 
+Zodis: report, Teksto eilutes: 1591 1592 1594 1595 1596 1711 
+Zodis: savivaldybėse, Teksto eilutes: 1590 1671 
+Zodis: buys, Teksto eilutes: 1732 1733 
+Zodis: timetables, Teksto eilutes: 1721 1722 
+Zodis: departamentas, Teksto eilutes: 1588 1789 
+Zodis: statistikos, Teksto eilutes: 1572 1587 1588 1789 
+Zodis: oficialiosios, Teksto eilutes: 1572 1587 
+Zodis: baz, Teksto eilutes: 1572 1587 
+Zodis: duomen, Teksto eilutes: 1572 1587 
+Zodis: ludności, Teksto eilutes: 1567 1768 
+Zodis: atžvilgiu, Teksto eilutes: 1560 1579 1582 
+Zodis: vertybinės, Teksto eilutes: 1560 1579 1582 
+Zodis: apraiškos, Teksto eilutes: 1560 1579 1582 
+Zodis: vienas, Teksto eilutes: 1557 1628 
+Zodis: iego, Teksto eilutes: 1552 
+Zodis: x, Teksto eilutes: 1552 1687 
+Zodis: geograficzny, Teksto eilutes: 1552 1790 
+Zodis: baltijos, Teksto eilutes: 1550 1593 
+Zodis: kultūros, Teksto eilutes: 1545 1757 
+Zodis: articles, Teksto eilutes: 1543 1782 
+Zodis: nipiški, Teksto eilutes: 1540 1541 
+Zodis: centro, Teksto eilutes: 1539 1547 
+Zodis: nauj, Teksto eilutes: 1537 1726 1730 1731 1732 
+Zodis: renovacijos, Teksto eilutes: 1535 1537 
+Zodis: rajonai, Teksto eilutes: 1531 1538 
+Zodis: architektūra, Teksto eilutes: 1526 1542 1543 1544 
+Zodis: apie, Teksto eilutes: 1519 1630 1682 1725 
+Zodis: tūkst, Teksto eilutes: 1514 1712 
+Zodis: l, Teksto eilutes: 1514 1584 
+Zodis: sritys, Teksto eilutes: 1513 1515 
+Zodis: statymas, Teksto eilutes: 1504 1744 
+Zodis: t, Teksto eilutes: 1772 1790 
+Zodis: taryba, Teksto eilutes: 1489 1499 
+Zodis: ignas, Teksto eilutes: 1476 1732 
+Zodis: srebrakowski, Teksto eilutes: 1551 1565 1568 1770 1771 1781 
+Zodis: jačauskas, Teksto eilutes: 1476 1732 
+Zodis: kuo, Teksto eilutes: 1472 1760 
+Zodis: miestieči, Teksto eilutes: 1469 1538 
+Zodis: veiklos, Teksto eilutes: 1513 1515 
+Zodis: lietuviai, Teksto eilutes: 1461 1550 1608 
+Zodis: gyvenimo, Teksto eilutes: 1460 1681 
+Zodis: gediminaičiai, Teksto eilutes: 1458 1555 
+Zodis: kodėl, Teksto eilutes: 1458 1536 
+Zodis: regina, Teksto eilutes: 1458 1742 
+Zodis: gali, Teksto eilutes: 1457 1705 
+Zodis: kalbos, Teksto eilutes: 1456 1462 1467 
+Zodis: senosios, Teksto eilutes: 1450 1699 
+Zodis: teatras, Teksto eilutes: 1442 1443 1444 1445 
+Zodis: dien, Teksto eilutes: 1432 1478 1479 
+Zodis: metais, Teksto eilutes: 1425 1559 1561 1571 1736 
+Zodis: pirmojo, Teksto eilutes: 1424 1561 
+Zodis: nuo, Teksto eilutes: 1424 1492 1539 1631 1641 
+Zodis: pus, Teksto eilutes: 1418 
+Zodis: namai, Teksto eilutes: 1404 1536 
+Zodis: averages, Teksto eilutes: 1388 1389 
+Zodis: o, Teksto eilutes: 1369 1527 
+Zodis: tribune, Teksto eilutes: 1368 1493 
+Zodis: kovo, Teksto eilutes: 1362 1475 
+Zodis: akimis, Teksto eilutes: 1359 1360 1461 
+Zodis: būgien, Teksto eilutes: 1359 1360 
+Zodis: vilniuje, Teksto eilutes: 1358 1426 1472 1475 1476 1514 1549 1556 1626 1656 1687 1696 1698 1705 1734 1749 1752 1757 1794 
+Zodis: pirmoje, Teksto eilutes: 1355 1622 
+Zodis: pusėje, Teksto eilutes: 1355 1738 
+Zodis: arūnas, Teksto eilutes: 1355 1727 1729 
+Zodis: dėl, Teksto eilutes: 1354 1705 
+Zodis: failure, Teksto eilutes: 1353 1370 
+Zodis: didysis, Teksto eilutes: 1351 1576 
+Zodis: staliūnas, Teksto eilutes: 1345 1769 
+Zodis: pristat, Teksto eilutes: 1472 1730 
+Zodis: yd, Teksto eilutes: 1341 1351 1466 1699 1707 
+Zodis: lenk, Teksto eilutes: 1341 1355 1460 1790 
+Zodis: baltarusijos, Teksto eilutes: 1341 1758 
+Zodis: joanna, Teksto eilutes: 1340 1396 
+Zodis: mažum, Teksto eilutes: 1339 1560 1579 1582 1655 
+Zodis: gintautas, Teksto eilutes: 1339 1674 
+Zodis: tautos, Teksto eilutes: 1338 1358 1573 
+Zodis: mūs, Teksto eilutes: 1338 1459 1707 
+Zodis: andrius, Teksto eilutes: 574 577 
+Zodis: quite, Teksto eilutes: 571 866 
+Zodis: humanity, Teksto eilutes: 569 1438 
+Zodis: intangible, Teksto eilutes: 569 1438 
+Zodis: age, Teksto eilutes: 569 758 849 850 895 975 1170 1272 
+Zodis: professional, Teksto eilutes: 569 586 594 
+Zodis: tradition, Teksto eilutes: 569 754 
+Zodis: knights, Teksto eilutes: 186 844 
+Zodis: levels, Teksto eilutes: 569 895 
+Zodis: clothes, Teksto eilutes: 648 650 
+Zodis: baroque, Teksto eilutes: 150 477 479 588 794 797 803 805 1019 1026 1262 1279 
+Zodis: net, Teksto eilutes: 893 1111 
+Zodis: participants, Teksto eilutes: 234 307 1132 
+Zodis: mother, Teksto eilutes: 1056 
+Zodis: musica, Teksto eilutes: 561 586 
+Zodis: consecrated, Teksto eilutes: 1062 1085 
+Zodis: credited, Teksto eilutes: 1150 1152 
+Zodis: spanish, Teksto eilutes: 159 519 
+Zodis: list, Teksto eilutes: 106 502 646 698 805 1001 1199 1248 1249 1254 1255 
+Zodis: single-family, Teksto eilutes: 302 
+Zodis: singers, Teksto eilutes: 561 569 577 581 
+Zodis: operas, Teksto eilutes: 560 563 586 
+Zodis: board, Teksto eilutes: 605 1162 
+Zodis: staged, Teksto eilutes: 560 563 596 
+Zodis: industry, Teksto eilutes: 555 620 
+Zodis: established, Teksto eilutes: 165 222 291 491 515 517 549 586 590 594 596 605 609 618 620 650 688 771 782 805 910 935 941 977 1034 1083 1085 1148 1170 1174 1182 1183 1185 1186 
+Zodis: festival, Teksto eilutes: 553 568 569 571 663 1427 1437 
+Zodis: palemon, Teksto eilutes: 87 1262 
+Zodis: demolished, Teksto eilutes: 551 805 
+Zodis: companies, Teksto eilutes: 598 916 918 934 935 937 945 
+Zodis: million, Teksto eilutes: 551 829 856 928 
+Zodis: authorities, Teksto eilutes: 549 1062 1085 1106 
+Zodis: rich, Teksto eilutes: 815 827 
+Zodis: painting, Teksto eilutes: 470 479 483 1049 1050 1053 1056 
+Zodis: stationary, Teksto eilutes: 545 1194 
+Zodis: four, Teksto eilutes: 569 977 1062 
+Zodis: vilnians, Teksto eilutes: 543 645 646 815 844 856 869 871 877 1170 1178 
+Zodis: pattern, Teksto eilutes: 795 805 
+Zodis: cultures, Teksto eilutes: 543 795 
+Zodis: screening, Teksto eilutes: 542 545 
+Zodis: defeat, Teksto eilutes: 242 854 
+Zodis: gedimino, Teksto eilutes: 795 1293 1298 1574 
+Zodis: bernardinai, Teksto eilutes: 542 543 1080 1081 1696 
+Zodis: garden, Teksto eilutes: 542 543 910 1080 1081 1083 1696 
+Zodis: mercedes-benz, Teksto eilutes: 1154 
+Zodis: biggest, Teksto eilutes: 537 652 663 815 823 903 937 
+Zodis: foreign, Teksto eilutes: 533 598 618 661 872 880 903 935 956 994 996 1077 1094 1194 1375 1376 1583 
+Zodis: chief, Teksto eilutes: 319 680 765 
+Zodis: british, Teksto eilutes: 261 987 
+Zodis: process, Teksto eilutes: 531 821 
+Zodis: recopied, Teksto eilutes: 531 
+Zodis: volumes, Teksto eilutes: 531 996 
+Zodis: gdp, Teksto eilutes: 125 891 901 1267 
+Zodis: regulations, Teksto eilutes: 525 605 680 945 
+Zodis: long, Teksto eilutes: 64 620 646 657 1077 1096 1328 
+Zodis: matches, Teksto eilutes: 1122 
+Zodis: lewkenor, Teksto eilutes: 1020 1672 
+Zodis: canon, Teksto eilutes: 525 1170 
+Zodis: one, Teksto eilutes: 150 152 154 159 175 198 199 207 253 273 302 495 504 509 519 551 561 596 603 605 607 615 646 648 661 688 745 748 782 789 795 807 810 815 833 850 880 890 909 918 935 937 939 977 985 991 992 1045 1050 1056 1062 1085 1102 1104 1122 1134 1148 1152 1170 1260 
+Zodis: heads, Teksto eilutes: 525 659 819 1111 
+Zodis: courts, Teksto eilutes: 525 769 1126 
+Zodis: chancellor, Teksto eilutes: 525 531 
+Zodis: capita, Teksto eilutes: 128 891 901 
+Zodis: rd, Teksto eilutes: 638 805 
+Zodis: police, Teksto eilutes: 523 775 778 
+Zodis: pirmasis, Teksto eilutes: 1424 1715 
+Zodis: micha, Teksto eilutes: 523 579 794 1054 1768 
+Zodis: talking, Teksto eilutes: 499 1398 
+Zodis: subsection, Teksto eilutes: 15 17 20 22 24 26 28 30 32 35 38 46 
+Zodis: antoni, Teksto eilutes: 523 577 
+Zodis: kazimierz, Teksto eilutes: 523 579 794 1262 
+Zodis: post-soviet, Teksto eilutes: 1318 1323 
+Zodis: society, Teksto eilutes: 233 234 253 483 491 497 517 549 565 1174 1176 1182 1183 1196 1434 1680 
+Zodis: writing, Teksto eilutes: 519 626 
+Zodis: radziwi, Teksto eilutes: 517 577 579 590 645 673 810 849 
+Zodis: worked, Teksto eilutes: 517 533 603 618 620 
+Zodis: acts, Teksto eilutes: 515 769 
+Zodis: literat, Teksto eilutes: 533 1420 
+Zodis: districts, Teksto eilutes: 289 495 695 748 
+Zodis: published, Teksto eilutes: 515 517 519 603 631 910 1020 1040 1056 1190 1260 
+Zodis: expanded, Teksto eilutes: 190 1126 1347 
+Zodis: renaissance, Teksto eilutes: 196 477 588 797 1026 
+Zodis: resident, Teksto eilutes: 880 1266 1271 
+Zodis: teritorin, Teksto eilutes: 1273 1274 
+Zodis: contains, Teksto eilutes: 509 1085 
+Zodis: viktoras, Teksto eilutes: 509 1687 
+Zodis: time, Teksto eilutes: 130 152 159 251 273 333 468 483 607 618 648 795 844 910 1096 1323 1389 
+Zodis: zone, Teksto eilutes: 130 302 829 
+Zodis: mekas, Teksto eilutes: 509 
+Zodis: programmes, Teksto eilutes: 509 1646 
+Zodis: alliance, Teksto eilutes: 690 
+Zodis: range, Teksto eilutes: 509 
+Zodis: management, Teksto eilutes: 517 968 998 
+Zodis: venue, Teksto eilutes: 509 1073 1081 1126 
+Zodis: about, Teksto eilutes: 199 211 251 261 273 329 505 515 561 607 646 795 880 966 1085 1096 1141 1148 1242 1245 1278 1324 1408 1409 1410 1421 1427 1428 1435 1480 1496 1509 1529 1602 1603 1607 1610 1613 1624 1647 1648 1666 1718 1725 1745 
+Zodis: etc, Teksto eilutes: 505 987 1096 1172 1178 1262 
+Zodis: gallery, Teksto eilutes: 505 508 509 829 
+Zodis: research, Teksto eilutes: 833 907 914 916 918 922 924 928 994 1282 1606 1612 
+Zodis: kazys, Teksto eilutes: 505 523 
+Zodis: will, Teksto eilutes: 165 166 248 872 928 
+Zodis: atlas, Teksto eilutes: 468 1390 1580 
+Zodis: educational, Teksto eilutes: 543 588 962 966 994 996 1450 
+Zodis: spent, Teksto eilutes: 186 1092 
+Zodis: tolerance, Teksto eilutes: 505 877 
+Zodis: technology, Teksto eilutes: 505 603 605 914 916 918 922 924 932 935 937 943 
+Zodis: chamber, Teksto eilutes: 569 764 
+Zodis: intelligence, Teksto eilutes: 937 1283 
+Zodis: k, Teksto eilutes: 505 603 900 950 974 983 1432 1475 1584 1681 
+Zodis: shows, Teksto eilutes: 545 833 
+Zodis: event, Teksto eilutes: 248 304 310 543 571 1377 
+Zodis: władysław, Teksto eilutes: 523 563 586 605 810 
+Zodis: sunspots, Teksto eilutes: 607 
+Zodis: censuses, Teksto eilutes: 874 884 
+Zodis: geographical, Teksto eilutes: 317 1378 1552 
+Zodis: folk, Teksto eilutes: 505 569 
+Zodis: ethnic, Teksto eilutes: 505 623 860 861 874 878 882 884 979 1586 1680 
+Zodis: share, Teksto eilutes: 302 897 901 918 
+Zodis: exhibits, Teksto eilutes: 505 1064 
+Zodis: information, Teksto eilutes: 172 202 258 278 505 743 924 932 935 937 943 992 994 998 1098 1350 1386 1390 1623 1667 
+Zodis: different, Teksto eilutes: 505 543 874 992 1022 1673 
+Zodis: specialists, Teksto eilutes: 918 935 
+Zodis: arsenal, Teksto eilutes: 504 1401 1402 
+Zodis: genre, Teksto eilutes: 491 586 
+Zodis: institutes, Teksto eilutes: 916 922 
+Zodis: barometer, Teksto eilutes: 1104 1706 
+Zodis: project, Teksto eilutes: 499 910 1106 1156 
+Zodis: beginning, Teksto eilutes: 497 509 603 676 680 854 872 903 1552 
+Zodis: design, Teksto eilutes: 505 679 970 1403 
+Zodis: name, Teksto eilutes: 140 159 166 249 251 930 
+Zodis: film, Teksto eilutes: 509 543 553 555 
+Zodis: bohemian, Teksto eilutes: 495 1091 
+Zodis: movement, Teksto eilutes: 495 1237 
+Zodis: governorate, Teksto eilutes: 216 684 854 874 
+Zodis: era, Teksto eilutes: 495 497 1085 
+Zodis: vilkpėd, Teksto eilutes: 713 738 842 
+Zodis: household, Teksto eilutes: 491 618 620 
+Zodis: transport, Teksto eilutes: 37 38 289 924 1136 1147 1148 1158 1725 1735 
+Zodis: styles, Teksto eilutes: 491 797 1026 
+Zodis: vienožinskis, Teksto eilutes: 491 983 
+Zodis: chronologija, Teksto eilutes: 1301 1465 
+Zodis: petras, Teksto eilutes: 491 523 579 1058 
+Zodis: noble, Teksto eilutes: 517 874 
+Zodis: half, Teksto eilutes: 491 586 620 680 745 862 903 1071 1096 1170 1260 
+Zodis: climate, Teksto eilutes: 18 137 326 329 335 337 1382 1383 1384 1387 1389 1390 
+Zodis: direction, Teksto eilutes: 490 596 
+Zodis: depictions, Teksto eilutes: 42 1234 
+Zodis: wincenty, Teksto eilutes: 489 490 
+Zodis: representatives, Teksto eilutes: 483 490 
+Zodis: visitors, Teksto eilutes: 499 505 551 661 1071 1092 1094 1096 1098 1104 1115 
+Zodis: abroad, Teksto eilutes: 483 565 586 620 1336 
+Zodis: masterpiece, Teksto eilutes: 569 794 
+Zodis: intensified, Teksto eilutes: 224 253 
+Zodis: lobyno, Teksto eilutes: 1304 1452 
+Zodis: classical, Teksto eilutes: 483 598 797 803 
+Zodis: school, Teksto eilutes: 483 490 571 588 803 970 974 977 983 985 987 1658 
+Zodis: german, Teksto eilutes: 159 179 209 237 242 261 263 273 281 514 626 805 846 866 1085 1245 1320 
+Zodis: solaris, Teksto eilutes: 1154 1160 1164 1165 1732 
+Zodis: rite, Teksto eilutes: 1026 
+Zodis: memorial, Teksto eilutes: 505 1040 1397 
+Zodis: paul, Teksto eilutes: 479 794 797 1046 1066 
+Zodis: socialist, Teksto eilutes: 278 491 596 686 858 1316 
+Zodis: has, Teksto eilutes: 62 146 152 159 302 324 505 525 555 569 581 661 748 750 752 765 789 795 799 805 819 827 829 842 895 897 901 903 918 922 924 939 945 964 981 987 992 994 998 1026 1030 1050 1054 1056 1073 1077 1111 1124 1141 1156 1260 1727 1775 1777 
+Zodis: exceptionally, Teksto eilutes: 479 819 979 
+Zodis: rooms, Teksto eilutes: 253 991 1092 1094 1111 1113 
+Zodis: p, Teksto eilutes: 479 1259 1261 1262 1291 1295 1296 1299 1300 1301 1304 1306 1308 1312 1315 1316 1317 1326 1333 1334 1335 1336 1344 1345 1346 1347 1348 1349 1352 1353 1357 1416 1438 1450 1464 1521 1551 1552 1560 1565 1566 1568 1577 1579 1580 1581 1582 1591 1592 1594 1595 1596 1598 1623 1643 1659 1673 1704 1713 
+Zodis: determined, Teksto eilutes: 317 605 
+Zodis: g, Teksto eilutes: 479 
+Zodis: convergence, Teksto eilutes: 901 
+Zodis: visuotin, Teksto eilutes: 1298 1303 1766 
+Zodis: like, Teksto eilutes: 479 880 
+Zodis: tourist, Teksto eilutes: 1098 1100 1350 
+Zodis: stucco, Teksto eilutes: 479 797 
+Zodis: wood, Teksto eilutes: 479 618 620 
+Zodis: talented, Teksto eilutes: 803 974 
+Zodis: angles, Teksto eilutes: 479 1764 
+Zodis: geographic, Teksto eilutes: 316 317 1552 
+Zodis: partition, Teksto eilutes: 216 771 805 853 854 910 
+Zodis: turmoil, Teksto eilutes: 239 620 1364 
+Zodis: palaces, Teksto eilutes: 479 795 797 827 
+Zodis: borders, Teksto eilutes: 275 748 
+Zodis: electoral, Teksto eilutes: 690 760 
+Zodis: lietuva, Teksto eilutes: 551 1314 1349 1426 1459 
+Zodis: accessible, Teksto eilutes: 815 819 
+Zodis: survived, Teksto eilutes: 477 827 
+Zodis: used, Teksto eilutes: 159 317 495 605 607 626 628 634 638 880 930 1040 1139 1259 
+Zodis: manor, Teksto eilutes: 505 586 618 626 756 
+Zodis: features, Teksto eilutes: 477 479 797 916 964 1160 
+Zodis: compositions, Teksto eilutes: 477 483 491 
+Zodis: religious, Teksto eilutes: 477 505 626 799 1002 1259 1671 
+Zodis: jazz, Teksto eilutes: 571 1439 
+Zodis: consolidated, Teksto eilutes: 183 638 
+Zodis: jogaila, Teksto eilutes: 192 626 
+Zodis: annexed, Teksto eilutes: 216 251 269 1324 
+Zodis: itself, Teksto eilutes: 495 611 
+Zodis: minute, Teksto eilutes: 1152 1162 
+Zodis: characterized, Teksto eilutes: 477 479 490 491 586 
+Zodis: dievo, Teksto eilutes: 1685 1686 
+Zodis: work, Teksto eilutes: 477 1022 
+Zodis: needed, Teksto eilutes: 166 184 228 275 283 287 333 626 
+Zodis: de, Teksto eilutes: 477 527 561 579 841 
+Zodis: vis, Teksto eilutes: 1554 1557 
+Zodis: researchers, Teksto eilutes: 916 
+Zodis: tombstones, Teksto eilutes: 477 479 
+Zodis: maria, Teksto eilutes: 477 579 
+Zodis: adam, Teksto eilutes: 517 522 523 
+Zodis: tourists, Teksto eilutes: 549 1089 1091 1096 
+Zodis: sculptors, Teksto eilutes: 477 479 
+Zodis: botanical, Teksto eilutes: 542 543 910 
+Zodis: author, Teksto eilutes: 515 1236 
+Zodis: confirmed, Teksto eilutes: 497 872 1022 
+Zodis: operation, Teksto eilutes: 244 273 275 1353 
+Zodis: decorated, Teksto eilutes: 475 479 646 648 991 1050 1077 
+Zodis: dedicated, Teksto eilutes: 475 585 588 827 979 992 998 1040 
+Zodis: across, Teksto eilutes: 475 569 901 1145 
+Zodis: academy, Teksto eilutes: 517 581 966 996 1577 1650 
+Zodis: buy, Teksto eilutes: 815 1150 1152 1154 
+Zodis: michael, Teksto eilutes: 474 477 527 1030 1329 1352 
+Zodis: bernard, Teksto eilutes: 472 475 792 
+Zodis: cities, Teksto eilutes: 41 154 179 199 319 605 618 620 807 850 866 897 903 1020 1134 1145 1198 1199 1283 1285 
+Zodis: francis, Teksto eilutes: 472 475 792 1066 
+Zodis: season, Teksto eilutes: 1122 1244 
+Zodis: sculpture, Teksto eilutes: 470 477 479 497 
+Zodis: hours, Teksto eilutes: 466 823 1054 
+Zodis: monthly, Teksto eilutes: 466 893 903 935 1111 1150 1390 1627 1716 
+Zodis: low, Teksto eilutes: 423 468 821 
+Zodis: minimum, Teksto eilutes: 395 409 
+Zodis: maximum, Teksto eilutes: 353 367 
+Zodis: lady, Teksto eilutes: 1049 1050 
+Zodis: people's, Teksto eilutes: 275 549 882 
+Zodis: extremes, Teksto eilutes: 337 468 
+Zodis: known, Teksto eilutes: 146 150 174 211 244 273 561 571 603 646 758 930 977 1019 1020 1040 1081 1172 
+Zodis: tik, Teksto eilutes: 1332 1424 
+Zodis: pilgrimages, Teksto eilutes: 1050 1062 
+Zodis: normals, Teksto eilutes: 337 1387 
+Zodis: electronic, Teksto eilutes: 945 994 1150 1160 
+Zodis: data, Teksto eilutes: 337 531 1092 1269 
+Zodis: muzika, Teksto eilutes: 569 1430 
+Zodis: take, Teksto eilutes: 275 1170 1172 
+Zodis: priest, Teksto eilutes: 163 1552 
+Zodis: below, Teksto eilutes: 333 895 
+Zodis: winters, Teksto eilutes: 333 
+Zodis: wars, Teksto eilutes: 192 211 213 242 674 676 805 
+Zodis: be, Teksto eilutes: 64 165 198 248 253 269 298 304 333 495 531 561 571 603 636 782 872 895 928 1056 1106 1150 1236 1325 1334 1353 1537 
+Zodis: cafés, Teksto eilutes: 331 1100 
+Zodis: picture, Teksto eilutes: 508 509 
+Zodis: day, Teksto eilutes: 331 495 509 574 575 659 665 827 1040 1054 1174 1259 1440 1672 
+Zodis: eve, Teksto eilutes: 304 657 
+Zodis: above, Teksto eilutes: 331 333 542 752 1334 
+Zodis: hot, Teksto eilutes: 331 1102 
+Zodis: météo, Teksto eilutes: 468 1388 
+Zodis: days, Teksto eilutes: 331 451 657 663 1331 
+Zodis: service, Teksto eilutes: 329 335 607 620 778 1154 1283 1384 1385 1386 1758 
+Zodis: change, Teksto eilutes: 329 872 1152 1328 1344 1384 1521 1680 
+Zodis: wolves, Teksto eilutes: 163 1122 
+Zodis: people, Teksto eilutes: 43 780 795 833 895 1003 1162 1170 1247 1248 
+Zodis: classification, Teksto eilutes: 329 1111 1382 
+Zodis: sunrise, Teksto eilutes: 328 913 914 924 
+Zodis: human, Teksto eilutes: 329 638 1363 
+Zodis: latter, Teksto eilutes: 302 579 
+Zodis: slopes, Teksto eilutes: 324 
+Zodis: street, Teksto eilutes: 206 273 514 533 545 574 575 769 795 805 869 871 954 1040 1420 1440 
+Zodis: marathon, Teksto eilutes: 1073 1121 1132 1718 
+Zodis: brussels, Teksto eilutes: 1591 1592 1594 1595 1596 
+Zodis: restrictions, Teksto eilutes: 648 
+Zodis: figures, Teksto eilutes: 797 810 991 1644 
+Zodis: routes, Teksto eilutes: 1139 1148 1721 1722 
+Zodis: eight, Teksto eilutes: 324 1180 
+Zodis: green, Teksto eilutes: 321 650 665 807 865 934 1071 1073 1100 
+Zodis: paris, Teksto eilutes: 543 560 
+Zodis: interior, Teksto eilutes: 479 605 797 1049 1180 
+Zodis: kanuty, Teksto eilutes: 482 490 
+Zodis: italian, Teksto eilutes: 477 479 563 586 1369 
+Zodis: influence, Teksto eilutes: 152 196 1040 
+Zodis: away, Teksto eilutes: 319 1141 
+Zodis: second, Teksto eilutes: 148 159 186 242 602 607 620 634 854 872 893 928 1061 1062 1344 1567 
+Zodis: fourth, Teksto eilutes: 833 895 1170 
+Zodis: klaipėda, Teksto eilutes: 319 1145 
+Zodis: romanticism, Teksto eilutes: 483 490 
+Zodis: statues, Teksto eilutes: 499 1398 
+Zodis: erected, Teksto eilutes: 317 1085 
+Zodis: mainly, Teksto eilutes: 483 778 829 901 
+Zodis: mokesči, Teksto eilutes: 954 1190 
+Zodis: letters, Teksto eilutes: 179 
+Zodis: monuments, Teksto eilutes: 304 1056 1254 
+Zodis: pg, Teksto eilutes: 1313 1314 
+Zodis: site, Teksto eilutes: 139 150 165 795 1030 1040 1050 1054 1085 1106 1786 
+Zodis: scientist, Teksto eilutes: 317 1618 
+Zodis: decorative, Teksto eilutes: 479 
+Zodis: civilization, Teksto eilutes: 1238 
+Zodis: ligonin, Teksto eilutes: 1742 1746 
+Zodis: dance, Teksto eilutes: 568 569 598 
+Zodis: babylon, Teksto eilutes: 87 152 209 1261 
+Zodis: several, Teksto eilutes: 317 935 970 1022 1073 1077 1122 1124 1128 
+Zodis: accommodation, Teksto eilutes: 1092 1094 1100 1113 
+Zodis: ticket, Teksto eilutes: 1150 1152 1162 1735 
+Zodis: matters, Teksto eilutes: 525 962 
+Zodis: bridge, Teksto eilutes: 316 827 1062 1073 
+Zodis: roderich, Teksto eilutes: 874 1580 
+Zodis: wehrmacht, Teksto eilutes: 273 275 
+Zodis: agreements, Teksto eilutes: 310 1376 
+Zodis: art, Teksto eilutes: 475 483 490 491 495 509 561 598 650 829 974 983 991 1091 1650 
+Zodis: participated, Teksto eilutes: 310 605 611 
+Zodis: links, Teksto eilutes: 47 795 1773 
+Zodis: crypts, Teksto eilutes: 475 809 810 1530 
+Zodis: mus, Teksto eilutes: 1502 1519 1682 
+Zodis: partnership, Teksto eilutes: 310 1375 1376 
+Zodis: directly, Teksto eilutes: 308 692 782 956 
+Zodis: tax, Teksto eilutes: 308 866 954 1178 
+Zodis: response, Teksto eilutes: 183 222 777 1015 
+Zodis: projects, Teksto eilutes: 308 509 964 
+Zodis: eds, Teksto eilutes: 1349 1680 
+Zodis: economic, Teksto eilutes: 308 620 890 891 897 901 903 950 
+Zodis: narrow, Teksto eilutes: 795 1160 
+Zodis: joined, Teksto eilutes: 897 1237 
+Zodis: townspeople, Teksto eilutes: 618 646 648 680 827 
+Zodis: said, Teksto eilutes: 304 880 1022 
+Zodis: fakt, Teksto eilutes: 1338 1554 
+Zodis: selected, Teksto eilutes: 304 1711 
+Zodis: publications, Teksto eilutes: 159 1190 1674 
+Zodis: partisan, Teksto eilutes: 273 1237 1759 
+Zodis: fair, Teksto eilutes: 537 661 1077 1423 
+Zodis: closest, Teksto eilutes: 302 1062 
+Zodis: metrica, Teksto eilutes: 531 
+Zodis: sign, Teksto eilutes: 310 1061 1062 
+Zodis: remigijus, Teksto eilutes: 308 692 
+Zodis: body, Teksto eilutes: 109 769 780 
+Zodis: influenced, Teksto eilutes: 483 490 799 
+Zodis: houses, Teksto eilutes: 302 509 815 819 827 833 934 1170 1534 
+Zodis: efforts, Teksto eilutes: 186 880 
+Zodis: painted, Teksto eilutes: 162 810 1054 1056 
+Zodis: wikimedia, Teksto eilutes: 1775 1786 1788 
+Zodis: flats, Teksto eilutes: 302 815 821 823 833 1532 
+Zodis: tallest, Teksto eilutes: 302 890 
+Zodis: pūčkoriai, Teksto eilutes: 716 842 
+Zodis: traditions, Teksto eilutes: 491 626 657 1689 
+Zodis: importance, Teksto eilutes: 302 799 1333 1719 
+Zodis: europa, Teksto eilutes: 302 829 890 1239 
+Zodis: space, Teksto eilutes: 302 304 505 509 
+Zodis: renamed, Teksto eilutes: 549 594 
+Zodis: hundreds, Teksto eilutes: 316 661 
+Zodis: f, Teksto eilutes: 329 331 333 339 353 367 381 395 409 423 452 1382 
+Zodis: rezultatai, Teksto eilutes: 1264 1374 1499 1571 
+Zodis: became, Teksto eilutes: 244 251 273 308 596 605 618 628 686 692 880 1045 1054 
+Zodis: part, Teksto eilutes: 207 253 263 273 289 579 594 634 782 805 818 819 827 833 842 992 1026 1050 1126 1145 1244 1325 1327 1329 
+Zodis: conditions, Teksto eilutes: 287 308 618 903 1333 
+Zodis: commercial, Teksto eilutes: 302 605 829 905 953 1194 
+Zodis: kavli, Teksto eilutes: 930 1618 
+Zodis: constitution, Teksto eilutes: 298 633 634 640 
+Zodis: panevėžys, Teksto eilutes: 319 1145 
+Zodis: mention, Teksto eilutes: 618 646 
+Zodis: television, Teksto eilutes: 298 1192 1241 1242 1244 
+Zodis: liberty, Teksto eilutes: 291 1673 
+Zodis: electric, Teksto eilutes: 1156 1160 
+Zodis: troops, Teksto eilutes: 298 673 1330 
+Zodis: result, Teksto eilutes: 298 657 760 1154 
+Zodis: centre, Teksto eilutes: 140 207 216 273 291 302 304 317 475 505 509 537 555 795 805 819 823 829 844 888 891 900 914 916 918 922 924 926 928 934 941 945 950 1040 1050 1077 1141 1180 1259 1270 1275 1277 1280 1350 1378 1635 1667 
+Zodis: covered, Teksto eilutes: 192 1071 
+Zodis: elements, Teksto eilutes: 586 588 628 
+Zodis: restore, Teksto eilutes: 298 854 
+Zodis: events, Teksto eilutes: 297 479 509 659 667 782 1050 1073 1077 1085 1447 
+Zodis: johns, Teksto eilutes: 797 961 
+Zodis: decades, Teksto eilutes: 295 302 854 
+Zodis: maciej, Teksto eilutes: 523 579 1262 
+Zodis: those, Teksto eilutes: 475 646 1085 1672 
+Zodis: last, Teksto eilutes: 295 302 329 549 636 690 854 895 1785 
+Zodis: constructed, Teksto eilutes: 295 1106 
+Zodis: mickiewicz, Teksto eilutes: 517 522 523 
+Zodis: network, Teksto eilutes: 289 1148 1285 
+Zodis: extensive, Teksto eilutes: 289 1148 
+Zodis: stotis, Teksto eilutes: 782 1518 
+Zodis: departments, Teksto eilutes: 504 505 918 
+Zodis: public, Teksto eilutes: 289 308 509 543 590 626 634 648 690 748 769 778 903 916 926 939 950 954 992 994 1071 1073 1128 1147 1154 1158 1160 1170 1640 1725 1735 
+Zodis: via, Teksto eilutes: 289 1679 
+Zodis: historically, Teksto eilutes: 626 767 1077 1160 
+Zodis: eškin, Teksto eilutes: 289 324 706 735 823 1124 
+Zodis: palms, Teksto eilutes: 661 754 
+Zodis: baltupiai, Teksto eilutes: 289 699 
+Zodis: municipalities, Teksto eilutes: 146 688 747 748 1671 
+Zodis: attempts, Teksto eilutes: 854 930 
+Zodis: irmūnai, Teksto eilutes: 289 708 740 821 
+Zodis: antakalnis, Teksto eilutes: 289 581 700 721 777 818 821 1054 1085 
+Zodis: routledge, Teksto eilutes: 1325 1383 1521 1583 
+Zodis: druskininkai, Teksto eilutes: 603 1096 
+Zodis: lumière, Teksto eilutes: 543 
+Zodis: practice, Teksto eilutes: 561 844 
+Zodis: program, Teksto eilutes: 287 585 
+Zodis: map, Teksto eilutes: 91 94 95 96 698 747 865 1382 1720 
+Zodis: paupys, Teksto eilutes: 287 832 
+Zodis: industrial, Teksto eilutes: 287 289 650 905 1597 
+Zodis: offensive, Teksto eilutes: 275 281 
+Zodis: rural, Teksto eilutes: 287 688 748 897 901 
+Zodis: e.g, Teksto eilutes: 287 475 477 479 523 543 577 586 588 605 626 634 638 646 657 750 797 799 803 815 819 823 844 882 935 1042 1096 1178 1261 
+Zodis: kurie, Teksto eilutes: 1459 
+Zodis: nicholas, Teksto eilutes: 475 1017 
+Zodis: particularly, Teksto eilutes: 287 333 803 805 
+Zodis: thousand, Teksto eilutes: 853 918 
+Zodis: grow, Teksto eilutes: 287 846 858 884 
+Zodis: members, Teksto eilutes: 253 283 680 760 1237 
+Zodis: s, Teksto eilutes: 287 479 509 588 605 827 829 853 1040 1061 1073 1085 1156 1261 1313 1379 1383 1552 1680 
+Zodis: leader, Teksto eilutes: 302 574 1085 1609 
+Zodis: sapieha, Teksto eilutes: 474 477 531 937 
+Zodis: months, Teksto eilutes: 286 780 
+Zodis: visited, Teksto eilutes: 286 1050 1091 1096 1098 
+Zodis: siberia, Teksto eilutes: 283 605 
+Zodis: composers, Teksto eilutes: 561 577 579 
+Zodis: victory, Teksto eilutes: 261 794 1061 1062 1730 
+Zodis: reserve, Teksto eilutes: 324 
+Zodis: media, Teksto eilutes: 40 1187 1390 1775 
+Zodis: founder, Teksto eilutes: 574 916 996 
+Zodis: fights, Teksto eilutes: 280 505 
+Zodis: valdyba, Teksto eilutes: 780 1516 
+Zodis: kgb, Teksto eilutes: 280 1077 
+Zodis: officers, Teksto eilutes: 275 765 778 
+Zodis: high-rise, Teksto eilutes: 295 823 
+Zodis: incorporated, Teksto eilutes: 275 596 854 
+Zodis: centuries, Teksto eilutes: 475 483 493 505 579 588 618 626 628 646 657 846 874 1056 1261 1598 1691 
+Zodis: whose, Teksto eilutes: 555 626 
+Zodis: bell, Teksto eilutes: 69 70 
+Zodis: brama, Teksto eilutes: 275 1353 
+Zodis: iurlionis, Teksto eilutes: 505 579 974 983 
+Zodis: secondary, Teksto eilutes: 972 975 
+Zodis: clashes, Teksto eilutes: 275 1330 
+Zodis: were, Teksto eilutes: 146 159 179 209 216 222 228 244 251 253 261 269 273 275 283 287 289 302 304 308 310 477 479 517 523 531 543 545 549 561 586 588 590 594 596 605 618 620 634 636 638 645 646 648 650 674 676 680 690 692 778 780 782 795 803 805 827 829 833 842 844 846 853 854 856 862 866 872 874 880 882 895 901 910 979 1050 1056 1058 1062 1085 1094 1098 1148 1150 1152 1154 1156 1160 1170 1317 1327 1334 
+Zodis: caused, Teksto eilutes: 275 287 620 
+Zodis: ak, Teksto eilutes: 275 
+Zodis: out, Teksto eilutes: 228 253 618 823 880 918 956 977 1353 
+Zodis: press, Teksto eilutes: 517 605 1194 1296 1313 1316 1317 1319 1323 1328 1329 1335 1336 1344 1346 1347 1352 1353 1375 1376 1412 1464 1569 1643 1759 1772 
+Zodis: mythological, Teksto eilutes: 477 483 
+Zodis: both, Teksto eilutes: 275 477 519 636 805 872 1083 1162 1327 
+Zodis: between, Teksto eilutes: 196 269 275 283 302 588 866 874 897 901 1325 1772 
+Zodis: speed, Teksto eilutes: 275 939 1130 
+Zodis: rebels, Teksto eilutes: 605 854 1240 
+Zodis: founded, Teksto eilutes: 275 517 565 914 994 
+Zodis: territorial, Teksto eilutes: 275 1178 
+Zodis: history, Teksto eilutes: 14 15 55 159 168 169 171 302 505 533 795 841 842 862 962 1037 1040 1096 1297 1305 1333 1334 1352 1412 1434 1482 1521 1553 1581 1598 1649 
+Zodis: situation, Teksto eilutes: 275 517 603 1672 
+Zodis: soviets, Teksto eilutes: 263 269 1364 
+Zodis: murdered, Teksto eilutes: 273 1077 
+Zodis: strong, Teksto eilutes: 273 903 
+Zodis: kristina, Teksto eilutes: 579 1493 
+Zodis: avenue, Teksto eilutes: 301 581 683 765 767 769 829 916 949 950 994 1194 
+Zodis: geggel, Teksto eilutes: 1678 1679 
+Zodis: news, Teksto eilutes: 1645 1679 1758 
+Zodis: organization, Teksto eilutes: 273 565 914 1237 1386 1786 
+Zodis: live, Teksto eilutes: 509 545 565 750 815 819 1678 1679 
+Zodis: failed, Teksto eilutes: 273 275 853 
+Zodis: rise, Teksto eilutes: 620 833 
+Zodis: winter, Teksto eilutes: 273 328 
+Zodis: daily, Teksto eilutes: 367 381 395 
+Zodis: highest, Teksto eilutes: 302 752 769 771 778 829 833 897 903 935 1113 
+Zodis: labour, Teksto eilutes: 273 690 895 
+Zodis: headquartered, Teksto eilutes: 335 581 674 950 954 1192 1196 
+Zodis: forced, Teksto eilutes: 273 856 
+Zodis: key, Teksto eilutes: 895 1330 
+Zodis: guardian, Teksto eilutes: 1281 1321 1363 1373 
+Zodis: provides, Teksto eilutes: 916 981 994 1111 
+Zodis: trends, Teksto eilutes: 646 650 
+Zodis: book, Teksto eilutes: 317 515 517 519 527 537 841 910 1020 1056 1423 
+Zodis: landscapes, Teksto eilutes: 483 491 
+Zodis: large, Teksto eilutes: 273 287 289 310 646 760 782 795 819 823 833 842 858 880 935 992 1040 1073 
+Zodis: up, Teksto eilutes: 273 618 646 918 
+Zodis: set, Teksto eilutes: 273 605 1040 1761 
+Zodis: temperature, Teksto eilutes: 329 
+Zodis: money, Teksto eilutes: 505 945 1150 1152 
+Zodis: nazis, Teksto eilutes: 273 1237 1679 
+Zodis: reconstructed, Teksto eilutes: 603 679 829 1062 
+Zodis: front, Teksto eilutes: 273 275 1327 
+Zodis: same, Teksto eilutes: 273 618 650 680 1096 1174 1323 
+Zodis: dusk, Teksto eilutes: 789 888 
+Zodis: adorn, Teksto eilutes: 533 648 
+Zodis: crisis, Teksto eilutes: 308 1329 1521 
+Zodis: belarus, Teksto eilutes: 192 263 287 748 795 862 1094 1139 1230 1317 1346 1569 
+Zodis: launched, Teksto eilutes: 273 607 650 652 1158 1194 
+Zodis: qualified, Teksto eilutes: 935 
+Zodis: ltdf, Teksto eilutes: 272 275 
+Zodis: when, Teksto eilutes: 62 159 179 253 650 674 789 795 827 829 853 1054 1154 
+Zodis: plechavičius, Teksto eilutes: 272 275 
+Zodis: areas, Teksto eilutes: 269 287 289 620 634 688 815 897 901 928 1071 1096 1272 1614 1636 
+Zodis: far, Teksto eilutes: 269 880 
+Zodis: funded, Teksto eilutes: 517 794 
+Zodis: there, Teksto eilutes: 146 265 302 517 523 545 549 588 598 680 748 754 778 780 815 819 842 866 874 882 914 922 968 975 979 1026 1040 1077 1111 1128 1148 1154 1162 1180 1261 1328 1673 1731 
+Zodis: abolition, Teksto eilutes: 620 
+Zodis: arrested, Teksto eilutes: 269 275 
+Zodis: theatre, Teksto eilutes: 545 563 581 583 585 586 588 590 593 594 596 598 966 
+Zodis: created, Teksto eilutes: 269 477 605 650 910 916 930 935 962 1331 
+Zodis: newly, Teksto eilutes: 269 497 531 1126 1331 
+Zodis: territory, Teksto eilutes: 192 216 263 609 618 795 827 829 842 856 880 1324 
+Zodis: performed, Teksto eilutes: 579 585 586 590 603 676 1102 
+Zodis: installed, Teksto eilutes: 269 497 607 1050 
+Zodis: eidintas, Teksto eilutes: 1319 1327 
+Zodis: poverty, Teksto eilutes: 897 1170 
+Zodis: more, Teksto eilutes: 269 281 287 298 302 495 545 648 815 821 823 850 853 916 1042 1094 1111 1236 
+Zodis: liubavas, Teksto eilutes: 505 756 
+Zodis: kulturos, Teksto eilutes: 1480 
+Zodis: darius, Teksto eilutes: 1461 1574 1769 
+Zodis: vilnensis, Teksto eilutes: 207 1262 
+Zodis: records, Teksto eilutes: 317 329 994 
+Zodis: operating, Teksto eilutes: 265 916 
+Zodis: northern, Teksto eilutes: 211 789 841 850 862 1061 1062 1772 
+Zodis: fabijoniškės, Teksto eilutes: 289 702 722 823 1242 1246 
+Zodis: august, Teksto eilutes: 265 269 331 663 962 1113 1150 1152 1266 1276 1280 1285 1287 1288 1289 1314 1384 1385 1396 1478 1495 1496 1497 1522 1523 1524 1525 1526 1527 1528 1529 1531 1532 1533 1534 1535 1536 1538 1539 1547 1548 1549 1550 1574 1593 1597 1598 1611 1636 1637 1638 1639 1640 1641 1642 1644 1661 1675 1678 1679 1683 1700 1701 1702 1703 1704 1708 1709 1710 1712 1713 1722 1733 1748 1756 1764 
+Zodis: hydrographic, Teksto eilutes: 324 
+Zodis: lt, Teksto eilutes: 491 1520 
+Zodis: english, Teksto eilutes: 146 159 186 248 545 549 586 652 862 964 1170 1296 1646 1674 1778 
+Zodis: naujoji, Teksto eilutes: 263 716 729 842 
+Zodis: reign, Teksto eilutes: 175 183 842 844 849 866 
+Zodis: cinema, Teksto eilutes: 539 540 542 545 548 549 
+Zodis: visit, Teksto eilutes: 1046 1096 
+Zodis: annual, Teksto eilutes: 297 329 571 574 667 935 1073 1605 
+Zodis: military, Teksto eilutes: 263 966 1297 
+Zodis: preserved, Teksto eilutes: 531 789 797 
+Zodis: presence, Teksto eilutes: 263 1026 1030 1335 
+Zodis: assistance, Teksto eilutes: 263 640 782 880 916 
+Zodis: dailės, Teksto eilutes: 1394 1395 
+Zodis: highways, Teksto eilutes: 319 1145 
+Zodis: lietuvi, Teksto eilutes: 594 1262 1298 1303 1339 1341 1394 1418 1460 1738 1742 1766 
+Zodis: ssr, Teksto eilutes: 263 269 298 829 880 
+Zodis: minsk, Teksto eilutes: 263 874 1143 1230 
+Zodis: food, Teksto eilutes: 620 1100 
+Zodis: labor, Teksto eilutes: 263 856 
+Zodis: continued, Teksto eilutes: 491 531 884 1325 
+Zodis: growing, Teksto eilutes: 289 620 799 
+Zodis: magnus, Teksto eilutes: 841 966 
+Zodis: local, Teksto eilutes: 263 477 479 561 626 628 778 803 874 1259 1333 
+Zodis: forests, Teksto eilutes: 184 819 1237 
+Zodis: imašius, Teksto eilutes: 308 690 692 1493 
+Zodis: applied, Teksto eilutes: 505 1403 
+Zodis: butvydas, Teksto eilutes: 175 842 
+Zodis: emerged, Teksto eilutes: 183 827 
+Zodis: constant, Teksto eilutes: 823 910 
+Zodis: shortly, Teksto eilutes: 242 854 
+Zodis: kilometres, Teksto eilutes: 317 748 905 
+Zodis: brothers, Teksto eilutes: 543 1172 
+Zodis: bonfires, Teksto eilutes: 297 659 
+Zodis: devastated, Teksto eilutes: 183 263 850 
+Zodis: algirdas, Teksto eilutes: 183 577 585 588 866 1029 1294 
+Zodis: plague, Teksto eilutes: 211 850 
+Zodis: ordered, Teksto eilutes: 531 615 636 827 
+Zodis: or, Teksto eilutes: 62 63 148 244 253 283 287 302 319 475 523 596 646 650 674 676 810 815 821 833 856 895 897 901 916 922 954 956 985 1022 1030 1050 1058 1062 1100 1115 1152 1194 1262 1370 1673 
+Zodis: been, Teksto eilutes: 179 218 283 302 329 475 525 569 618 661 895 964 1030 1045 1077 1085 1124 1152 1154 1260 
+Zodis: science, Teksto eilutes: 209 907 914 916 928 975 991 1333 1678 1679 
+Zodis: collection, Teksto eilutes: 509 910 994 1407 
+Zodis: ramius, Teksto eilutes: 1235 
+Zodis: bolingbroke, Teksto eilutes: 186 
+Zodis: ruthenian, Teksto eilutes: 209 515 628 634 636 866 1029 
+Zodis: left, Teksto eilutes: 183 645 803 1327 
+Zodis: definition, Teksto eilutes: 317 880 
+Zodis: findings, Teksto eilutes: 177 505 
+Zodis: memoirs, Teksto eilutes: 603 1328 
+Zodis: franciscan, Teksto eilutes: 175 1024 1058 1190 
+Zodis: increases, Teksto eilutes: 308 833 
+Zodis: urbino, Teksto eilutes: 1160 1164 1165 
+Zodis: graves, Teksto eilutes: 222 1085 
+Zodis: elected, Teksto eilutes: 308 690 692 
+Zodis: dukes, Teksto eilutes: 175 189 196 204 310 505 561 563 586 618 795 797 842 1400 1459 
+Zodis: kino, Teksto eilutes: 553 555 1424 1425 1426 
+Zodis: establishment, Teksto eilutes: 207 234 
+Zodis: skyline, Teksto eilutes: 295 789 888 
+Zodis: austria, Teksto eilutes: 154 304 810 1220 1245 
+Zodis: jakub, Teksto eilutes: 216 519 
+Zodis: king, Teksto eilutes: 175 186 192 207 561 771 842 
+Zodis: politicians, Teksto eilutes: 261 821 
+Zodis: at, Teksto eilutes: 163 184 186 192 213 242 251 273 298 316 317 474 477 525 531 537 561 563 569 579 581 586 607 618 634 636 674 680 765 767 789 795 810 844 862 888 895 897 975 1022 1045 1046 1053 1062 1085 1124 1150 1267 1271 1323 1325 1326 1327 1330 1552 1672 1780 1783 1785 
+Zodis: castles, Teksto eilutes: 175 795 
+Zodis: among, Teksto eilutes: 216 269 626 638 646 821 874 897 901 910 935 939 964 1024 1040 1104 1262 1645 
+Zodis: connection, Teksto eilutes: 533 1100 
+Zodis: mindaugas, Teksto eilutes: 175 316 588 842 1736 
+Zodis: guide, Teksto eilutes: 170 1777 
+Zodis: east, Teksto eilutes: 628 799 805 862 1315 1328 
+Zodis: belt, Teksto eilutes: 645 807 
+Zodis: meters, Teksto eilutes: 509 829 
+Zodis: region, Teksto eilutes: 145 183 196 207 244 248 251 253 287 594 878 880 901 1789 
+Zodis: present, Teksto eilutes: 337 609 618 1643 
+Zodis: lukiškės, Teksto eilutes: 543 1056 1076 1077 1244 
+Zodis: tuskenis, Teksto eilutes: 1319 1327 
+Zodis: extent, Teksto eilutes: 251 308 317 
+Zodis: expected, Teksto eilutes: 218 302 310 
+Zodis: neighbouring, Teksto eilutes: 287 
+Zodis: forms, Teksto eilutes: 477 479 
+Zodis: railway, Teksto eilutes: 505 1141 1143 
+Zodis: us, Teksto eilutes: 127 129 1409 1428 1435 1480 1496 1602 1603 1609 1610 1745 
+Zodis: broad, Teksto eilutes: 509 533 
+Zodis: find, Teksto eilutes: 198 1658 
+Zodis: park, Teksto eilutes: 568 569 713 819 905 914 916 937 1070 1073 1081 1083 1597 
+Zodis: j, Teksto eilutes: 1347 1382 1475 1476 1577 1741 
+Zodis: choral, Teksto eilutes: 569 1039 
+Zodis: march, Teksto eilutes: 286 298 659 661 690 1258 1281 1298 1299 1300 1303 1307 1310 1311 1321 1351 1361 1365 1366 1367 1374 1418 1432 1439 1440 1449 1460 1465 1475 1479 1481 1493 1540 1541 1571 1574 1580 1589 1599 1600 1601 1643 1646 1671 1714 1758 
+Zodis: provinces, Teksto eilutes: 1552 1580 
+Zodis: mikhail, Teksto eilutes: 228 286 
+Zodis: kontush, Teksto eilutes: 645 646 
+Zodis: hospitals, Teksto eilutes: 1172 1180 
+Zodis: germans, Teksto eilutes: 179 273 275 
+Zodis: you, Teksto eilutes: 165 1786 
+Zodis: prestigious, Teksto eilutes: 815 819 974 
+Zodis: music, Teksto eilutes: 509 548 557 558 561 569 574 575 577 581 663 966 1073 1440 
+Zodis: remaining, Teksto eilutes: 283 531 1085 1160 
+Zodis: costs, Teksto eilutes: 815 819 1104 1162 1706 
+Zodis: hunt, Teksto eilutes: 163 1235 
+Zodis: remained, Teksto eilutes: 177 216 253 531 829 858 874 895 939 1329 
+Zodis: nkvd, Teksto eilutes: 269 281 
+Zodis: translated, Teksto eilutes: 519 1353 1552 
+Zodis: main, Teksto eilutes: 2 169 302 304 495 542 555 579 611 618 628 645 778 795 797 836 850 888 903 922 935 953 964 1024 1050 1124 1138 1248 1278 1757 
+Zodis: wide, Teksto eilutes: 234 509 821 
+Zodis: elderships, Teksto eilutes: 105 695 698 992 1242 1255 
+Zodis: occupations, Teksto eilutes: 280 505 805 
+Zodis: law, Teksto eilutes: 525 648 765 880 926 970 
+Zodis: coordinates, Teksto eilutes: 58 98 565 1050 
+Zodis: continuously, Teksto eilutes: 517 895 
+Zodis: howling, Teksto eilutes: 163 189 
+Zodis: hill, Teksto eilutes: 163 316 795 862 1058 
+Zodis: w, Teksto eilutes: 1261 1314 1340 1552 1770 
+Zodis: artistic, Teksto eilutes: 490 495 
+Zodis: modern-day, Teksto eilutes: 192 
+Zodis: however, Teksto eilutes: 192 216 261 588 620 626 640 680 795 799 805 815 821 829 833 842 846 850 866 872 874 882 895 897 975 1050 1096 1156 1178 1353 
+Zodis: image, Teksto eilutes: 1054 1056 1674 
+Zodis: location, Teksto eilutes: 93 184 316 317 1675 
+Zodis: rus, Teksto eilutes: 628 866 
+Zodis: pašilaičiai, Teksto eilutes: 289 701 731 823 
+Zodis: soviet–lithuanian, Teksto eilutes: 242 880 
+Zodis: theatrical, Teksto eilutes: 545 586 
+Zodis: kind, Teksto eilutes: 525 1172 
+Zodis: near, Teksto eilutes: 163 221 297 317 495 765 823 869 1030 1056 1081 1160 
+Zodis: jurga, Teksto eilutes: 493 523 
+Zodis: sacred, Teksto eilutes: 163 479 
+Zodis: vasa, Teksto eilutes: 563 586 810 
+Zodis: duke, Teksto eilutes: 163 179 183 189 190 192 207 561 563 603 618 636 638 680 771 803 810 827 844 849 866 962 1029 
+Zodis: many, Teksto eilutes: 159 198 209 213 228 273 283 308 310 505 509 523 577 581 661 765 803 815 964 1020 1030 1050 1096 1154 1194 1259 1261 1262 1673 
+Zodis: romas, Teksto eilutes: 175 577 
+Zodis: occupied, Teksto eilutes: 211 237 269 281 795 827 1324 
+Zodis: white, Teksto eilutes: 317 650 1073 
+Zodis: found, Teksto eilutes: 475 497 571 646 842 1026 1040 1317 1678 1679 
+Zodis: mikołaj, Teksto eilutes: 517 673 
+Zodis: technologijos, Teksto eilutes: 916 1619 
+Zodis: written, Teksto eilutes: 179 561 586 628 634 795 872 994 1552 1672 
+Zodis: where, Teksto eilutes: 163 287 522 586 805 810 897 979 1054 1071 1077 1085 1092 1235 1673 
+Zodis: two, Teksto eilutes: 184 186 192 273 286 295 302 648 680 765 872 901 903 956 1085 1242 1331 
+Zodis: five, Teksto eilutes: 514 918 977 1160 
+Zodis: surrounding, Teksto eilutes: 244 333 
+Zodis: germany, Teksto eilutes: 261 1040 1094 1208 1209 
+Zodis: institution, Teksto eilutes: 509 782 916 994 996 1170 1434 
+Zodis: death, Teksto eilutes: 661 680 1552 
+Zodis: folklore, Teksto eilutes: 530 535 
+Zodis: great, Teksto eilutes: 183 192 196 211 233 234 475 561 615 625 626 634 799 805 846 850 866 874 977 1030 1243 1300 1583 1761 
+Zodis: widely, Teksto eilutes: 331 634 636 657 754 1040 
+Zodis: black, Teksto eilutes: 650 795 
+Zodis: i, Teksto eilutes: 159 196 198 218 236 237 676 680 827 856 877 1045 1310 1322 1340 1359 1504 1552 1616 1738 1771 1781 1790 1793 
+Zodis: naktos, Teksto eilutes: 1480 
+Zodis: under, Teksto eilutes: 183 244 249 275 525 596 638 684 850 853 854 1054 1174 1314 1326 1328 1330 1384 1786 
+Zodis: can, Teksto eilutes: 333 782 916 
+Zodis: prohibited, Teksto eilutes: 253 680 
+Zodis: once, Teksto eilutes: 159 281 585 854 880 1040 1150 1235 
+Zodis: although, Teksto eilutes: 159 244 491 665 844 1042 1139 1172 1236 
+Zodis: vok, Teksto eilutes: 324 717 
+Zodis: poor, Teksto eilutes: 287 819 827 
+Zodis: issn, Teksto eilutes: 1369 1687 1738 
+Zodis: lublin, Teksto eilutes: 192 636 872 
+Zodis: metres, Teksto eilutes: 551 752 
+Zodis: europe, Teksto eilutes: 96 145 150 152 154 199 273 317 475 515 525 551 579 615 782 789 795 807 909 910 964 1022 1126 1148 1174 1324 1330 1333 1335 1368 1373 1378 1379 1521 
+Zodis: vilnia, Teksto eilutes: 159 163 166 184 263 317 665 716 729 795 842 862 1058 
+Zodis: nipiškės, Teksto eilutes: 73 707 736 826 827 829 888 953 1083 1539 
+Zodis: granted, Teksto eilutes: 104 192 674 676 945 1096 
+Zodis: hebrew, Teksto eilutes: 159 209 
+Zodis: included, Teksto eilutes: 224 588 680 1020 
+Zodis: uceu, Teksto eilutes: 156 1286 
+Zodis: religion, Teksto eilutes: 31 32 680 1000 1003 1026 1034 1675 
+Zodis: filmed, Teksto eilutes: 543 1241 1242 1243 1244 1245 1246 
+Zodis: minority, Teksto eilutes: 228 251 
+Zodis: suburbs, Teksto eilutes: 263 903 
+Zodis: therefore, Teksto eilutes: 166 640 648 821 866 
+Zodis: bociański, Teksto eilutes: 253 
+Zodis: e, Teksto eilutes: 58 98 317 1145 1301 1328 1465 
+Zodis: rulers, Teksto eilutes: 165 192 588 
+Zodis: vytautas, Teksto eilutes: 183 192 475 491 577 588 625 626 866 874 930 966 977 1300 1319 1327 1358 1553 1557 1576 1581 
+Zodis: radar, Teksto eilutes: 1040 1678 1679 
+Zodis: concert, Teksto eilutes: 565 1434 
+Zodis: stock, Teksto eilutes: 903 950 996 
+Zodis: did, Teksto eilutes: 198 275 298 646 827 842 872 1328 
+Zodis: viešojo, Teksto eilutes: 1723 1725 1734 
+Zodis: major, Teksto eilutes: 154 263 319 509 784 844 891 966 1040 1073 1145 1154 1285 1609 
+Zodis: others, Teksto eilutes: 598 815 844 964 970 1024 1493 
+Zodis: architectural, Teksto eilutes: 150 605 827 
+Zodis: sent, Teksto eilutes: 179 269 298 
+Zodis: soviet, Teksto eilutes: 242 263 269 273 275 277 278 281 287 298 495 523 596 620 686 858 1062 1085 1106 1237 1326 1336 1363 1364 1546 
+Zodis: presented, Teksto eilutes: 561 1058 1160 
+Zodis: principles, Teksto eilutes: 596 680 
+Zodis: karoliniškės, Teksto eilutes: 289 295 709 725 823 1192 
+Zodis: armed, Teksto eilutes: 241 676 
+Zodis: entitled, Teksto eilutes: 509 996 
+Zodis: thousands, Teksto eilutes: 222 661 842 856 1050 1132 
+Zodis: literature, Teksto eilutes: 511 512 527 530 533 535 992 1420 
+Zodis: than, Teksto eilutes: 302 833 850 853 866 895 916 1094 1111 
+Zodis: war, Teksto eilutes: 152 192 211 236 237 242 253 257 263 265 283 491 620 673 676 805 844 850 856 877 882 1056 1061 1062 1240 1241 1300 1328 1329 1344 
+Zodis: forbidden, Teksto eilutes: 648 
+Zodis: upper, Teksto eilutes: 204 304 316 795 
+Zodis: latvian, Teksto eilutes: 159 569 
+Zodis: grand, Teksto eilutes: 163 171 172 175 177 179 183 189 190 192 196 199 204 207 209 218 222 310 475 479 505 515 519 525 531 561 563 569 586 617 618 628 634 636 638 680 767 771 789 795 797 803 810 827 842 844 849 853 854 865 866 961 962 1029 1056 1064 1110 1111 1170 1239 1400 1459 1507 
+Zodis: detailed, Teksto eilutes: 479 1390 
+Zodis: during, Teksto eilutes: 175 186 192 194 209 211 216 221 222 228 237 242 244 273 281 302 329 331 333 477 479 495 586 594 618 620 667 673 674 676 680 765 780 782 795 805 823 827 829 842 844 846 849 850 854 856 866 872 874 880 1040 1046 1066 1073 1085 1094 1111 1170 1260 1262 1344 
+Zodis: stretching, Teksto eilutes: 795 829 
+Zodis: lkl, Teksto eilutes: 1122 
+Zodis: john, Teksto eilutes: 179 1020 1024 1046 1066 
+Zodis: after, Teksto eilutes: 150 163 175 177 192 216 228 242 244 251 260 261 265 269 275 283 295 317 490 491 543 551 561 590 596 598 620 686 794 805 850 853 854 858 866 872 882 891 910 1062 1081 1552 1673 
+Zodis: ruler, Teksto eilutes: 165 674 676 
+Zodis: small, Teksto eilutes: 186 228 251 598 620 795 827 922 1026 1042 
+Zodis: interest, Teksto eilutes: 263 1034 1379 
+Zodis: kaunas, Teksto eilutes: 251 319 878 895 897 901 903 916 1096 1139 1145 
+Zodis: already, Teksto eilutes: 152 265 586 618 645 650 782 829 866 882 1020 1170 
+Zodis: named, Teksto eilutes: 150 154 545 829 1260 
+Zodis: choir, Teksto eilutes: 569 
+Zodis: mikalojus, Teksto eilutes: 519 579 1415 
+Zodis: men, Teksto eilutes: 186 650 676 1468 
+Zodis: mostly, Teksto eilutes: 477 760 767 795 823 827 846 862 882 1242 1260 
+Zodis: based, Teksto eilutes: 509 695 945 1030 1122 
+Zodis: th–17th, Teksto eilutes: 646 846 1261 
+Zodis: romeris, Teksto eilutes: 966 998 
+Zodis: along, Teksto eilutes: 159 190 263 304 569 645 1026 1073 1085 
+Zodis: together, Teksto eilutes: 154 242 680 799 823 
+Zodis: museums, Teksto eilutes: 501 502 505 1399 
+Zodis: fuelled, Teksto eilutes: 901 903 
+Zodis: teams, Teksto eilutes: 1122 1124 1126 
+Zodis: since, Teksto eilutes: 253 329 531 569 586 603 607 618 645 646 676 680 799 829 846 858 895 897 903 943 945 1026 1030 1040 1042 1045 1050 1124 1162 1260 1383 
+Zodis: a, Teksto eilutes: 150 156 159 163 165 170 175 177 183 186 192 196 211 218 228 242 244 248 251 253 255 263 269 273 275 287 289 291 298 302 304 308 316 317 329 333 479 495 497 499 509 515 531 533 543 549 569 579 586 588 596 598 605 607 626 628 638 648 657 665 674 676 680 684 686 690 692 695 711 750 754 758 760 765 775 782 794 795 799 802 803 805 810 814 819 821 823 827 829 833 841 846 854 858 862 865 866 872 874 880 895 897 901 910 914 918 921 922 926 928 935 945 950 956 968 974 992 994 996 1020 1022 1026 1030 1032 1034 1040 1042 1050 1054 1056 1058 1061 1062 1077 1081 1083 1085 1091 1092 1096 1098 1102 1106 1111 1115 1139 1141 1143 1145 1150 1152 1154 1156 1158 1160 1162 1172 1174 1180 1237 1238 1239 1240 1242 1246 1259 1260 1261 1262 1283 1297 1317 1324 1325 1328 1329 1353 1373 1377 1418 1521 1552 1672 1673 1730 1738 1759 1763 1777 1781 1786 
+Zodis: summit, Teksto eilutes: 154 307 310 312 1375 1377 
+Zodis: declared, Teksto eilutes: 150 237 295 495 
+Zodis: rivers, Teksto eilutes: 184 317 333 618 795 842 862 1071 
+Zodis: paintings, Teksto eilutes: 475 491 
+Zodis: relations, Teksto eilutes: 251 866 1583 
+Zodis: restoration, Teksto eilutes: 218 598 620 778 858 884 
+Zodis: glass, Teksto eilutes: 605 618 918 
+Zodis: absolute, Teksto eilutes: 253 302 
+Zodis: towns, Teksto eilutes: 41 150 748 750 1198 1199 1225 
+Zodis: on, Teksto eilutes: 62 165 183 186 194 196 222 234 237 242 244 251 263 265 269 273 286 287 289 298 302 310 316 317 495 509 514 525 533 545 549 563 590 620 625 659 661 695 698 769 823 827 842 862 880 901 910 928 945 962 996 1034 1058 1062 1073 1081 1106 1158 1160 1162 1174 1194 1266 1272 1275 1276 1277 1279 1281 1282 1285 1286 1287 1300 1311 1314 1318 1320 1321 1325 1327 1329 1351 1354 1362 1363 1369 1372 1374 1378 1380 1384 1393 1396 1405 1406 1415 1418 1423 1432 1437 1440 1456 1459 1462 1463 1466 1468 1480 1503 1506 1510 1511 1517 1518 1519 1528 1529 1537 1540 1541 1550 1560 1570 1573 1575 1579 1582 1599 1611 1618 1635 1638 1639 1640 1642 1645 1652 1662 1665 1675 1680 1684 1714 1719 1720 1722 1725 1727 1733 1735 1747 1785 
+Zodis: resistance, Teksto eilutes: 1237 1344 
+Zodis: jerusalem, Teksto eilutes: 87 152 1040 1258 1281 1779 
+Zodis: through, Teksto eilutes: 152 190 263 283 795 1102 1156 
+Zodis: center, Teksto eilutes: 148 242 263 295 505 509 620 777 795 829 998 1106 1606 
+Zodis: company, Teksto eilutes: 594 918 945 1609 
+Zodis: communist, Teksto eilutes: 283 1077 1085 
+Zodis: nazi, Teksto eilutes: 261 273 1040 
+Zodis: statistics, Teksto eilutes: 148 833 985 1092 1098 1271 1287 1548 1570 1571 1588 1623 1671 1700 
+Zodis: crown, Teksto eilutes: 209 317 
+Zodis: women, Teksto eilutes: 186 648 1172 
+Zodis: given, Teksto eilutes: 263 549 648 1050 
+Zodis: united, Teksto eilutes: 273 918 1205 1216 1237 
+Zodis: office, Teksto eilutes: 611 765 778 900 954 
+Zodis: ft, Teksto eilutes: 115 302 833 998 
+Zodis: smaller, Teksto eilutes: 273 289 866 
+Zodis: according, Teksto eilutes: 148 154 163 228 251 531 640 646 648 679 765 833 854 858 862 866 874 880 884 910 1058 1092 1096 1115 1259 1671 
+Zodis: gelbėjimo, Teksto eilutes: 780 1516 1517 
+Zodis: just, Teksto eilutes: 854 1396 
+Zodis: teutonic, Teksto eilutes: 186 844 
+Zodis: permanent, Teksto eilutes: 146 509 1288 1368 1406 
+Zodis: card, Teksto eilutes: 992 1150 1152 
+Zodis: kingdom, Teksto eilutes: 172 177 209 216 842 
+Zodis: juliusz, Teksto eilutes: 523 594 1446 
+Zodis: member, Teksto eilutes: 156 680 690 1111 
+Zodis: portrait, Teksto eilutes: 477 603 1287 
+Zodis: southeastern, Teksto eilutes: 148 317 
+Zodis: stayed, Teksto eilutes: 1045 1066 1094 1115 
+Zodis: artworks, Teksto eilutes: 505 509 966 
+Zodis: commonwealth, Teksto eilutes: 152 159 192 201 202 207 211 216 617 648 805 850 854 872 909 910 962 
+Zodis: fdi's, Teksto eilutes: 154 1283 
+Zodis: vol, Teksto eilutes: 1289 1348 1674 1781 
+Zodis: values, Teksto eilutes: 758 1637 1639 
+Zodis: parks, Teksto eilutes: 33 1068 1071 1100 
+Zodis: rome, Teksto eilutes: 87 1045 1259 
+Zodis: of, Teksto eilutes: 77 78 81 83 84 85 87 91 94 95 96 102 140 146 148 150 152 154 156 159 163 165 166 169 170 171 172 174 175 177 179 183 184 186 189 190 192 194 196 198 199 204 207 209 211 213 216 218 222 224 226 228 231 233 234 237 241 242 244 248 249 251 253 258 260 261 263 265 269 272 273 275 280 283 287 289 291 295 297 298 302 304 307 308 310 316 317 321 329 333 335 472 474 475 477 479 483 490 491 495 497 499 502 504 505 509 515 517 519 522 523 525 527 530 531 533 535 540 542 543 549 551 555 558 560 561 563 569 571 574 575 577 579 581 585 586 588 594 596 598 603 605 607 609 611 615 617 618 620 626 628 633 634 636 638 640 645 646 648 650 656 657 659 661 663 671 673 674 676 680 684 686 688 690 692 698 745 747 748 750 752 754 756 758 760 765 767 769 771 778 780 782 784 789 792 794 795 797 799 802 803 805 807 810 814 815 818 819 821 823 826 827 829 833 836 841 842 844 846 850 853 854 856 858 861 862 865 866 869 872 874 877 878 880 882 884 890 891 893 895 897 901 903 909 910 914 916 918 921 922 924 926 928 930 935 937 939 941 943 945 949 950 953 954 956 961 962 966 968 970 974 975 977 983 985 987 991 992 994 996 998 1001 1017 1019 1020 1022 1024 1026 1029 1030 1032 1034 1037 1039 1040 1046 1049 1050 1054 1056 1058 1061 1062 1064 1071 1073 1077 1085 1089 1091 1092 1094 1096 1098 1102 1106 1111 1115 1122 1124 1126 1128 1132 1134 1139 1141 1143 1145 1148 1150 1152 1154 1156 1160 1162 1170 1172 1174 1178 1180 1189 1192 1194 1196 1199 1235 1237 1240 1242 1243 1244 1245 1248 1249 1253 1254 1255 1256 1258 1259 1260 1261 1262 1271 1281 1282 1283 1285 1286 1287 1290 1313 1315 1316 1317 1319 1321 1324 1325 1326 1327 1328 1329 1330 1331 1333 1334 1335 1336 1344 1346 1347 1348 1352 1353 1363 1364 1368 1369 1370 1372 1373 1375 1376 1377 1378 1379 1380 1382 1384 1400 1403 1411 1438 1450 1459 1464 1506 1507 1508 1511 1521 1552 1564 1567 1569 1570 1571 1577 1586 1588 1598 1620 1621 1623 1627 1632 1672 1673 1674 1678 1679 1684 1689 1690 1719 1730 1764 1767 1771 1779 1781 1784 1786 1787 
+Zodis: báthory, Teksto eilutes: 207 771 
+Zodis: gediminas, Teksto eilutes: 67 68 163 166 174 179 189 190 194 301 316 317 505 561 581 586 765 767 769 789 815 844 849 862 866 914 924 935 949 966 994 998 1081 1194 1290 
+Zodis: outskirts, Teksto eilutes: 287 827 
+Zodis: years, Teksto eilutes: 186 211 213 302 316 329 569 620 661 794 833 842 850 862 866 901 939 975 1154 1319 1347 
+Zodis: limited, Teksto eilutes: 844 1139 
+Zodis: its, Teksto eilutes: 69 70 150 152 159 192 209 211 213 216 221 237 244 253 263 273 283 298 302 304 317 509 517 551 555 569 581 618 628 634 676 758 760 778 789 795 799 802 854 874 877 890 903 905 935 945 950 962 964 994 996 998 1040 1077 1122 1160 1172 1236 1261 1327 1493 1696 1719 
+Zodis: well, Teksto eilutes: 179 287 289 509 618 626 646 827 829 866 964 1143 1154 1242 1261 
+Zodis: nationality, Teksto eilutes: 1316 1771 1781 
+Zodis: fifth, Teksto eilutes: 255 807 
+Zodis: editing, Teksto eilutes: 63 930 
+Zodis: m, Teksto eilutes: 115 302 479 505 833 974 983 998 1194 1333 1339 1341 1355 1356 1358 1362 1382 1472 1494 1499 1563 1571 1589 1768 
+Zodis: renovated, Teksto eilutes: 302 304 821 823 1696 
+Zodis: inios, Teksto eilutes: 1190 
+Zodis: signed, Teksto eilutes: 310 680 872 1154 1160 1326 1327 1328 1329 1331 1376 
+Zodis: point, Teksto eilutes: 317 452 561 1143 1145 
+Zodis: celebration, Teksto eilutes: 248 304 
+Zodis: martynas, Teksto eilutes: 994 1170 1600 1738 
+Zodis: settlement, Teksto eilutes: 175 795 842 862 
+Zodis: schools, Teksto eilutes: 253 263 620 935 943 962 966 975 977 979 981 987 1026 
+Zodis: references, Teksto eilutes: 45 46 1257 1766 
+Zodis: church, Teksto eilutes: 77 78 175 209 472 474 475 477 479 505 517 527 618 659 792 794 797 805 810 827 842 869 961 1017 1019 1024 1026 1030 1046 1056 1062 1064 
+Zodis: old, Teksto eilutes: 71 72 150 179 209 273 287 495 505 508 509 527 533 598 628 676 680 715 734 765 789 795 805 814 815 821 827 833 874 964 975 1006 1026 1030 1077 1085 1089 1100 1111 1152 1259 1402 1699 
+Zodis: crispr, Teksto eilutes: 930 1618 
+Zodis: coronation, Teksto eilutes: 175 842 
+Zodis: emerging, Teksto eilutes: 175 302 
+Zodis: surrounded, Teksto eilutes: 184 758 819 1050 1077 
+Zodis: prospered, Teksto eilutes: 209 849 850 
+Zodis: squares, Teksto eilutes: 33 795 1068 
+Zodis: jonas, Teksto eilutes: 491 509 930 966 1085 
+Zodis: palace, Teksto eilutes: 75 76 189 196 199 204 297 310 505 508 530 548 561 563 581 590 603 765 767 769 795 797 805 818 827 829 1077 1106 1400 1459 1501 
+Zodis: free, Teksto eilutes: 4 59 310 549 974 975 992 1160 1178 1663 
+Zodis: ogiński, Teksto eilutes: 579 
+Zodis: increasing, Teksto eilutes: 302 941 
+Zodis: transactions, Teksto eilutes: 676 833 903 
+Zodis: forest, Teksto eilutes: 163 283 
+Zodis: read, Teksto eilutes: 53 64 1330 
+Zodis: lew, Teksto eilutes: 474 477 531 
+Zodis: legend, Teksto eilutes: 163 1050 1058 1290 
+Zodis: historic, Teksto eilutes: 140 177 623 795 797 805 815 860 861 1270 1277 1280 
+Zodis: here, Teksto eilutes: 60 1024 
+Zodis: paid, Teksto eilutes: 646 1663 
+Zodis: april, Teksto eilutes: 63 216 495 1294 1332 1390 1399 1400 1401 1402 1403 1404 1410 1415 1429 1491 1493 1497 1570 1598 1647 1648 1649 1680 1698 1716 1725 1728 
+Zodis: russian, Teksto eilutes: 159 209 213 215 216 226 228 234 514 522 590 596 684 850 853 854 866 874 910 964 1030 1085 1190 1288 1289 1317 1564 1778 
+Zodis: passengers, Teksto eilutes: 1148 1160 
+Zodis: including, Teksto eilutes: 179 186 263 302 475 509 527 581 598 805 829 970 977 1077 1150 1172 1190 1192 1244 1246 1262 1324 
+Zodis: various, Teksto eilutes: 159 263 483 569 575 667 765 795 803 877 1022 1085 1150 1162 1261 1552 
+Zodis: tower, Teksto eilutes: 67 68 69 70 298 302 505 789 815 829 890 1081 1192 1194 
+Zodis: multiple, Teksto eilutes: 62 183 499 517 646 1243 1244 
+Zodis: mo, Teksto eilutes: 509 551 1410 
+Zodis: administrative, Teksto eilutes: 302 695 769 1784 
+Zodis: hall, Teksto eilutes: 79 80 221 273 549 590 674 679 795 797 934 1077 
+Zodis: numerous, Teksto eilutes: 244 495 509 1024 1071 1077 1190 
+Zodis: banks, Teksto eilutes: 302 888 953 956 1073 1642 
+Zodis: trys, Teksto eilutes: 1436 1728 
+Zodis: seized, Teksto eilutes: 244 263 1331 
+Zodis: belarusian, Teksto eilutes: 159 253 628 
+Zodis: von, Teksto eilutes: 874 1580 
+Zodis: neither, Teksto eilutes: 244 1156 
+Zodis: these, Teksto eilutes: 62 179 186 287 289 298 543 628 645 674 799 810 815 833 874 901 992 998 1024 1094 1154 1329 
+Zodis: huge, Teksto eilutes: 163 803 
+Zodis: metro, Teksto eilutes: 114 122 123 126 1156 1727 1728 
+Zodis: neris, Teksto eilutes: 163 184 302 316 317 509 765 795 818 827 842 862 1058 1073 1139 1719 
+Zodis: called, Teksto eilutes: 152 244 527 549 551 827 910 1259 1261 1262 1730 
+Zodis: egl, Teksto eilutes: 493 1705 
+Zodis: goldsmiths, Teksto eilutes: 618 
+Zodis: present-day, Teksto eilutes: 177 514 767 795 803 856 862 866 1194 
+Zodis: books, Teksto eilutes: 475 477 517 531 1330 1676 
+Zodis: tourism, Teksto eilutes: 34 35 308 1087 1350 1700 
+Zodis: tomasz, Teksto eilutes: 204 1336 
+Zodis: defense, Teksto eilutes: 242 275 
+Zodis: settle, Teksto eilutes: 179 1327 
+Zodis: especially, Teksto eilutes: 331 618 797 815 945 1261 1262 
+Zodis: rustem, Teksto eilutes: 485 490 
+Zodis: central, Teksto eilutes: 74 199 244 251 289 605 615 787 789 956 991 992 998 1126 1379 1669 
+Zodis: gatvės, Teksto eilutes: 574 575 
+Zodis: uses, Teksto eilutes: 60 918 
+Zodis: language, Teksto eilutes: 515 519 527 588 590 622 623 625 626 628 631 634 640 872 874 
+Zodis: cathedral, Teksto eilutes: 69 70 194 204 241 475 477 625 659 797 799 802 805 810 977 1024 1029 1064 1077 1111 1460 
+Zodis: for, Teksto eilutes: 60 63 150 152 159 163 165 170 186 196 204 213 218 234 263 269 273 289 302 308 316 317 337 475 497 505 509 522 549 569 579 594 607 618 626 646 648 661 663 665 676 690 758 765 771 778 782 784 805 807 815 821 833 872 877 878 882 903 905 910 916 918 922 924 926 930 935 943 950 954 962 979 1019 1029 1040 1061 1062 1073 1081 1094 1096 1104 1111 1126 1134 1139 1160 1162 1167 1168 1172 1178 1235 1329 1333 1373 1388 1493 1552 1632 1645 1672 1680 1711 1719 1730 1733 1761 1766 1777 
+Zodis: mamontovas, Teksto eilutes: 574 577 
+Zodis: naujamiestis, Teksto eilutes: 287 497 714 727 821 
+Zodis: may, Teksto eilutes: 63 64 333 338 517 633 634 815 1370 1371 1372 1374 1425 1618 1654 1671 1675 1678 1680 1681 1697 1698 1705 1714 1725 1760 1786 
+Zodis: occurred, Teksto eilutes: 211 228 795 1552 
+Zodis: jo, Teksto eilutes: 1359 1360 
+Zodis: sun, Teksto eilutes: 337 468 
+Zodis: opportunities, Teksto eilutes: 895 
+Zodis: every, Teksto eilutes: 569 652 659 665 858 998 1054 1132 1148 1178 
+Zodis: business, Teksto eilutes: 73 74 302 748 787 829 900 914 922 934 950 970 
+Zodis: wilna, Teksto eilutes: 60 159 1768 
+Zodis: trolleybuses, Teksto eilutes: 289 1148 1154 1160 1164 1165 1732 
+Zodis: things, Teksto eilutes: 269 1244 1762 
+Zodis: theresa, Teksto eilutes: 77 78 
+Zodis: cold, Teksto eilutes: 333 
+Zodis: skaryna, Teksto eilutes: 515 1411 
+Zodis: leading, Teksto eilutes: 206 950 985 1106 1330 
+Zodis: wealthiest, Teksto eilutes: 579 815 891 
+Zodis: vilna, Teksto eilutes: 60 146 159 179 216 258 684 799 854 874 1040 1085 1237 1328 1329 1330 1564 1673 1759 1779 
+Zodis: captured, Teksto eilutes: 186 273 602 
+Zodis: capital, Teksto eilutes: 66 102 112 117 146 154 165 177 179 183 190 237 251 260 261 269 281 298 304 628 684 686 748 765 789 795 799 807 844 853 854 858 878 901 935 945 956 1239 1240 1262 1276 1324 1334 1369 1370 1372 1673 
+Zodis: international, Teksto eilutes: 251 509 718 934 937 943 945 970 987 1019 1122 1132 1138 1635 1658 1720 
+Zodis: airport, Teksto eilutes: 718 939 1100 1138 1141 1720 
+Zodis: former, Teksto eilutes: 280 508 797 829 1040 1225 
+Zodis: children, Teksto eilutes: 186 549 603 975 979 1172 1178 
+Zodis: prime, Teksto eilutes: 310 765 880 
+Zodis: deported, Teksto eilutes: 253 273 283 605 
+Zodis: right, Teksto eilutes: 183 645 680 765 
+Zodis: subsequently, Teksto eilutes: 253 269 1330 
+Zodis: growth, Teksto eilutes: 207 213 618 844 890 901 950 
+Zodis: privilege, Teksto eilutes: 625 676 680 
+Zodis: historian, Teksto eilutes: 175 626 646 874 
+Zodis: complex, Teksto eilutes: 206 302 504 505 934 1126 
+Zodis: gate, Teksto eilutes: 77 78 216 522 1026 1030 1049 1050 1062 
+Zodis: tools, Teksto eilutes: 10 57 618 
+Zodis: first, Teksto eilutes: 103 175 179 234 273 308 491 497 515 517 519 525 542 543 545 560 561 563 586 588 590 603 605 607 609 611 620 634 648 680 692 745 780 795 827 829 842 854 880 900 903 909 910 930 934 945 962 977 1019 1053 1054 1096 1148 1154 1170 1174 1185 1186 1190 1194 1260 1319 1320 1377 1564 1635 
+Zodis: her, Teksto eilutes: 561 1054 1237 
+Zodis: candidates, Teksto eilutes: 690 
+Zodis: significant, Teksto eilutes: 42 618 638 805 827 833 874 897 1040 1050 1077 1172 1234 
+Zodis: autumn, Teksto eilutes: 301 1160 
+Zodis: an, Teksto eilutes: 146 159 192 211 218 234 244 253 287 298 302 475 495 509 574 588 598 618 769 792 803 805 807 866 935 937 943 945 950 962 1026 1030 1066 1077 1132 1143 1150 1152 1156 1326 1327 1329 1605 1779 
+Zodis: larger, Teksto eilutes: 273 819 
+Zodis: talk, Teksto eilutes: 52 62 
+Zodis: despite, Teksto eilutes: 186 213 833 842 858 939 
+Zodis: taught, Teksto eilutes: 943 1235 
+Zodis: to, Teksto eilutes: 62 64 148 152 154 163 179 183 186 192 196 198 206 207 209 218 224 228 234 237 242 244 248 251 253 261 263 269 273 275 283 286 287 298 302 304 308 310 319 329 475 495 499 509 517 531 533 543 545 549 555 561 571 585 588 590 594 596 598 603 605 607 618 620 625 628 636 640 646 648 650 659 661 663 673 674 676 679 680 688 690 754 765 782 789 795 799 805 807 810 814 815 819 821 827 829 833 842 844 846 850 853 854 856 858 862 866 872 874 878 880 882 884 895 897 903 910 916 918 922 926 930 935 945 950 954 974 979 992 994 996 998 1030 1040 1042 1045 1046 1050 1054 1056 1058 1062 1066 1071 1073 1085 1092 1096 1100 1104 1106 1111 1115 1122 1130 1141 1143 1150 1152 1154 1160 1170 1172 1174 1178 1190 1192 1194 1235 1236 1237 1259 1260 1297 1323 1326 1327 1328 1329 1330 1331 1334 1353 1377 1493 1588 1643 1671 1672 1775 1782 1786 
+Zodis: unity, Teksto eilutes: 89 253 
+Zodis: nicknamed, Teksto eilutes: 228 673 
+Zodis: ii, Teksto eilutes: 142 152 196 199 253 257 263 475 491 586 636 676 805 849 856 882 1046 1066 1240 1328 1360 1681 
+Zodis: owned, Teksto eilutes: 565 833 
+Zodis: gates, Teksto eilutes: 196 542 1050 1696 
+Zodis: london, Teksto eilutes: 560 607 1020 1373 1672 1673 
+Zodis: illusion, Teksto eilutes: 545 
+Zodis: toggle, Teksto eilutes: 15 17 20 22 24 26 28 30 32 35 38 46 
+Zodis: less, Teksto eilutes: 479 618 833 874 
+Zodis: r, Teksto eilutes: 690 1301 1352 1465 1493 1567 1768 1772 
+Zodis: upon, Teksto eilutes: 163 1096 
+Zodis: this, Teksto eilutes: 62 63 64 165 177 186 213 234 261 273 275 298 302 317 333 477 479 483 491 509 519 525 543 549 603 676 782 795 807 827 850 862 880 895 901 935 1022 1040 1154 1160 1174 1178 1259 1262 1672 1733 1783 1785 1786 
+Zodis: older, Teksto eilutes: 159 531 823 
+Zodis: announced, Teksto eilutes: 298 636 
+Zodis: soon, Teksto eilutes: 207 224 275 827 872 
+Zodis: twin, Teksto eilutes: 41 1198 1199 1225 
+Zodis: homes, Teksto eilutes: 833 
+Zodis: exist, Teksto eilutes: 475 590 1139 
+Zodis: times, Teksto eilutes: 183 676 754 789 810 918 937 1022 1111 1170 1283 1364 
+Zodis: within, Teksto eilutes: 93 228 234 275 865 872 
+Zodis: geography, Teksto eilutes: 16 17 314 1022 1673 
+Zodis: rectified, Teksto eilutes: 1022 1673 
+Zodis: flag, Teksto eilutes: 81 82 1251 1252 
+Zodis: duchy, Teksto eilutes: 171 172 177 179 190 209 218 222 475 479 515 519 525 618 628 634 767 771 789 795 803 844 854 865 866 1056 1064 1170 1507 
+Zodis: record, Teksto eilutes: 302 339 423 833 878 895 
+Zodis: n, Teksto eilutes: 58 98 317 
+Zodis: parts, Teksto eilutes: 263 289 765 815 1673 
+Zodis: mean, Teksto eilutes: 353 367 381 395 409 466 468 
+Zodis: secular, Teksto eilutes: 479 517 525 
+Zodis: arts, Teksto eilutes: 505 509 966 1403 
+Zodis: too, Teksto eilutes: 64 827 1673 
+Zodis: linz, Teksto eilutes: 154 304 
+Zodis: sutartis, Teksto eilutes: 1337 1758 
+Zodis: billion, Teksto eilutes: 126 127 135 893 935 
+Zodis: beyond, Teksto eilutes: 146 1156 
+Zodis: locals, Teksto eilutes: 222 866 
+Zodis: current, Teksto eilutes: 233 234 688 1267 
+Zodis: transporto, Teksto eilutes: 1723 1725 1734 
+Zodis: city, Teksto eilutes: 66 101 104 109 112 117 135 146 148 150 152 159 165 166 175 177 179 192 196 199 209 213 216 222 226 228 237 242 244 251 255 263 275 283 289 295 298 302 304 308 321 329 333 479 549 563 569 571 590 598 626 656 663 667 670 674 676 680 683 684 686 688 692 747 765 778 780 782 803 814 815 819 823 829 842 846 849 850 854 856 862 872 874 877 878 882 884 888 891 893 905 937 964 977 979 992 1020 1022 1026 1058 1066 1077 1096 1102 1104 1122 1128 1130 1141 1156 1160 1170 1180 1239 1259 1262 1271 1287 1299 1317 1326 1331 1380 1553 1567 1581 1673 1700 1706 1757 1767 
+Zodis: th, Teksto eilutes: 118 143 154 186 196 206 211 213 216 228 302 472 475 477 479 483 491 493 509 531 548 561 579 586 588 605 618 620 626 628 634 645 650 680 745 795 797 810 826 827 842 844 846 854 866 869 874 1020 1022 1029 1030 1040 1050 1056 1081 1259 1260 1314 1329 1691 
+Zodis: session, Teksto eilutes: 143 543 
+Zodis: ministries, Teksto eilutes: 765 829 1506 
+Zodis: attraction, Teksto eilutes: 937 1625 
+Zodis: least, Teksto eilutes: 298 895 1045 
+Zodis: rūmai, Teksto eilutes: 1303 1659 
+Zodis: important, Teksto eilutes: 152 159 207 234 479 569 607 618 626 680 778 962 1026 1054 1122 1143 
+Zodis: aldona, Teksto eilutes: 561 
+Zodis: world, Teksto eilutes: 139 150 152 154 165 236 237 253 257 263 317 491 602 607 805 856 877 882 918 939 964 1022 1040 1134 1270 1275 1321 1323 1328 1344 1363 1382 1386 1627 1645 1673 
+Zodis: state, Teksto eilutes: 165 183 234 244 295 298 525 531 565 598 634 640 650 659 778 789 799 819 827 844 853 950 954 996 1040 1077 1111 1328 1334 1464 
+Zodis: delfi, Teksto eilutes: 1342 1493 1505 1514 1557 1608 1626 1629 1631 1686 1703 1724 1726 1729 1731 1734 1762 
+Zodis: exterminated, Teksto eilutes: 283 880 
+Zodis: disambiguation, Teksto eilutes: 60 
+Zodis: november, Teksto eilutes: 146 226 289 310 509 854 872 1160 1194 1258 1273 1274 1285 1286 1292 1297 1309 1343 1354 1362 1369 1375 1376 1378 1381 1391 1392 1393 1394 1395 1398 1405 1406 1407 1408 1409 1420 1423 1424 1442 1443 1444 1445 1447 1458 1483 1484 1485 1506 1540 1541 1560 1579 1582 1616 1642 1645 1651 1652 1654 1656 1657 1733 1749 1750 1751 1752 1753 1754 1755 
+Zodis: seat, Teksto eilutes: 148 179 549 765 1024 1122 
+Zodis: external, Teksto eilutes: 47 1773 
+Zodis: medals, Teksto eilutes: 477 782 
+Zodis: polish, Teksto eilutes: 159 207 209 228 242 244 251 253 263 275 514 549 579 590 620 626 634 636 760 846 866 872 874 880 1077 1085 1190 1260 1314 1316 1317 1322 1328 1330 1333 1340 1344 1552 1567 1768 1778 
+Zodis: pope, Teksto eilutes: 179 198 1046 1066 
+Zodis: access, Teksto eilutes: 922 998 
+Zodis: search, Teksto eilutes: 6 1258 
+Zodis: began, Teksto eilutes: 224 263 265 273 281 287 479 483 618 620 650 827 842 846 858 866 872 910 945 1054 1056 
+Zodis: sq, Teksto eilutes: 112 113 114 119 121 123 302 321 795 833 998 
+Zodis: holds, Teksto eilutes: 509 966 
+Zodis: whole, Teksto eilutes: 269 803 854 858 880 1045 1192 
+Zodis: issues, Teksto eilutes: 62 
+Zodis: pilies, Teksto eilutes: 206 514 795 871 
+Zodis: per, Teksto eilutes: 128 329 586 720 891 901 1054 1111 1365 1732 
+Zodis: regularly, Teksto eilutes: 273 1062 
+Zodis: athens, Teksto eilutes: 87 1260 
+Zodis: casimir's, Teksto eilutes: 661 
+Zodis: education, Teksto eilutes: 29 30 505 549 895 958 959 962 972 974 975 981 985 1172 1344 1657 
+Zodis: was, Teksto eilutes: 146 150 152 154 159 163 175 177 179 186 190 192 194 196 199 207 209 211 216 218 222 224 226 228 234 237 242 244 249 251 261 263 265 269 273 275 281 286 291 295 302 304 312 317 475 479 483 491 497 499 509 517 519 522 523 531 543 545 549 551 561 569 571 579 588 590 594 596 602 603 605 607 611 618 620 626 628 646 648 650 652 673 674 676 680 684 688 690 771 782 789 794 795 799 805 827 829 833 842 844 846 850 853 854 862 866 872 874 877 880 895 897 903 909 910 916 922 930 935 941 945 962 998 1020 1022 1030 1040 1045 1050 1054 1056 1061 1062 1077 1081 1083 1085 1104 1113 1134 1139 1150 1154 1158 1170 1174 1182 1183 1185 1186 1190 1194 1235 1241 1242 1243 1244 1245 1246 1260 1261 1262 1324 1325 1326 1327 1328 1329 1785 
+Zodis: area, Teksto eilutes: 111 134 146 251 302 321 720 795 807 827 829 842 891 998 1071 1073 1269 1325 
+Zodis: jews, Teksto eilutes: 179 228 638 648 750 846 866 1020 1037 1040 1261 1316 1334 
+Zodis: turniškės, Teksto eilutes: 700 765 819 1534 
+Zodis: draugija, Teksto eilutes: 1196 1394 1395 1739 1742 1755 
+Zodis: other, Teksto eilutes: 13 60 146 158 237 269 287 289 310 319 505 509 588 605 618 620 646 676 680 750 782 784 795 799 827 874 895 901 914 916 962 966 1013 1022 1026 1032 1058 1064 1085 1096 1100 1111 1113 1145 1162 1172 1194 1237 1255 1379 
+Zodis: numbers, Teksto eilutes: 269 302 698 878 1042 
+Zodis: camp, Teksto eilutes: 253 273 
+Zodis: are, Teksto eilutes: 302 331 333 475 477 479 483 493 509 514 523 531 535 563 640 657 659 661 690 692 695 748 750 752 754 756 765 769 778 792 797 810 815 819 821 823 829 833 842 862 888 901 918 922 935 956 964 968 970 975 977 979 992 996 998 1024 1026 1032 1042 1050 1062 1077 1096 1100 1111 1122 1128 1148 1154 1162 1178 1180 1192 1196 1672 1731 
+Zodis: documents, Teksto eilutes: 634 827 862 872 994 
+Zodis: coat, Teksto eilutes: 83 84 617 1253 
+Zodis: union, Teksto eilutes: 156 192 263 269 273 287 298 310 535 636 690 760 872 1026 1111 1130 1196 1286 1422 
+Zodis: economy, Teksto eilutes: 27 28 618 676 886 1115 1323 
+Zodis: neutrality, Teksto eilutes: 261 1329 
+Zodis: fell, Teksto eilutes: 163 853 856 895 
+Zodis: all, Teksto eilutes: 97 228 253 261 640 648 650 667 680 784 805 880 882 964 975 996 1045 1058 1062 1064 1094 1111 1122 1160 1327 1334 1672 
+Zodis: inscribed, Teksto eilutes: 569 805 
+Zodis: groups, Teksto eilutes: 569 874 1002 1032 1272 
+Zodis: languages, Teksto eilutes: 50 159 209 228 251 499 514 517 626 628 636 638 979 1194 1255 1261 1324 
+Zodis: preparation, Teksto eilutes: 304 1050 
+Zodis: sodas, Teksto eilutes: 1696 1698 
+Zodis: back, Teksto eilutes: 186 1396 
+Zodis: private, Teksto eilutes: 598 815 819 833 968 975 1180 
+Zodis: sister, Teksto eilutes: 41 1198 1199 
+Zodis: friars, Teksto eilutes: 1058 
+Zodis: page, Teksto eilutes: 62 585 1189 1284 1785 
+Zodis: napoleon, Teksto eilutes: 152 213 222 
+Zodis: presenting, Teksto eilutes: 509 533 
+Zodis: introduced, Teksto eilutes: 483 491 543 596 648 866 1148 1150 1730 
+Zodis: lff, Teksto eilutes: 1124 1714 
+Zodis: kraków, Teksto eilutes: 196 561 1214 1314 
+Zodis: soldiers, Teksto eilutes: 222 241 269 549 1085 
+Zodis: philharmonic, Teksto eilutes: 233 234 549 565 1434 
+Zodis: craftsmen, Teksto eilutes: 618 620 646 661 676 827 866 
+Zodis: see, Teksto eilutes: 44 60 146 170 273 502 512 540 558 623 671 787 1001 1037 1199 1249 1250 1672 
+Zodis: moved, Teksto eilutes: 196 287 590 1085 1194 
+Zodis: streets, Teksto eilutes: 289 575 661 795 805 815 823 866 1160 1731 
+Zodis: yiddish, Teksto eilutes: 159 209 228 251 874 
+Zodis: ukraine, Teksto eilutes: 192 310 795 1206 1207 1213 1297 1317 1336 1346 1569 
+Zodis: authors, Teksto eilutes: 527 533 596 605 874 1552 
+Zodis: who, Teksto eilutes: 175 495 515 523 527 533 565 603 605 646 754 815 844 862 866 880 882 979 1030 1050 1085 1094 1170 1172 
+Zodis: ceded, Teksto eilutes: 242 1328 
+Zodis: technical, Teksto eilutes: 914 924 935 966 998 
+Zodis: lietuv, Teksto eilutes: 1457 1619 1703 
+Zodis: popular, Teksto eilutes: 42 248 333 549 645 646 821 945 1073 1234 1262 
+Zodis: his, Teksto eilutes: 175 186 192 196 199 222 527 652 673 676 680 842 849 930 1040 1046 1235 
+Zodis: lands, Teksto eilutes: 165 183 275 628 795 1313 
+Zodis: cityscape, Teksto eilutes: 23 24 786 
+Zodis: c, Teksto eilutes: 163 329 331 333 339 353 367 381 395 409 423 452 474 579 603 1061 1382 1674 
+Zodis: savo, Teksto eilutes: 1311 1472 
+Zodis: rusiecki, Teksto eilutes: 482 490 
+Zodis: paneriai, Teksto eilutes: 273 505 717 730 
+Zodis: eurocities, Teksto eilutes: 156 1285 
+Zodis: st, Teksto eilutes: 77 78 472 474 475 477 479 493 579 618 661 754 792 794 797 805 827 926 961 1019 1030 1054 1056 1319 1684 1691 
+Zodis: code, Teksto eilutes: 132 134 
+Zodis: europe's, Teksto eilutes: 183 789 934 945 1635 
+Zodis: highly, Teksto eilutes: 251 477 618 935 1022 
+Zodis: centras, Teksto eilutes: 555 916 918 922 926 998 1050 1349 1545 1584 1615 1629 1653 
+Zodis: targeted, Teksto eilutes: 253 283 
+Zodis: eastern, Teksto eilutes: 199 269 275 310 515 782 789 799 977 1005 1026 1030 1174 1373 1375 1376 1521 1680 
+Zodis: taken, Teksto eilutes: 222 242 856 
+Zodis: quickly, Teksto eilutes: 273 872 
+Zodis: north, Teksto eilutes: 87 150 152 302 827 829 1259 1260 1281 
+Zodis: lesser, Teksto eilutes: 162 251 
+Zodis: such, Teksto eilutes: 255 302 319 475 561 602 603 628 646 648 680 815 968 1034 1071 1160 1172 1377 1672 
+Zodis: jewish, Teksto eilutes: 152 228 273 283 648 880 1010 1040 1042 1085 1106 1258 1281 1317 1328 1699 1779 1784 
+Zodis: water, Teksto eilutes: 807 1139 
+Zodis: wilno, Teksto eilutes: 60 159 251 1567 1790 
+Zodis: dawn, Teksto eilutes: 77 78 216 1030 1049 1050 
+Zodis: multicultural, Teksto eilutes: 152 626 797 846 877 
+Zodis: father, Teksto eilutes: 196 579 
+Zodis: again, Teksto eilutes: 222 242 287 620 854 858 872 1152 
+Zodis: muzikos, Teksto eilutes: 574 575 
+Zodis: sarbiewski, Teksto eilutes: 523 1262 
+Zodis: burned, Teksto eilutes: 211 1058 
+Zodis: tyrimas, Teksto eilutes: 1550 1701 1702 1704 1713 
+Zodis: zappa, Teksto eilutes: 497 1397 
+Zodis: warsaw, Teksto eilutes: 218 242 1224 1353 1768 
+Zodis: grodno, Teksto eilutes: 287 854 874 
+Zodis: palm, Teksto eilutes: 482 754 
+Zodis: arms, Teksto eilutes: 83 84 617 1253 
+Zodis: objects, Teksto eilutes: 778 803 
+Zodis: official, Teksto eilutes: 85 140 525 640 659 1317 1778 
+Zodis: estimated, Teksto eilutes: 146 
+Zodis: future, Teksto eilutes: 154 186 1160 1283 
+Zodis: greitosios, Teksto eilutes: 782 1518 
+Zodis: prices, Teksto eilutes: 821 833 1267 1735 
+Zodis: poška, Teksto eilutes: 1259 
+Zodis: subordinate, Teksto eilutes: 218 674 686 
+Zodis: being, Teksto eilutes: 251 261 302 586 680 829 850 858 1045 1085 1128 1143 1160 1235 
+Zodis: administration, Teksto eilutes: 21 22 253 273 669 683 1387 
+Zodis: philip, Teksto eilutes: 1056 1383 
+Zodis: move, Teksto eilutes: 283 866 945 
+Zodis: falling, Teksto eilutes: 853 854 
+Zodis: england, Teksto eilutes: 186 1352 
+Zodis: closed, Teksto eilutes: 226 551 605 1085 
+Zodis: iii, Teksto eilutes: 561 586 617 
+Zodis: stefan, Teksto eilutes: 249 805 
+Zodis: density, Teksto eilutes: 119 121 123 720 
+Zodis: him, Teksto eilutes: 163 1235 1259 
+Zodis: occupation, Teksto eilutes: 258 277 596 620 686 794 850 1040 1320 1364 
+Zodis: due, Teksto eilutes: 207 275 531 620 628 673 844 846 854 856 935 941 945 1170 
+Zodis: goštautas, Teksto eilutes: 477 525 527 615 1058 
+Zodis: took, Teksto eilutes: 186 216 218 233 263 477 525 561 850 1062 1170 1330 
+Zodis: population, Teksto eilutes: 116 146 152 211 228 251 263 273 283 289 720 750 760 837 839 846 854 858 874 880 882 884 895 897 985 1040 1259 1266 1271 1272 1567 1570 1571 1657 
+Zodis: college, Teksto eilutes: 970 998 
+Zodis: separate, Teksto eilutes: 244 531 711 
+Zodis: spaces, Teksto eilutes: 321 815 823 
+Zodis: rest, Teksto eilutes: 237 750 874 
+Zodis: light, Teksto eilutes: 304 918 
+Zodis: gothic, Teksto eilutes: 472 475 477 792 797 1026 
+Zodis: located, Teksto eilutes: 92 146 317 477 504 509 535 545 548 590 765 767 769 771 888 905 950 954 977 992 994 998 1024 1054 1062 1111 1178 1192 
+Zodis: night, Teksto eilutes: 163 667 676 1111 1148 
+Zodis: spread, Teksto eilutes: 479 605 
+Zodis: respublika, Teksto eilutes: 1190 1498 
+Zodis: užupis, Teksto eilutes: 495 715 815 1085 1091 1532 1699 
+Zodis: though, Teksto eilutes: 273 648 854 
+Zodis: formed, Teksto eilutes: 177 192 490 525 628 795 829 
+Zodis: marija, Teksto eilutes: 930 1546 
+Zodis: panorama, Teksto eilutes: 204 789 1771 1781 
+Zodis: states, Teksto eilutes: 95 148 258 509 537 833 872 890 891 900 918 1066 1106 1205 1216 1323 1325 1347 1583 
+Zodis: km, Teksto eilutes: 112 113 114 119 121 123 273 319 321 720 795 1141 
+Zodis: visits, Teksto eilutes: 586 827 1066 1111 
+Zodis: judaism, Teksto eilutes: 799 1036 1040 
+Zodis: type, Teksto eilutes: 108 141 745 1152 1174 
+Zodis: settled, Teksto eilutes: 163 192 846 1030 
+Zodis: edit, Teksto eilutes: 54 1783 
+Zodis: but, Teksto eilutes: 213 216 218 224 228 265 275 310 588 590 638 819 856 901 1194 1259 1325 1327 1331 1334 1365 1549 1673 
+Zodis: market, Teksto eilutes: 827 895 903 918 1267 1609 
+Zodis: average, Teksto eilutes: 302 329 437 451 452 467 833 893 895 901 1111 
+Zodis: istorijos, Teksto eilutes: 1301 1311 1338 1341 1457 1465 1545 1616 
+Zodis: financial, Teksto eilutes: 154 186 888 903 937 950 956 1283 1284 
+Zodis: pilgrimage, Teksto eilutes: 1044 1050 1054 1683 
+Zodis: demand, Teksto eilutes: 234 903 
+Zodis: himself, Teksto eilutes: 674 676 
+Zodis: town, Teksto eilutes: 71 72 79 80 150 221 273 281 287 495 508 509 533 590 674 679 688 711 715 734 765 789 795 797 805 814 815 821 964 1026 1030 1077 1089 1100 1111 1240 1271 
+Zodis: exhibitions, Teksto eilutes: 491 505 509 1081 1406 
+Zodis: russia, Teksto eilutes: 192 242 287 795 1094 1227 1228 1229 1231 1232 1233 1316 1326 
+Zodis: government, Teksto eilutes: 107 108 148 242 263 269 273 497 549 670 762 765 821 880 926 941 975 1588 
+Zodis: brought, Teksto eilutes: 211 1056 
+Zodis: heritage, Teksto eilutes: 139 150 505 569 797 805 827 994 1064 1096 1270 1275 1438 
+Zodis: around, Teksto eilutes: 499 795 815 821 827 833 842 844 846 856 862 880 903 939 1096 1111 1627 
+Zodis: common, Teksto eilutes: 159 638 862 1111 
+Zodis: traffic, Teksto eilutes: 289 778 815 823 
+Zodis: increase, Teksto eilutes: 903 1098 
+Zodis: considerations, Teksto eilutes: 218 224 
+Zodis: mayor, Teksto eilutes: 110 308 671 692 760 1493 
+Zodis: respectively, Teksto eilutes: 833 901 1092 
+Zodis: becoming, Teksto eilutes: 251 1042 
+Zodis: resulted, Teksto eilutes: 224 253 803 1160 
+Zodis: albertas, Teksto eilutes: 477 525 527 615 
+Zodis: the, Teksto eilutes: 59 62 87 146 148 150 152 154 156 159 163 165 166 174 175 177 179 183 184 186 189 190 192 194 196 198 199 204 206 207 209 211 213 215 216 218 221 222 224 226 228 231 233 234 237 241 242 244 248 249 251 253 255 258 260 261 263 265 269 272 273 275 280 281 283 286 287 289 291 295 297 298 302 304 307 308 310 312 316 317 319 321 329 331 333 335 472 475 477 479 483 490 491 493 495 497 499 504 505 508 509 514 515 517 519 522 525 527 530 531 533 535 537 542 543 545 548 549 551 553 555 560 561 563 565 569 571 574 575 577 579 581 586 588 590 594 596 598 602 603 605 607 609 611 615 617 618 620 625 626 628 633 634 636 638 640 645 646 648 650 652 656 657 659 661 663 665 667 673 674 676 679 680 683 684 686 688 690 692 695 698 745 748 750 752 754 756 760 765 767 769 771 777 778 780 782 784 789 792 794 795 797 799 802 803 805 807 810 814 815 818 819 821 823 826 827 829 833 841 842 844 846 849 850 853 854 856 858 862 865 866 869 872 874 877 878 880 882 884 888 890 891 893 895 897 900 901 903 905 909 910 913 914 916 918 921 922 924 926 928 930 934 935 937 939 941 943 945 949 950 953 954 956 961 962 964 966 975 977 979 983 985 991 992 994 996 998 1017 1019 1020 1022 1024 1026 1029 1030 1032 1034 1037 1040 1042 1045 1046 1049 1050 1053 1054 1056 1058 1061 1062 1064 1066 1071 1073 1077 1081 1085 1089 1091 1092 1094 1096 1098 1100 1102 1104 1106 1111 1113 1122 1124 1126 1128 1130 1132 1134 1139 1141 1143 1145 1148 1150 1152 1154 1156 1160 1170 1172 1174 1176 1178 1180 1182 1183 1185 1186 1189 1190 1192 1194 1196 1235 1236 1237 1238 1239 1240 1241 1243 1244 1246 1258 1259 1260 1261 1262 1271 1275 1276 1277 1279 1281 1282 1283 1284 1285 1286 1287 1290 1297 1300 1311 1313 1314 1315 1316 1317 1318 1319 1320 1321 1323 1324 1325 1326 1327 1328 1329 1330 1331 1333 1334 1335 1336 1344 1346 1347 1348 1350 1351 1352 1353 1354 1362 1363 1364 1369 1372 1373 1374 1375 1376 1378 1380 1382 1384 1393 1396 1400 1401 1402 1403 1405 1406 1408 1415 1418 1423 1432 1437 1438 1440 1456 1459 1462 1463 1464 1466 1468 1480 1493 1503 1506 1507 1508 1509 1510 1511 1517 1518 1519 1528 1529 1537 1540 1541 1550 1552 1560 1564 1569 1570 1573 1575 1579 1582 1583 1588 1599 1611 1627 1635 1638 1639 1640 1642 1643 1645 1652 1658 1662 1665 1666 1671 1672 1673 1674 1675 1676 1680 1684 1690 1696 1714 1719 1720 1722 1725 1727 1730 1731 1733 1735 1747 1761 1766 1769 1771 1779 1781 1784 1786 
+Zodis: autonomy, Teksto eilutes: 218 234 962 
+Zodis: demographics, Teksto eilutes: 25 26 835 836 842 854 
+Zodis: commander, Teksto eilutes: 272 1235 
+Zodis: july, Teksto eilutes: 116 146 242 275 281 329 331 543 880 994 1266 1271 1287 1305 1372 1389 1409 1462 1488 1501 1502 1503 1504 1505 1506 1508 1509 1510 1511 1512 1513 1515 1516 1517 1518 1519 1520 1591 1592 1594 1595 1596 1638 1660 1661 1662 1663 1664 1665 1666 1667 1668 1669 1711 1723 1724 1729 1735 
+Zodis: previously, Teksto eilutes: 146 287 310 795 805 1054 1081 1324 
+Zodis: almost, Teksto eilutes: 253 283 302 333 650 829 858 880 891 1071 1170 
+Zodis: belts, Teksto eilutes: 646 
+Zodis: latvia, Teksto eilutes: 1066 1094 1219 
+Zodis: is, Teksto eilutes: 92 146 148 150 154 156 159 165 177 234 302 317 319 321 329 333 335 490 491 495 504 509 515 525 537 553 555 565 569 571 577 581 598 603 607 615 640 646 652 656 663 665 688 690 745 748 754 760 765 767 769 778 780 782 784 789 794 795 805 807 827 829 833 844 846 880 890 891 897 900 901 903 905 909 914 916 918 921 922 928 930 935 937 943 945 950 954 962 964 974 975 977 983 985 992 994 996 998 1017 1024 1026 1030 1034 1040 1045 1050 1054 1056 1058 1062 1066 1071 1073 1077 1081 1085 1091 1094 1102 1106 1111 1122 1124 1126 1130 1132 1139 1141 1143 1145 1148 1152 1154 1172 1178 1190 1192 1200 1235 1236 1238 1239 1240 1259 1260 1281 1673 1733 1786 
+Zodis: dziejów, Teksto eilutes: 1771 1781 
+Zodis: residence, Teksto eilutes: 190 586 765 850 
+Zodis: peace, Teksto eilutes: 242 1241 1328 
+Zodis: another, Teksto eilutes: 273 680 983 1054 1073 1493 
+Zodis: association, Teksto eilutes: 310 1130 
+Zodis: vilnian, Teksto eilutes: 124 150 493 754 930 
+Zodis: oral, Teksto eilutes: 569 1438 
+Zodis: exclusion, Teksto eilutes: 897 
+Zodis: locations, Teksto eilutes: 543 1243 1244 1784 
+Zodis: grant, Teksto eilutes: 218 596 
+Zodis: monastery, Teksto eilutes: 522 827 1026 1030 1056 1058 
+Zodis: iron, Teksto eilutes: 162 163 165 189 618 
+Zodis: sparked, Teksto eilutes: 248 308 
+Zodis: involved, Teksto eilutes: 211 244 676 
+Zodis: dominated, Teksto eilutes: 479 789 799 1154 
+Zodis: rights, Teksto eilutes: 104 192 648 674 
+Zodis: suwałki, Teksto eilutes: 244 1323 1325 1326 1327 1328 1329 1330 1331 
+Zodis: hdi, Teksto eilutes: 136 1269 
+Zodis: issued, Teksto eilutes: 237 269 561 625 
+Zodis: very, Teksto eilutes: 136 287 333 569 634 752 1042 1102 1139 1160 1262 
+Zodis: killed, Teksto eilutes: 211 523 844 856 1058 1085 
+Zodis: thus, Teksto eilutes: 165 253 1327 
+Zodis: french, Teksto eilutes: 159 261 317 514 910 987 1580 
+Zodis: confluence, Teksto eilutes: 184 317 795 842 862 
+Zodis: criteria, Teksto eilutes: 142 1111 
+Zodis: demarcation, Teksto eilutes: 1325 1327 
+Zodis: composition, Teksto eilutes: 479 874 1586 
+Zodis: iv, Teksto eilutes: 142 186 563 586 626 810 1160 1239 1296 
+Zodis: fundamental, Teksto eilutes: 586 935 1621 
+Zodis: iauliai, Teksto eilutes: 319 1096 
+Zodis: latin, Teksto eilutes: 89 159 209 561 585 588 625 626 634 866 1029 1552 
+Zodis: no, Teksto eilutes: 144 545 618 626 650 680 1015 1022 1139 1673 1716 1781 
+Zodis: lithuanian, Teksto eilutes: 146 159 165 183 184 186 192 194 209 222 228 233 234 237 241 242 244 251 253 260 261 263 265 269 273 275 278 281 291 298 319 329 335 479 482 483 490 491 497 505 509 512 514 517 519 527 530 531 533 535 548 549 555 561 563 565 568 569 581 586 588 590 593 594 598 603 605 617 618 620 623 626 631 633 634 636 638 640 645 648 652 659 661 663 686 690 748 754 760 769 771 775 795 797 803 815 829 844 846 850 853 858 862 866 872 874 878 880 884 914 916 918 922 926 928 935 941 945 954 956 962 966 977 992 994 996 998 1040 1042 1050 1056 1058 1064 1077 1085 1092 1122 1126 1130 1176 1190 1194 1196 1237 1258 1259 1262 1273 1274 1278 1292 1298 1299 1300 1301 1302 1303 1304 1307 1310 1311 1314 1317 1323 1326 1327 1332 1334 1337 1338 1339 1341 1349 1351 1354 1356 1358 1362 1365 1366 1367 1384 1385 1391 1392 1404 1418 1422 1424 1425 1426 1434 1436 1437 1441 1448 1449 1450 1451 1452 1453 1454 1455 1456 1457 1458 1459 1460 1461 1462 1463 1465 1466 1467 1468 1469 1472 1473 1474 1475 1476 1478 1479 1483 1484 1485 1486 1487 1488 1489 1490 1492 1497 1500 1502 1506 1512 1513 1515 1527 1531 1536 1537 1538 1539 1540 1541 1547 1549 1550 1552 1553 1554 1556 1557 1558 1559 1571 1573 1574 1575 1577 1578 1581 1589 1590 1593 1599 1600 1601 1609 1610 1611 1619 1628 1633 1634 1636 1641 1652 1654 1662 1664 1665 1668 1671 1674 1681 1682 1687 1695 1696 1697 1698 1705 1707 1712 1715 1717 1723 1725 1727 1730 1731 1732 1733 1736 1738 1741 1742 1749 1756 1757 1758 1763 1769 1778 1784 
+Zodis: physicists, Teksto eilutes: 918 
+Zodis: students, Teksto eilutes: 549 914 916 922 964 966 998 1162 1178 
+Zodis: recorded, Teksto eilutes: 648 910 
+Zodis: suggested, Teksto eilutes: 253 910 
+Zodis: painters, Teksto eilutes: 477 483 493 
+Zodis: later, Teksto eilutes: 177 192 273 286 590 594 618 648 674 676 795 803 842 846 854 866 985 1050 1194 
+Zodis: as, Teksto eilutes: 146 150 152 163 179 183 192 198 211 213 218 222 234 237 244 253 255 269 273 275 287 289 298 302 304 317 319 475 495 509 517 527 561 569 579 618 626 638 646 657 676 690 695 760 765 769 789 799 807 815 818 819 827 829 842 844 846 858 866 874 880 893 895 937 939 956 962 964 968 985 994 996 1020 1022 1034 1040 1061 1062 1071 1081 1104 1111 1126 1143 1154 1160 1170 1235 1238 1259 1260 1261 1344 1493 1672 
+Zodis: early, Teksto eilutes: 171 228 275 475 477 561 579 618 650 810 829 1040 1297 
+Zodis: geomorphological, Teksto eilutes: 324 
+Zodis: overview, Teksto eilutes: 533 1651 
+Zodis: control, Teksto eilutes: 192 224 260 596 850 853 854 1783 
+Zodis: chapel, Teksto eilutes: 802 803 826 1049 1050 1062 
+Zodis: landscape, Teksto eilutes: 324 605 
+Zodis: vilnius's, Teksto eilutes: 146 184 207 275 333 594 602 780 827 849 1040 1071 1145 1260 
+Zodis: lietuvos, Teksto eilutes: 555 769 926 954 994 996 1122 1190 1192 1196 1264 1268 1300 1311 1332 1349 1362 1391 1392 1417 1419 1430 1442 1443 1444 1448 1459 1462 1486 1503 1504 1545 1557 1558 1559 1561 1562 1571 1584 1585 1588 1631 1641 1653 1655 1670 1707 1714 1727 1744 1754 1755 1789 
+Zodis: strategic, Teksto eilutes: 190 1376 1639 
+Zodis: frank, Teksto eilutes: 497 579 1174 1397 
+Zodis: hosted, Teksto eilutes: 154 310 1073 
+Zodis: order, Teksto eilutes: 186 242 563 676 769 778 805 844 926 1096 1733 
+Zodis: vilniaus, Teksto eilutes: 248 594 748 778 780 782 815 918 922 992 998 1050 1148 1190 1262 1273 1274 1292 1299 1301 1307 1309 1341 1351 1354 1393 1395 1424 1425 1445 1450 1451 1454 1455 1465 1481 1485 1487 1488 1489 1497 1499 1500 1516 1517 1526 1527 1531 1538 1545 1547 1553 1573 1574 1575 1581 1589 1599 1616 1617 1628 1659 1668 1701 1702 1704 1712 1713 1723 1724 1728 1730 1732 1739 1742 1746 1747 1753 1757 1763 1789 
+Zodis: photo, Teksto eilutes: 307 605 
+Zodis: lost, Teksto eilutes: 213 283 626 856 874 1321 1328 
+Zodis: invasion, Teksto eilutes: 261 263 
+Zodis: year, Teksto eilutes: 186 302 329 333 338 650 659 665 858 983 1094 1132 1174 1271 1364 
+Zodis: specialized, Teksto eilutes: 618 966 
+Zodis: their, Teksto eilutes: 165 186 192 224 308 317 477 479 531 561 596 605 620 626 638 680 765 782 794 823 827 833 844 846 866 872 914 935 956 979 998 1042 1050 1066 1111 1160 1170 1172 1334 
+Zodis: residents, Teksto eilutes: 146 211 287 676 750 795 799 815 819 821 833 854 856 858 862 866 874 878 882 884 1058 1071 1178 1671 
+Zodis: recognized, Teksto eilutes: 251 579 596 
+Zodis: down, Teksto eilutes: 248 833 846 
+Zodis: date, Teksto eilutes: 468 1389 
+Zodis: movies, Teksto eilutes: 543 545 
+Zodis: charge, Teksto eilutes: 992 1160 
+Zodis: built, Teksto eilutes: 166 175 196 287 289 302 551 745 795 827 829 1017 1029 1030 1040 1061 1062 1154 
+Zodis: modernism, Teksto eilutes: 491 1546 
+Zodis: centred, Teksto eilutes: 897 1034 1040 
+Zodis: ban, Teksto eilutes: 590 596 
+Zodis: have, Teksto eilutes: 198 218 244 329 475 477 531 533 581 618 620 646 657 765 810 895 901 979 1040 1042 1045 1071 1085 1150 1152 1154 1160 1178 1552 
+Zodis: offering, Teksto eilutes: 823 974 1104 
+Zodis: fdi, Teksto eilutes: 937 1283 1625 
+Zodis: january, Teksto eilutes: 228 286 297 298 329 333 603 605 659 782 854 858 945 996 1085 1270 1272 1275 1277 1278 1281 1282 1316 1320 1321 1359 1360 1363 1365 1368 1373 1380 1396 1431 1437 1461 1468 1469 1470 1471 1472 1474 1498 1554 1555 1556 1557 1558 1559 1560 1561 1562 1563 1573 1575 1576 1577 1578 1579 1582 1583 1589 1660 1663 1670 1677 1685 1718 1720 1736 1741 
+Zodis: tv, Teksto eilutes: 298 505 1192 1194 1245 1246 1705 1750 1751 
+Zodis: v, Teksto eilutes: 954 1054 1238 1681 1746 
+Zodis: repressions, Teksto eilutes: 226 281 287 
+Zodis: league, Teksto eilutes: 244 291 866 1122 1326 1329 1330 1331 
+Zodis: hundred, Teksto eilutes: 163 866 
+Zodis: benefits, Teksto eilutes: 186 901 
+Zodis: learn, Teksto eilutes: 62 1096 
+Zodis: further, Teksto eilutes: 172 202 209 226 258 269 278 490 618 743 866 
+Zodis: oro, Teksto eilutes: 1628 1705 
+Zodis: armée, Teksto eilutes: 221 222 
+Zodis: luxurious, Teksto eilutes: 586 646 648 815 819 1111 
+Zodis: starting, Teksto eilutes: 692 1145 
+Zodis: mykolas, Teksto eilutes: 523 966 998 
+Zodis: crusaders, Teksto eilutes: 186 
+Zodis: army, Teksto eilutes: 186 211 226 237 242 244 260 263 268 269 275 281 758 
+Zodis: rule, Teksto eilutes: 216 522 
+Zodis: architecture, Teksto eilutes: 150 479 790 792 794 803 1026 1546 1604 1719 
+Zodis: over, Teksto eilutes: 186 224 234 251 263 275 333 477 533 549 551 626 667 680 750 752 794 797 827 874 901 910 914 918 964 998 1148 1154 1323 
+Zodis: works, Teksto eilutes: 475 477 479 490 491 588 930 
+Zodis: includes, Teksto eilutes: 302 688 699 700 701 702 708 713 714 715 716 717 718 719 1026 1062 
+Zodis: attributes, Teksto eilutes: 329 645 
+Zodis: branch, Teksto eilutes: 509 618 935 1034 
+Zodis: vad, Teksto eilutes: 1540 1541 
+Zodis: before, Teksto eilutes: 152 213 275 674 680 692 829 846 1017 1328 1507 
+Zodis: laboratories, Teksto eilutes: 916 922 
+Zodis: six, Teksto eilutes: 186 794 975 1111 
+Zodis: cost, Teksto eilutes: 186 815 821 
+Zodis: wear, Teksto eilutes: 648 650 
+Zodis: scale, Teksto eilutes: 289 1377 
+Zodis: elections, Teksto eilutes: 680 690 692 1491 
+Zodis: registers, Teksto eilutes: 148 866 
+Zodis: monument, Teksto eilutes: 189 317 1058 1085 
+Zodis: protection, Teksto eilutes: 196 778 
+Zodis: euros, Teksto eilutes: 815 819 833 
+Zodis: lrt, Teksto eilutes: 1192 
+Zodis: denmark, Teksto eilutes: 1202 
+Zodis: protests, Teksto eilutes: 308 310 
+Zodis: following, Teksto eilutes: 218 226 265 269 287 866 878 880 884 1154 
+Zodis: blessed, Teksto eilutes: 1054 
+Zodis: land, Teksto eilutes: 874 905 
+Zodis: gods, Teksto eilutes: 166 1058 
+Zodis: ar, Teksto eilutes: 1457 1527 1538 
+Zodis: top, Teksto eilutes: 12 163 964 1645 
+Zodis: them, Teksto eilutes: 186 198 218 253 273 648 680 827 992 1058 1071 1194 1672 
+Zodis: statute, Teksto eilutes: 525 648 
+Zodis: policy, Teksto eilutes: 253 261 926 950 1786 
+Zodis: rapidly, Teksto eilutes: 302 872 903 
+Zodis: nickname, Teksto eilutes: 152 1259 1262 
+Zodis: against, Teksto eilutes: 242 253 273 281 308 769 941 
+Zodis: henry, Teksto eilutes: 186 1296 
+Zodis: deal, Teksto eilutes: 874 1609 
+Zodis: amber, Teksto eilutes: 505 1794 
+Zodis: civil, Teksto eilutes: 192 226 228 273 505 748 769 844 880 924 1719 
+Zodis: had, Teksto eilutes: 159 179 196 228 253 255 261 263 283 302 483 545 551 586 588 626 648 650 676 680 795 842 846 854 856 858 862 866 939 977 996 1022 1040 1092 1113 1170 1172 
+Zodis: mačiulis, Teksto eilutes: 1345 1769 
+Zodis: peter, Teksto eilutes: 479 794 797 1030 1174 
+Zodis: lithuanians, Teksto eilutes: 244 248 253 263 273 281 286 287 626 750 799 833 841 846 853 862 866 874 878 880 882 974 1094 1098 1327 1334 
+Zodis: attempt, Teksto eilutes: 192 275 854 872 
+Zodis: histories, Teksto eilutes: 505 1552 
+Zodis: song, Teksto eilutes: 568 569 1437 
+Zodis: premises, Teksto eilutes: 549 964 
+Zodis: grown, Teksto eilutes: 854 901 
+Zodis: ruthenians, Teksto eilutes: 846 1029 
+Zodis: some, Teksto eilutes: 275 283 475 543 561 588 620 640 688 795 805 1034 1071 1178 1493 
+Zodis: ruthenica, Teksto eilutes: 866 1029 
+Zodis: universitas, Teksto eilutes: 207 1314 
+Zodis: agreement, Teksto eilutes: 244 680 872 1156 1323 1325 1327 1329 
+Zodis: municipal, Teksto eilutes: 148 683 688 695 
+Zodis: wooden, Teksto eilutes: 475 795 819 827 1062 
+Zodis: stranger, Teksto eilutes: 1244 1762 
+Zodis: lithuania, Teksto eilutes: 87 93 94 99 102 146 148 152 165 171 172 175 177 179 183 186 189 190 192 196 207 216 218 222 234 237 242 244 251 258 261 263 269 273 275 287 293 295 298 302 310 317 335 475 502 504 505 515 519 525 533 540 551 558 561 563 565 569 588 596 598 603 605 609 617 618 626 628 634 636 638 640 648 650 657 659 680 684 686 688 690 745 748 752 754 760 765 767 769 771 784 789 792 795 797 799 802 803 810 821 842 856 858 862 865 866 880 891 895 897 901 903 916 918 926 935 941 945 949 950 953 954 956 966 975 977 979 983 985 994 996 1017 1030 1034 1037 1040 1042 1046 1050 1056 1062 1064 1066 1096 1111 1124 1141 1145 1156 1170 1178 1192 1194 1199 1240 1251 1258 1271 1275 1277 1278 1287 1314 1317 1318 1319 1321 1324 1325 1327 1328 1329 1330 1331 1334 1346 1369 1375 1376 1377 1384 1388 1390 1400 1434 1439 1459 1493 1506 1507 1508 1511 1546 1569 1570 1571 1586 1588 1591 1592 1594 1595 1596 1623 1632 1645 1651 1658 1671 1674 1708 1709 1710 1764 1779 1780 
+Zodis: drama, Teksto eilutes: 586 593 594 598 1241 1242 
+Zodis: landmarks, Teksto eilutes: 204 745 756 814 815 
+Zodis: trip, Teksto eilutes: 543 1096 1152 
+Zodis: images, Teksto eilutes: 605 
+Zodis: until, Teksto eilutes: 194 237 253 273 517 531 590 603 620 628 680 771 829 846 872 877 975 1150 1160 1225 1325 
+Zodis: noted, Teksto eilutes: 152 805 
+Zodis: galleries, Teksto eilutes: 495 501 509 
+Zodis: bishop, Teksto eilutes: 194 676 
+Zodis: we, Teksto eilutes: 248 690 
+Zodis: wall, Teksto eilutes: 196 472 475 479 795 1050 
+Zodis: state's, Teksto eilutes: 799 945 
+Zodis: three, Teksto eilutes: 196 216 569 663 676 688 795 903 922 924 1058 1070 1085 1111 1145 1154 
+Zodis: augustus, Teksto eilutes: 196 475 636 676 849 
+Zodis: gatv, Teksto eilutes: 533 1420 1758 
+Zodis: attributed, Teksto eilutes: 844 1671 
+Zodis: buildings, Teksto eilutes: 283 295 302 321 545 676 797 803 805 815 819 823 829 1077 
+Zodis: countries, Teksto eilutes: 317 937 956 985 996 1094 1111 1141 1711 
+Zodis: royal, Teksto eilutes: 196 586 636 805 810 
+Zodis: general, Teksto eilutes: 244 275 308 966 1056 1328 1564 1567 
+Zodis: life, Teksto eilutes: 196 209 626 634 922 1040 1045 1237 1328 1680 
+Zodis: adopted, Teksto eilutes: 234 253 261 286 605 648 
+Zodis: number, Teksto eilutes: 211 289 302 596 598 782 784 819 829 833 846 853 856 858 866 880 882 903 930 937 977 1022 1026 1032 1077 1092 1104 1172 1180 
+Zodis: scientists, Teksto eilutes: 509 914 
+Zodis: reconstruction, Teksto eilutes: 196 551 910 1081 1317 1346 1569 
+Zodis: personal, Teksto eilutes: 10 509 
+Zodis: viešasis, Teksto eilutes: 1148 1724 
+Zodis: urban, Teksto eilutes: 113 120 121 146 302 897 1272 
+Zodis: not, Teksto eilutes: 198 218 224 248 275 626 646 648 665 823 827 842 872 895 977 1170 1172 1259 1327 1328 1331 1672 
+Zodis: seen, Teksto eilutes: 198 789 818 895 
+Zodis: fight, Teksto eilutes: 275 505 
+Zodis: kept, Teksto eilutes: 199 329 531 
+Zodis: president, Teksto eilutes: 261 758 765 
+Zodis: diana, Teksto eilutes: 1560 1579 1582 
+Zodis: bought, Teksto eilutes: 186 517 918 1150 1154 1162 
+Zodis: invaded, Teksto eilutes: 186 242 263 795 
+Zodis: made, Teksto eilutes: 199 308 316 479 615 646 650 754 854 880 910 1085 
+Zodis: movie, Teksto eilutes: 543 545 549 551 1111 1235 1236 
+Zodis: marble, Teksto eilutes: 477 479 
+Zodis: with, Teksto eilutes: 152 154 159 175 177 186 189 190 198 204 213 222 228 234 237 242 248 251 253 255 263 265 269 275 281 289 295 297 302 304 310 316 331 333 477 479 482 497 499 509 525 531 533 545 561 569 586 598 602 605 617 618 626 628 645 646 648 650 659 680 684 692 698 748 758 769 775 777 782 795 797 799 815 819 823 826 829 849 866 872 882 888 910 918 922 926 950 956 964 966 975 977 985 991 1019 1020 1024 1026 1040 1045 1049 1050 1062 1066 1071 1085 1096 1098 1100 1102 1111 1113 1128 1132 1141 1145 1150 1152 1154 1156 1158 1160 1200 1237 1263 1328 1330 1334 1552 1609 1657 1679 
+Zodis: theater, Teksto eilutes: 543 545 548 549 551 
+Zodis: estonia, Teksto eilutes: 1066 1222 
+Zodis: changed, Teksto eilutes: 242 598 626 650 874 1152 
+Zodis: vingis, Teksto eilutes: 568 569 713 819 1073 
+Zodis: mi, Teksto eilutes: 112 113 114 119 121 123 273 319 321 795 1141 
+Zodis: sausio, Teksto eilutes: 1476 1563 
+Zodis: buttons, Teksto eilutes: 646 
+Zodis: city's, Teksto eilutes: 204 209 213 228 251 269 302 590 661 683 819 1073 1077 1096 1334 
+Zodis: fact, Teksto eilutes: 213 603 858 
+Zodis: iceland, Teksto eilutes: 1218 
+Zodis: grande, Teksto eilutes: 221 222 
+Zodis: example, Teksto eilutes: 204 263 
+Zodis: ghetto, Teksto eilutes: 258 273 1040 1237 1350 
+Zodis: unesco, Teksto eilutes: 139 145 150 569 805 964 1270 1275 1280 1438 
+Zodis: late, Teksto eilutes: 206 287 477 479 483 493 579 650 810 827 829 842 866 1316 
+Zodis: interiors, Teksto eilutes: 797 815 
+Zodis: hub, Teksto eilutes: 937 945 1143 
+Zodis: pociej, Teksto eilutes: 645 
+Zodis: precipitation, Teksto eilutes: 329 437 451 
+Zodis: et, Teksto eilutes: 207 527 561 1349 
+Zodis: kortel, Teksto eilutes: 1152 1729 
+Zodis: could, Teksto eilutes: 1022 1045 1150 1172 
+Zodis: vaitas, Teksto eilutes: 680 1484 
+Zodis: lyceum, Teksto eilutes: 977 987 
+Zodis: stephen, Teksto eilutes: 207 771 1293 
+Zodis: occupy, Teksto eilutes: 321 
+Zodis: university, Teksto eilutes: 207 226 249 490 523 607 909 910 914 918 921 922 924 928 930 935 961 962 964 966 968 991 998 1174 1180 1260 1278 1296 1305 1313 1317 1323 1326 1328 1329 1333 1335 1336 1346 1347 1352 1353 1412 1416 1450 1464 1569 1643 1645 1646 1648 1772 
+Zodis: party, Teksto eilutes: 690 1316 
+Zodis: developed, Teksto eilutes: 207 302 618 748 795 803 807 846 866 895 918 
+Zodis: ygimantas, Teksto eilutes: 493 561 1302 1431 
+Zodis: valakampiai, Teksto eilutes: 700 818 819 1534 
+Zodis: justiniškės, Teksto eilutes: 289 704 724 823 1242 
+Zodis: daukša, Teksto eilutes: 519 1415 
+Zodis: article, Teksto eilutes: 51 62 63 64 169 640 836 1248 
+Zodis: stars, Teksto eilutes: 317 1111 1115 1709 1710 
+Zodis: pasitenkinimo, Teksto eilutes: 1701 1702 1704 1713 
+Zodis: territories, Teksto eilutes: 209 317 795 874 
+Zodis: partitioned, Teksto eilutes: 263 1313 
+Zodis: th-century, Teksto eilutes: 509 802 991 1259 
+Zodis: september, Teksto eilutes: 263 265 273 298 563 663 1160 1284 1332 1333 1342 1350 1354 1355 1356 1364 1374 1418 1424 1425 1426 1428 1432 1456 1462 1466 1467 1473 1514 1547 1590 1599 1602 1603 1604 1605 1606 1608 1610 1611 1612 1619 1620 1621 1622 1624 1626 1627 1628 1629 1630 1631 1645 1682 1683 1684 1685 1686 1694 1699 1705 1717 1727 1730 1731 1732 1734 1747 1757 1758 1761 
+Zodis: asked, Teksto eilutes: 163 1725 
+Zodis: incorporation, Teksto eilutes: 248 628 
+Zodis: each, Teksto eilutes: 209 302 1026 
+Zodis: mutual, Teksto eilutes: 263 880 
+Zodis: group, Teksto eilutes: 209 874 1122 1390 
+Zodis: end, Teksto eilutes: 213 242 634 1022 1150 1552 
+Zodis: programa, Teksto eilutes: 1474 1478 
+Zodis: reaching, Teksto eilutes: 308 333 
+Zodis: ostra, Teksto eilutes: 275 1353 
+Zodis: budget, Teksto eilutes: 135 893 
+Zodis: forces, Teksto eilutes: 211 216 241 242 261 780 1034 
+Zodis: usage, Teksto eilutes: 527 992 
+Zodis: swedish, Teksto eilutes: 211 850 874 
+Zodis: markučiai, Teksto eilutes: 287 719 
+Zodis: erich, Teksto eilutes: 1319 1334 
+Zodis: valley, Teksto eilutes: 163 913 914 924 928 998 
+Zodis: line, Teksto eilutes: 242 650 1325 1327 1330 
+Zodis: writers, Teksto eilutes: 523 533 535 1422 
+Zodis: provisional, Teksto eilutes: 222 273 605 
+Zodis: climat, Teksto eilutes: 468 1388 
+Zodis: initially, Teksto eilutes: 222 590 1050 
+Zodis: alexander, Teksto eilutes: 218 810 1297 
+Zodis: significantly, Teksto eilutes: 329 626 823 
+Zodis: differences, Teksto eilutes: 192 650 
+Zodis: belarusians, Teksto eilutes: 253 287 750 1096 1334 
+Zodis: grigiškės, Teksto eilutes: 688 711 723 
+Zodis: funds, Teksto eilutes: 833 954 
+Zodis: period, Teksto eilutes: 196 475 477 479 491 586 618 795 856 880 901 1260 1262 
+Zodis: protected, Teksto eilutes: 324 527 827 
+Zodis: travel, Teksto eilutes: 1096 1396 1777 
+Zodis: restored, Teksto eilutes: 218 304 1042 1056 1081 1085 
+Zodis: also, Teksto eilutes: 44 159 198 273 310 479 502 512 519 540 543 545 558 561 563 565 569 581 588 590 598 623 626 634 646 650 671 676 680 690 765 767 787 795 810 819 842 846 874 910 916 918 939 945 950 968 970 975 1001 1037 1040 1096 1111 1124 1126 1154 1160 1170 1172 1180 1194 1199 1235 1249 1250 1259 1260 1331 
+Zodis: begins, Teksto eilutes: 795 1375 
+Zodis: morden, Teksto eilutes: 1022 1673 
+Zodis: konstantinas, Teksto eilutes: 523 579 
+Zodis: slavonic, Teksto eilutes: 209 527 
+Zodis: largest, Teksto eilutes: 146 148 150 183 255 509 551 553 565 615 620 745 748 789 795 829 854 874 903 916 956 964 1040 1064 1073 1077 1122 1126 1141 1160 1434 
+Zodis: capitals, Teksto eilutes: 156 159 1102 1104 1282 1286 1368 
+Zodis: robert, Teksto eilutes: 760 1022 1521 1673 
+Zodis: tautini, Teksto eilutes: 1560 1579 1582 1655 
+Zodis: baltic, Teksto eilutes: 95 148 258 319 509 537 795 833 862 890 891 900 937 1066 1106 1325 1347 1364 1546 1583 1758 
+Zodis: eu, Teksto eilutes: 118 895 897 901 1252 1372 
+Zodis: mm, Teksto eilutes: 329 437 
+Zodis: push, Teksto eilutes: 222 620 
+Zodis: towards, Teksto eilutes: 222 234 1073 
+Zodis: portal, Teksto eilutes: 1251 1252 
+Zodis: piotr, Teksto eilutes: 517 1313 1322 
+Zodis: sculptures, Teksto eilutes: 475 479 491 
+Zodis: frequently, Teksto eilutes: 186 1091 1111 1725 
+Zodis: robertas, Teksto eilutes: 1128 1359 1360 
+Zodis: presidential, Teksto eilutes: 75 76 765 1077 1111 1501 
+Zodis: commission, Teksto eilutes: 222 596 962 1591 1592 1594 1595 1596 
+Zodis: died, Teksto eilutes: 222 780 
+Zodis: eventual, Teksto eilutes: 222 261 
+Zodis: brotherhood, Teksto eilutes: 1172 
+Zodis: surroundings, Teksto eilutes: 244 302 823 829 
+Zodis: capital's, Teksto eilutes: 663 1731 
+Zodis: poland, Teksto eilutes: 177 192 209 224 244 246 248 251 255 261 263 265 275 283 594 771 878 1094 1210 1214 1215 1224 1313 1317 1323 1324 1325 1330 1331 1333 1346 1569 
+Zodis: mass, Teksto eilutes: 222 602 
+Zodis: cards, Teksto eilutes: 1150 1152 
+Zodis: massive, Teksto eilutes: 242 799 
+Zodis: romuald, Teksto eilutes: 253 1347 
+Zodis: consisted, Teksto eilutes: 186 680 
+Zodis: congress, Teksto eilutes: 224 234 
+Zodis: tomb, Teksto eilutes: 477 
+Zodis: chosen, Teksto eilutes: 317 680 1111 
+Zodis: february, Teksto eilutes: 234 237 251 333 625 659 1113 1277 1279 1290 1300 1301 1358 1364 1386 1387 1430 1434 1448 1450 1451 1452 1453 1454 1455 1459 1464 1572 1591 1592 1594 1595 1596 1632 1635 1643 1645 1650 1658 1720 1742 
+Zodis: realized, Teksto eilutes: 224 499 
+Zodis: activity, Teksto eilutes: 224 308 895 897 
+Zodis: lived, Teksto eilutes: 287 523 533 561 862 866 910 1054 
+Zodis: shall, Teksto eilutes: 165 298 
+Zodis: construction, Teksto eilutes: 302 821 1124 
+Zodis: headquarters, Teksto eilutes: 280 302 555 888 945 949 953 975 
+Zodis: brutally, Teksto eilutes: 228 275 
+Zodis: organizations, Teksto eilutes: 253 941 
+Zodis: because, Teksto eilutes: 228 261 289 517 545 833 962 1260 1261 
+Zodis: krzysztof, Teksto eilutes: 490 517 673 
+Zodis: organized, Teksto eilutes: 228 273 563 611 659 829 1062 
+Zodis: champions, Teksto eilutes: 1122 1128 
+Zodis: attacks, Teksto eilutes: 183 186 844 941 
+Zodis: nuostatos, Teksto eilutes: 1560 1579 1582 
+Zodis: census, Teksto eilutes: 228 854 858 874 1002 1564 1567 1571 
+Zodis: fighting, Teksto eilutes: 228 522 1325 
+Zodis: valstybės, Teksto eilutes: 954 1311 1362 
+Zodis: republic, Teksto eilutes: 159 242 244 278 298 495 686 748 758 765 767 858 1091 1154 1156 1319 1375 1376 1396 1508 1511 1588 
+Zodis: house, Teksto eilutes: 231 505 515 517 650 833 1054 1182 1183 1194 1604 1684 
+Zodis: prominent, Teksto eilutes: 302 509 577 605 618 652 673 810 862 921 945 983 991 1042 1050 1058 
+Zodis: trade, Teksto eilutes: 209 310 618 866 1077 
+Zodis: wolf, Teksto eilutes: 162 163 165 189 
+Zodis: signatories, Teksto eilutes: 231 505 1085 
+Zodis: declined, Teksto eilutes: 216 261 620 
+Zodis: seimas, Teksto eilutes: 233 234 297 525 764 767 882 1156 1507 
+Zodis: december, Teksto eilutes: 234 1302 1304 1369 1380 1388 1393 1446 1459 1528 1575 1588 1707 1762 1785 
+Zodis: christianization, Teksto eilutes: 799 810 1050 
+Zodis: purpose, Teksto eilutes: 269 549 1323 
+Zodis: modern, Teksto eilutes: 234 302 509 551 594 598 832 888 890 998 1130 1160 
+Zodis: compared, Teksto eilutes: 198 209 853 895 897 1092 1098 
+Zodis: decided, Teksto eilutes: 234 1096 
+Zodis: political, Teksto eilutes: 234 261 603 690 
+Zodis: institute, Teksto eilutes: 317 530 535 594 650 916 922 
+Zodis: prevailed, Teksto eilutes: 483 588 620 872 
+Zodis: district, Teksto eilutes: 73 74 146 148 302 495 497 688 742 743 745 747 748 750 752 754 756 760 765 787 815 1496 
+Zodis: remain, Teksto eilutes: 475 895 1326 1493 
+Zodis: means, Teksto eilutes: 234 596 
+Zodis: invited, Teksto eilutes: 261 479 844 1058 
+Zodis: foreigners, Teksto eilutes: 1094 1098 1259 
+Zodis: initiative, Teksto eilutes: 509 910 1174 
+Zodis: frescoes, Teksto eilutes: 472 475 479 797 
+Zodis: nobility, Teksto eilutes: 479 517 618 648 771 797 803 850 874 1262 
+Zodis: independent, Teksto eilutes: 234 293 298 495 563 598 618 690 758 
+Zodis: moscow, Teksto eilutes: 183 222 1143 
+Zodis: services, Teksto eilutes: 773 782 784 888 994 996 1100 1160 1640 1663 
+Zodis: without, Teksto eilutes: 237 248 805 844 854 1672 
+Zodis: evangelical, Teksto eilutes: 1007 1008 
+Zodis: verslo, Teksto eilutes: 1190 1611 
+Zodis: iškauskas, Teksto eilutes: 1342 
+Zodis: poets, Teksto eilutes: 1262 
+Zodis: vilnius-based, Teksto eilutes: 918 
+Zodis: stands, Teksto eilutes: 495 1150 1152 1766 
+Zodis: red, Teksto eilutes: 242 263 268 269 275 1235 
+Zodis: ha, Teksto eilutes: 805 827 
+Zodis: russians, Teksto eilutes: 216 690 750 979 
+Zodis: apskrities, Teksto eilutes: 778 780 1516 
+Zodis: pokario, Teksto eilutes: 1356 1359 1360 
+Zodis: treaty, Teksto eilutes: 242 263 880 1324 1328 1329 1331 
+Zodis: restaurants, Teksto eilutes: 331 1100 
+Zodis: came, Teksto eilutes: 603 850 874 1094 
+Zodis: nations, Teksto eilutes: 244 799 866 872 1317 1331 1346 1364 1569 1772 
+Zodis: little, Teksto eilutes: 515 1350 
+Zodis: cemeteries, Teksto eilutes: 33 1068 1085 
+Zodis: total, Teksto eilutes: 186 228 856 998 1092 1098 1240 
+Zodis: neighbourhoods, Teksto eilutes: 695 815 821 823 
+Zodis: unique, Teksto eilutes: 650 754 1733 
+Zodis: october, Teksto eilutes: 244 263 273 880 962 1081 1235 1264 1283 1286 1288 1324 1325 1326 1327 1329 1330 1331 1337 1343 1411 1412 1413 1414 1415 1416 1417 1419 1421 1422 1427 1433 1435 1436 1441 1457 1463 1473 1475 1476 1477 1478 1479 1480 1482 1486 1487 1489 1490 1492 1507 1530 1537 1556 1560 1579 1582 1609 1613 1614 1615 1617 1619 1625 1632 1633 1634 1635 1651 1681 1688 1689 1690 1691 1692 1706 1715 1719 1727 1737 1739 1740 1743 1744 1745 1746 1747 1757 
+Zodis: world's, Teksto eilutes: 497 918 985 
+Zodis: still, Teksto eilutes: 159 177 251 475 491 827 833 880 903 939 1154 
+Zodis: low-floor, Teksto eilutes: 1154 1160 
+Zodis: elektrit, Teksto eilutes: 255 263 
+Zodis: partisans, Teksto eilutes: 275 283 1237 
+Zodis: believers, Teksto eilutes: 527 1006 1030 
+Zodis: full, Teksto eilutes: 186 1091 
+Zodis: daniel, Teksto eilutes: 487 1464 
+Zodis: sigismund, Teksto eilutes: 196 199 475 586 617 636 676 680 827 849 
+Zodis: catherine, Teksto eilutes: 1243 1761 
+Zodis: interwar, Teksto eilutes: 246 248 275 594 856 1260 
+Zodis: today, Teksto eilutes: 475 1024 1030 
+Zodis: vast, Teksto eilutes: 248 962 
+Zodis: allowed, Teksto eilutes: 269 648 979 1160 1673 
+Zodis: female, Teksto eilutes: 1172 
+Zodis: valstybinės, Teksto eilutes: 1467 1473 
+Zodis: only, Teksto eilutes: 216 228 242 253 265 275 477 569 590 596 602 634 638 640 648 674 795 807 815 846 856 872 874 901 979 983 992 1066 1128 1141 1259 1324 1327 1331 
+Zodis: hills, Teksto eilutes: 752 795 
+Zodis: style, Teksto eilutes: 63 150 196 479 645 679 803 
+Zodis: lakes, Teksto eilutes: 333 1071 
+Zodis: statue, Teksto eilutes: 495 1077 
+Zodis: gymnasium, Teksto eilutes: 977 
+Zodis: designated, Teksto eilutes: 143 244 
+Zodis: any, Teksto eilutes: 237 805 1172 
+Zodis: contested, Teksto eilutes: 251 
+Zodis: voivodeship, Teksto eilutes: 251 758 854 1784 
+Zodis: refused, Teksto eilutes: 251 1172 
+Zodis: sessions, Teksto eilutes: 543 545 
+Zodis: rachel, Teksto eilutes: 1237 1759 
+Zodis: act, Teksto eilutes: 234 237 261 286 295 648 659 1085 
+Zodis: played, Teksto eilutes: 586 588 1122 1235 1236 
+Zodis: voivode, Teksto eilutes: 253 671 673 674 
+Zodis: alyse, Teksto eilutes: 1550 1593 
+Zodis: wife, Teksto eilutes: 645 849 
+Zodis: christianity, Teksto eilutes: 186 799 1050 1259 
+Zodis: ludwik, Teksto eilutes: 253 645 
+Zodis: secret, Teksto eilutes: 253 263 523 
+Zodis: reading, Teksto eilutes: 253 991 
+Zodis: approximately, Teksto eilutes: 146 228 
+Zodis: comprising, Teksto eilutes: 196 228 
+Zodis: controlled, Teksto eilutes: 242 618 850 
+Zodis: while, Teksto eilutes: 253 273 275 283 308 490 598 648 650 659 765 769 833 854 872 874 878 880 895 901 954 956 977 1160 
+Zodis: sejm, Teksto eilutes: 253 634 648 962 
+Zodis: started, Teksto eilutes: 175 196 265 882 903 1122 1154 1160 1194 
+Zodis: connected, Teksto eilutes: 289 319 
+Zodis: produced, Teksto eilutes: 255 618 918 
+Zodis: articulated, Teksto eilutes: 1160 
+Zodis: historical, Teksto eilutes: 261 298 302 304 483 491 531 756 795 827 837 1241 1242 1333 1674 
+Zodis: independence, Teksto eilutes: 234 237 242 273 286 297 298 598 620 659 858 884 1042 1073 1085 1321 1364 
+Zodis: governing, Teksto eilutes: 222 780 
+Zodis: organisations, Teksto eilutes: 275 667 
+Zodis: force, Teksto eilutes: 261 263 275 880 
+Zodis: celebrated, Teksto eilutes: 657 754 
+Zodis: poles, Teksto eilutes: 281 287 690 750 760 872 878 880 903 979 1316 1327 1334 1733 
+Zodis: entire, Teksto eilutes: 251 602 983 
+Zodis: antanas, Teksto eilutes: 261 491 646 862 880 1314 1337 1481 
+Zodis: they, Teksto eilutes: 261 287 491 605 827 872 874 918 1050 1092 1096 1671 
+Zodis: replaced, Teksto eilutes: 684 866 874 882 1152 
+Zodis: home, Teksto eilutes: 495 561 618 1030 1122 1126 1130 1190 1235 
+Zodis: plants, Teksto eilutes: 287 910 
+Zodis: that, Teksto eilutes: 177 244 255 269 298 302 317 475 479 626 636 646 676 680 765 795 805 829 833 846 858 872 874 880 897 918 922 930 992 1020 1022 1042 1045 1096 1102 1145 1154 1172 1259 1324 1325 1552 1673 
+Zodis: towers, Teksto eilutes: 196 302 789 
+Zodis: google, Teksto eilutes: 935 945 1633 
+Zodis: ultimatum, Teksto eilutes: 261 269 
+Zodis: instead, Teksto eilutes: 261 605 
+Zodis: supported, Teksto eilutes: 261 527 
+Zodis: mission, Teksto eilutes: 1054 1637 1639 1660 
+Zodis: magistrate, Teksto eilutes: 549 636 674 676 827 
+Zodis: election, Teksto eilutes: 251 690 882 
+Zodis: saint, Teksto eilutes: 475 626 656 657 661 665 754 802 803 1017 1024 1054 1143 1172 1231 1580 
+Zodis: team, Teksto eilutes: 690 1124 
+Zodis: daukanto, Teksto eilutes: 765 1077 
+Zodis: hometown, Teksto eilutes: 579 
+Zodis: ukrainian, Teksto eilutes: 159 628 
+Zodis: johann, Teksto eilutes: 579 1174 
+Zodis: trips, Teksto eilutes: 1096 1100 1102 
+Zodis: david, Teksto eilutes: 579 1325 1328 1583 
+Zodis: józef, Teksto eilutes: 486 488 517 523 605 1085 
+Zodis: singer, Teksto eilutes: 579 
+Zodis: technologies, Teksto eilutes: 916 918 970 1160 1623 
+Zodis: majority, Teksto eilutes: 228 253 295 302 872 956 
+Zodis: close, Teksto eilutes: 579 680 819 
+Zodis: valdov, Teksto eilutes: 1303 1432 
+Zodis: liauksminas, Teksto eilutes: 561 1431 
+Zodis: rankings, Teksto eilutes: 939 964 
+Zodis: reputation, Teksto eilutes: 1022 
+Zodis: reached, Teksto eilutes: 833 878 893 895 901 903 
+Zodis: raised, Teksto eilutes: 648 752 
+Zodis: jan, Teksto eilutes: 338 485 490 561 609 1336 1379 
+Zodis: mid-19th, Teksto eilutes: 579 1297 
+Zodis: condition, Teksto eilutes: 819 827 1170 
+Zodis: salary, Teksto eilutes: 893 935 1111 1178 
+Zodis: freedom, Teksto eilutes: 280 495 497 505 
+Zodis: stanisław, Teksto eilutes: 579 605 962 
+Zodis: healthcare, Teksto eilutes: 39 1169 1178 
+Zodis: polish-lithuanian, Teksto eilutes: 909 910 1464 
+Zodis: century, Teksto eilutes: 186 196 206 211 213 216 228 472 475 477 479 491 509 531 548 561 579 586 605 618 620 626 628 634 645 650 680 745 795 797 810 826 827 842 844 846 854 866 869 1020 1022 1029 1030 1040 1050 1081 1259 1260 1297 1314 
+Zodis: petrauskas, Teksto eilutes: 579 581 
+Zodis: performs, Teksto eilutes: 565 914 
+Zodis: juozas, Teksto eilutes: 579 652 1553 1581 
+Zodis: spoken, Teksto eilutes: 209 626 636 1261 
+Zodis: statyba, Teksto eilutes: 1542 1543 1544 
+Zodis: annexation, Teksto eilutes: 251 878 
+Zodis: tr, Teksto eilutes: 1164 1165 
+Zodis: collections, Teksto eilutes: 652 910 1405 
+Zodis: mark, Teksto eilutes: 659 803 
+Zodis: physics, Teksto eilutes: 916 918 
+Zodis: it, Teksto eilutes: 62 148 152 166 192 196 199 211 216 224 234 242 244 255 275 281 329 479 509 517 525 543 549 551 588 594 618 626 646 661 665 745 748 771 782 794 795 819 827 829 833 842 846 850 858 880 891 897 901 910 918 934 939 945 962 964 992 1045 1054 1056 1061 1062 1081 1085 1139 1150 1152 1172 1260 1324 
+Zodis: georgia, Teksto eilutes: 310 1223 
+Zodis: department, Teksto eilutes: 581 918 1092 1271 1287 1570 1571 1588 1623 
+Zodis: motinos, Teksto eilutes: 1685 1686 
+Zodis: cup, Teksto eilutes: 1122 1126 1134 
+Zodis: ruler's, Teksto eilutes: 586 626 674 
+Zodis: re-establishment, Teksto eilutes: 286 295 659 
+Zodis: meetings, Teksto eilutes: 586 680 
+Zodis: vasa's, Teksto eilutes: 586 617 
+Zodis: building, Teksto eilutes: 233 234 298 302 531 683 829 842 890 922 924 1185 1186 
+Zodis: realistic, Teksto eilutes: 477 479 
+Zodis: jesuit's, Teksto eilutes: 588 827 
+Zodis: lithuanian-speaking, Teksto eilutes: 228 251 
+Zodis: ages, Teksto eilutes: 588 646 
+Zodis: censorship, Teksto eilutes: 596 605 
+Zodis: justinas, Teksto eilutes: 491 983 
+Zodis: plays, Teksto eilutes: 588 590 596 1124 
+Zodis: imprisoned, Teksto eilutes: 253 522 
+Zodis: osterwa, Teksto eilutes: 594 1446 
+Zodis: merged, Teksto eilutes: 594 966 
+Zodis: gatves, Teksto eilutes: 1731 1794 
+Zodis: making, Teksto eilutes: 255 302 754 891 
+Zodis: source, Teksto eilutes: 166 468 626 
+Zodis: repertoires, Teksto eilutes: 596 
+Zodis: ministry, Teksto eilutes: 596 605 950 962 975 1077 1178 1180 1375 1376 1384 
+Zodis: medicinos, Teksto eilutes: 782 1518 1615 1739 1741 
+Zodis: italy, Teksto eilutes: 483 866 1217 
+Zodis: sought, Teksto eilutes: 598 1172 
+Zodis: arope, Teksto eilutes: 897 
+Zodis: considered, Teksto eilutes: 150 154 234 603 752 872 962 1111 
+Zodis: marked, Teksto eilutes: 497 865 
+Zodis: stations, Teksto eilutes: 714 1062 1194 
+Zodis: photography, Teksto eilutes: 600 603 605 607 609 611 
+Zodis: nobles, Teksto eilutes: 620 645 646 648 866 872 874 
+Zodis: court, Teksto eilutes: 179 196 561 636 769 771 1509 1510 1511 
+Zodis: turn-based, Teksto eilutes: 1238 1240 
+Zodis: photoheliograph, Teksto eilutes: 602 607 
+Zodis: contract, Teksto eilutes: 1154 1160 
+Zodis: verkiai, Teksto eilutes: 603 699 737 797 818 1061 1062 
+Zodis: never, Teksto eilutes: 638 872 
+Zodis: operated, Teksto eilutes: 275 603 1176 
+Zodis: newspaper, Teksto eilutes: 603 1150 1152 1190 1260 
+Zodis: daguerreotype, Teksto eilutes: 603 605 
+Zodis: ateliers, Teksto eilutes: 603 605 
+Zodis: licences, Teksto eilutes: 945 1632 
+Zodis: photographers, Teksto eilutes: 603 605 611 
+Zodis: positive, Teksto eilutes: 605 903 
+Zodis: roman, Teksto eilutes: 525 1004 1024 1026 1064 
+Zodis: paper, Teksto eilutes: 605 1150 
+Zodis: widespread, Teksto eilutes: 605 618 1259 1260 
+Zodis: staigos, Teksto eilutes: 1633 1747 
+Zodis: experts, Teksto eilutes: 937 956 
+Zodis: diena, Teksto eilutes: 574 575 1190 
+Zodis: revolution, Teksto eilutes: 829 1334 1336 
+Zodis: institutions, Teksto eilutes: 605 1024 
+Zodis: viršuliškės, Teksto eilutes: 289 705 739 823 
+Zodis: supervised, Teksto eilutes: 605 956 962 
+Zodis: outstanding, Teksto eilutes: 792 799 
+Zodis: baronas, Teksto eilutes: 1461 1574 
+Zodis: astronomical, Teksto eilutes: 607 909 910 
+Zodis: observatory, Teksto eilutes: 607 909 910 
+Zodis: committed, Teksto eilutes: 509 1160 
+Zodis: club, Teksto eilutes: 609 1124 
+Zodis: gold, Teksto eilutes: 617 648 
+Zodis: mint, Teksto eilutes: 617 618 
+Zodis: marks, Teksto eilutes: 617 1050 
+Zodis: weapons, Teksto eilutes: 618 
+Zodis: photographic, Teksto eilutes: 605 607 
+Zodis: silver, Teksto eilutes: 618 1050 
+Zodis: country, Teksto eilutes: 99 242 263 269 569 603 795 954 1223 1591 1592 1594 1595 1596 
+Zodis: jewelry, Teksto eilutes: 618 
+Zodis: pottery, Teksto eilutes: 618 862 
+Zodis: weaving, Teksto eilutes: 618 
+Zodis: nd, Teksto eilutes: 618 638 1333 
+Zodis: offer, Teksto eilutes: 261 821 895 
+Zodis: accelerated, Teksto eilutes: 618 
+Zodis: introduction, Teksto eilutes: 618 880 
+Zodis: artisans, Teksto eilutes: 618 846 872 
+Zodis: single, Teksto eilutes: 1152 1162 
+Zodis: goldsmithing, Teksto eilutes: 618 620 
+Zodis: level, Teksto eilutes: 618 752 
+Zodis: statutes, Teksto eilutes: 618 638 676 
+Zodis: names, Teksto eilutes: 13 146 158 159 1552 
+Zodis: en, Teksto eilutes: 1580 
+Zodis: contemporary, Teksto eilutes: 152 251 509 598 
+Zodis: precious, Teksto eilutes: 618 646 
+Zodis: gemstones, Teksto eilutes: 618 646 
+Zodis: stood, Teksto eilutes: 618 805 
+Zodis: russo-polish, Teksto eilutes: 620 1056 
+Zodis: senamiestis, Teksto eilutes: 715 734 815 1532 
+Zodis: isbn, Teksto eilutes: 1296 1297 1300 1314 1315 1316 1317 1318 1319 1322 1323 1324 1325 1326 1327 1328 1329 1330 1331 1334 1335 1336 1344 1346 1347 1349 1353 1383 1464 1521 1569 1571 1583 1643 1676 1680 1759 
+Zodis: szlachta, Teksto eilutes: 620 874 
+Zodis: soviet-era, Teksto eilutes: 819 821 823 1242 
+Zodis: processing, Teksto eilutes: 620 
+Zodis: buried, Teksto eilutes: 810 1727 
+Zodis: fields, Teksto eilutes: 620 916 922 926 
+Zodis: conducted, Teksto eilutes: 659 979 
+Zodis: tram, Teksto eilutes: 1156 1727 
+Zodis: businesses, Teksto eilutes: 620 888 922 
+Zodis: makeup, Teksto eilutes: 623 860 861 
+Zodis: manufacturing, Teksto eilutes: 620 918 
+Zodis: status, Teksto eilutes: 626 638 966 
+Zodis: medieval, Teksto eilutes: 626 795 805 814 815 844 1240 
+Zodis: except, Teksto eilutes: 626 1022 1062 
+Zodis: dalis, Teksto eilutes: 1540 1541 1545 
+Zodis: spoke, Teksto eilutes: 626 872 
+Zodis: son, Teksto eilutes: 626 1174 
+Zodis: jagiellon, Teksto eilutes: 626 810 
+Zodis: patron, Teksto eilutes: 626 754 802 
+Zodis: active, Teksto eilutes: 571 1026 
+Zodis: own, Teksto eilutes: 626 758 833 979 998 
+Zodis: crosses, Teksto eilutes: 1058 1070 
+Zodis: lina, Teksto eilutes: 1128 1359 1360 
+Zodis: chancery, Teksto eilutes: 628 634 
+Zodis: joensuu, Teksto eilutes: 1212 1680 
+Zodis: maintained, Teksto eilutes: 628 1026 1172 
+Zodis: global, Teksto eilutes: 154 308 329 1269 1283 1284 1333 
+Zodis: game, Teksto eilutes: 1239 1240 
+Zodis: position, Teksto eilutes: 628 680 
+Zodis: clothing, Teksto eilutes: 273 505 618 620 645 646 648 650 652 
+Zodis: kempinski, Teksto eilutes: 1110 1111 1712 
+Zodis: prior, Teksto eilutes: 636 680 
+Zodis: employment, Teksto eilutes: 895 
+Zodis: minorities, Teksto eilutes: 638 979 
+Zodis: aleksander, Teksto eilutes: 162 605 1770 1771 
+Zodis: printed, Teksto eilutes: 514 515 519 1552 
+Zodis: lipka, Teksto eilutes: 638 750 
+Zodis: place, Teksto eilutes: 198 216 218 233 263 525 551 648 810 935 1062 1085 1330 
+Zodis: tatars, Teksto eilutes: 638 750 827 866 
+Zodis: highs, Teksto eilutes: 833 903 
+Zodis: crimean, Teksto eilutes: 638 866 
+Zodis: karaites, Teksto eilutes: 638 866 1012 1042 
+Zodis: speakers, Teksto eilutes: 228 874 
+Zodis: themselves, Teksto eilutes: 638 872 874 1096 1170 1671 
+Zodis: didžiosios, Teksto eilutes: 1300 1462 1558 
+Zodis: procedures, Teksto eilutes: 640 1111 
+Zodis: chapels, Teksto eilutes: 586 1062 
+Zodis: guaranteed, Teksto eilutes: 640 1327 
+Zodis: centres, Teksto eilutes: 154 207 913 914 924 1050 1098 1284 1612 1784 
+Zodis: cases, Teksto eilutes: 640 680 769 
+Zodis: planned, Teksto eilutes: 308 1096 
+Zodis: fashion, Teksto eilutes: 642 646 650 652 1471 
+Zodis: wearing, Teksto eilutes: 645 646 
+Zodis: from, Teksto eilutes: 59 159 166 175 192 196 209 216 237 242 244 263 269 275 287 289 295 298 302 304 308 317 319 475 483 505 509 561 569 590 603 618 620 628 634 646 650 663 673 676 688 754 758 760 789 794 795 803 805 815 818 819 841 850 853 854 858 865 866 874 878 880 905 910 918 1030 1042 1046 1056 1058 1064 1094 1128 1141 1152 1172 1178 1190 1194 1236 1237 1248 1259 1275 1276 1277 1279 1281 1282 1283 1285 1286 1287 1300 1311 1314 1320 1321 1334 1336 1351 1354 1362 1363 1369 1372 1374 1378 1380 1384 1393 1396 1405 1406 1415 1418 1423 1432 1437 1440 1456 1459 1462 1463 1466 1468 1480 1503 1506 1510 1511 1517 1518 1519 1528 1529 1537 1540 1541 1550 1552 1560 1570 1573 1575 1579 1582 1599 1611 1627 1635 1638 1639 1640 1642 1645 1652 1662 1665 1675 1680 1684 1714 1720 1722 1725 1727 1733 1735 1747 1759 1766 
+Zodis: kontusz, Teksto eilutes: 645 646 
+Zodis: tsar, Teksto eilutes: 218 1030 
+Zodis: furthermore, Teksto eilutes: 916 945 
+Zodis: xix, Teksto eilutes: 1314 
+Zodis: women's, Teksto eilutes: 645 650 
+Zodis: promoted, Teksto eilutes: 491 618 
+Zodis: pupils, Teksto eilutes: 943 977 1162 
+Zodis: dress, Teksto eilutes: 646 
+Zodis: aplinskas, Teksto eilutes: 646 862 1481 
+Zodis: dfb, Teksto eilutes: 137 329 
+Zodis: rings, Teksto eilutes: 646 648 
+Zodis: diamonds, Teksto eilutes: 646 
+Zodis: using, Teksto eilutes: 646 1678 1786 
+Zodis: property, Teksto eilutes: 646 805 954 
+Zodis: development, Teksto eilutes: 209 226 479 490 491 555 603 618 799 903 916 950 
+Zodis: by, Teksto eilutes: 146 162 165 184 186 194 196 204 207 211 216 222 226 228 234 237 242 251 255 261 263 269 273 275 281 283 287 289 317 319 329 477 479 482 483 490 491 499 509 517 519 523 525 531 543 545 561 563 565 579 586 588 594 596 598 603 605 615 620 625 626 640 648 659 674 676 679 680 690 692 771 782 789 794 795 797 799 803 805 818 827 833 846 849 850 854 858 862 866 874 878 880 901 903 916 918 956 962 964 975 1022 1029 1030 1034 1040 1050 1053 1054 1056 1058 1062 1071 1077 1085 1091 1092 1096 1098 1106 1111 1148 1152 1154 1160 1178 1235 1236 1241 1259 1267 1271 1272 1324 1326 1329 1330 1331 1353 1552 1671 1672 1675 1679 1779 1786 1788 
+Zodis: opera, Teksto eilutes: 560 563 579 586 598 1432 
+Zodis: special, Teksto eilutes: 646 773 778 784 
+Zodis: eldership, Teksto eilutes: 720 818 827 842 1246 
+Zodis: journalists, Teksto eilutes: 1196 
+Zodis: municipality, Teksto eilutes: 101 148 302 683 688 692 742 743 748 760 815 829 893 992 1160 1287 1299 1496 1730 1732 1757 
+Zodis: related, Teksto eilutes: 922 1056 1775 1782 
+Zodis: put, Teksto eilutes: 648 880 
+Zodis: received, Teksto eilutes: 827 900 
+Zodis: densely, Teksto eilutes: 842 862 
+Zodis: radio, Teksto eilutes: 255 263 298 1194 
+Zodis: housing, Teksto eilutes: 289 302 683 812 815 832 833 903 1546 
+Zodis: sole, Teksto eilutes: 916 1237 
+Zodis: sold, Teksto eilutes: 549 620 
+Zodis: limitations, Teksto eilutes: 648 815 
+Zodis: removed, Teksto eilutes: 648 1077 
+Zodis: chicago, Teksto eilutes: 1205 1368 
+Zodis: model, Teksto eilutes: 650 930 
+Zodis: napoleonas, Teksto eilutes: 1311 1342 
+Zodis: function, Teksto eilutes: 588 676 695 
+Zodis: presentations, Teksto eilutes: 650 652 
+Zodis: knowledge, Teksto eilutes: 626 926 
+Zodis: infection, Teksto eilutes: 652 1471 
+Zodis: spring, Teksto eilutes: 652 1373 
+Zodis: oldest, Teksto eilutes: 174 475 565 782 810 862 909 964 1017 1056 1062 1064 
+Zodis: holidays, Teksto eilutes: 654 657 
+Zodis: mug, Teksto eilutes: 656 661 1477 
+Zodis: website, Teksto eilutes: 138 1778 
+Zodis: christmas, Teksto eilutes: 657 1077 
+Zodis: easter, Teksto eilutes: 657 661 754 
+Zodis: fourteen, Teksto eilutes: 298 646 1058 
+Zodis: ceremonies, Teksto eilutes: 659 1077 
+Zodis: responsibility, Teksto eilutes: 676 778 
+Zodis: star, Teksto eilutes: 1111 1115 
+Zodis: feast, Teksto eilutes: 661 1054 
+Zodis: rodikli, Teksto eilutes: 1572 1587 
+Zodis: verbos, Teksto eilutes: 661 754 1497 
+Zodis: craft, Teksto eilutes: 620 
+Zodis: symbols, Teksto eilutes: 661 890 
+Zodis: walls, Teksto eilutes: 216 533 
+Zodis: savivaldyb, Teksto eilutes: 748 1730 1732 1789 
+Zodis: versus, Teksto eilutes: 673 897 
+Zodis: perkūnas, Teksto eilutes: 673 1034 
+Zodis: notable, Teksto eilutes: 43 150 159 207 493 505 814 998 1247 
+Zodis: doctors, Teksto eilutes: 782 844 1172 1174 
+Zodis: authority, Teksto eilutes: 674 769 962 1323 1328 1783 
+Zodis: responsible, Teksto eilutes: 676 778 782 950 954 962 1178 
+Zodis: taxes, Teksto eilutes: 676 680 954 
+Zodis: taking, Teksto eilutes: 676 
+Zodis: care, Teksto eilutes: 676 1050 1170 1172 1178 1180 1743 
+Zodis: laws, Teksto eilutes: 648 758 769 880 
+Zodis: icon, Teksto eilutes: 1056 
+Zodis: rajono, Teksto eilutes: 748 1499 1500 
+Zodis: bibliotekos, Teksto eilutes: 998 1670 
+Zodis: acted, Teksto eilutes: 676 827 
+Zodis: reconstructions, Teksto eilutes: 676 803 815 
+Zodis: approved, Teksto eilutes: 676 1156 
+Zodis: magistrates, Teksto eilutes: 676 
+Zodis: courtyards, Teksto eilutes: 797 815 
+Zodis: ldk, Teksto eilutes: 1262 1461 1466 1469 1736 
+Zodis: having, Teksto eilutes: 676 1071 
+Zodis: neoclassical, Teksto eilutes: 679 1026 
+Zodis: laurynas, Teksto eilutes: 679 803 1528 
+Zodis: subjects, Teksto eilutes: 778 1711 
+Zodis: gucevičius, Teksto eilutes: 679 803 1528 
+Zodis: magistracy, Teksto eilutes: 680 
+Zodis: competence, Teksto eilutes: 680 924 1636 
+Zodis: criminal, Teksto eilutes: 680 769 778 
+Zodis: burgomasters, Teksto eilutes: 680 
+Zodis: relatives, Teksto eilutes: 680 833 
+Zodis: konstitucijos, Teksto eilutes: 683 829 950 1593 
+Zodis: villages, Teksto eilutes: 688 748 750 
+Zodis: terms, Teksto eilutes: 690 1326 1329 1552 1786 
+Zodis: iaurės, Teksto eilutes: 708 1260 1641 
+Zodis: registered, Teksto eilutes: 690 692 956 996 1786 
+Zodis: polish–lithuanian, Teksto eilutes: 152 159 192 201 202 617 648 805 850 872 962 
+Zodis: which, Teksto eilutes: 150 165 196 198 218 224 237 242 253 261 263 273 275 281 308 317 329 477 483 495 517 549 551 560 602 603 605 607 611 618 645 648 650 680 690 750 752 769 777 780 795 797 803 807 842 854 862 866 880 888 897 900 901 910 916 918 922 928 934 935 943 962 975 981 994 998 1022 1054 1056 1066 1094 1111 1122 1160 1170 1174 1178 1182 1183 1185 1186 1260 1325 1326 1328 1330 
+Zodis: june, Teksto eilutes: 64 258 269 273 549 1040 1062 1272 1281 1293 1377 1398 1437 1450 1463 1510 1511 1641 1726 1727 1735 1763 
+Zodis: seats, Teksto eilutes: 690 
+Zodis: coalition, Teksto eilutes: 690 
+Zodis: basilian, Teksto eilutes: 522 1026 
+Zodis: yale, Teksto eilutes: 1296 1317 1346 1569 
+Zodis: medicine, Teksto eilutes: 928 1170 1174 
+Zodis: he, Teksto eilutes: 152 163 186 228 515 517 519 603 673 676 680 910 1235 
+Zodis: stadium, Teksto eilutes: 1124 
+Zodis: sources, Teksto eilutes: 152 179 251 561 634 795 846 
+Zodis: series, Teksto eilutes: 192 211 1241 1244 1245 1246 1296 1318 
+Zodis: bajorai, Teksto eilutes: 702 815 
+Zodis: pilait, Teksto eilutes: 703 732 815 
+Zodis: vėrynas, Teksto eilutes: 710 741 819 821 934 1194 
+Zodis: bus, Teksto eilutes: 714 1148 1160 1164 1165 1332 1492 
+Zodis: charging, Teksto eilutes: 1160 
+Zodis: pavilnys, Teksto eilutes: 716 815 
+Zodis: naujininkai, Teksto eilutes: 718 728 823 
+Zodis: vytenis, Teksto eilutes: 175 842 
+Zodis: rasos, Teksto eilutes: 719 733 1085 
+Zodis: steadily, Teksto eilutes: 858 901 
+Zodis: contest, Teksto eilutes: 943 1160 
+Zodis: medininkai, Teksto eilutes: 745 756 1495 
+Zodis: defensive, Teksto eilutes: 745 1050 
+Zodis: primary, Teksto eilutes: 745 780 943 972 975 979 1180 
+Zodis: occupies, Teksto eilutes: 748 807 
+Zodis: car, Teksto eilutes: 815 823 1314 
+Zodis: portalas, Teksto eilutes: 1572 1587 
+Zodis: infrastructure, Teksto eilutes: 748 914 918 935 
+Zodis: standard, Teksto eilutes: 748 1115 1160 
+Zodis: environment, Teksto eilutes: 748 1081 1384 1676 
+Zodis: pasaulyje, Teksto eilutes: 1608 1626 
+Zodis: lower, Teksto eilutes: 531 586 795 975 
+Zodis: motiejus, Teksto eilutes: 1056 1262 
+Zodis: nationalities, Teksto eilutes: 750 795 
+Zodis: nearby, Teksto eilutes: 688 815 
+Zodis: hbo's, Teksto eilutes: 1243 1761 
+Zodis: vladislovas, Teksto eilutes: 505 1081 
+Zodis: dated, Teksto eilutes: 754 842 
+Zodis: enlightenment, Teksto eilutes: 758 962 
+Zodis: parliament, Teksto eilutes: 758 1508 
+Zodis: miracles, Teksto eilutes: 1050 1056 
+Zodis: consists, Teksto eilutes: 760 795 846 922 956 
+Zodis: workshops, Teksto eilutes: 495 618 676 680 
+Zodis: equipped, Teksto eilutes: 910 922 
+Zodis: view, Teksto eilutes: 55 950 1111 1787 
+Zodis: social, Teksto eilutes: 760 897 926 1297 1344 
+Zodis: utc, Teksto eilutes: 130 131 1785 
+Zodis: community, Teksto eilutes: 251 1258 1261 1671 1779 
+Zodis: apartments, Teksto eilutes: 814 821 823 903 
+Zodis: attractive, Teksto eilutes: 935 
+Zodis: constitutional, Teksto eilutes: 769 1511 
+Zodis: offices, Teksto eilutes: 765 778 829 935 
+Zodis: minister, Teksto eilutes: 765 880 
+Zodis: butkus, Teksto eilutes: 509 1577 
+Zodis: term, Teksto eilutes: 765 910 1493 
+Zodis: meets, Teksto eilutes: 767 769 
+Zodis: help, Teksto eilutes: 62 1172 1552 
+Zodis: samavičius, Teksto eilutes: 1301 1465 
+Zodis: governed, Teksto eilutes: 975 1178 
+Zodis: teismas, Teksto eilutes: 769 
+Zodis: genocide, Teksto eilutes: 1040 1077 
+Zodis: often, Teksto eilutes: 646 807 815 821 1077 1236 
+Zodis: vyriausiasis, Teksto eilutes: 769 778 
+Zodis: respublikos, Teksto eilutes: 769 954 1264 1503 1504 1562 1744 1789 
+Zodis: barbara, Teksto eilutes: 810 849 1353 
+Zodis: bernotas, Teksto eilutes: 1359 1360 
+Zodis: emergency, Teksto eilutes: 777 782 
+Zodis: security, Teksto eilutes: 778 941 1327 
+Zodis: ensuring, Teksto eilutes: 778 950 
+Zodis: safety, Teksto eilutes: 778 
+Zodis: castle, Teksto eilutes: 165 179 204 206 316 504 505 531 586 676 745 756 795 862 1495 
+Zodis: supervision, Teksto eilutes: 778 1054 
+Zodis: would, Teksto eilutes: 218 571 1325 
+Zodis: previous, Teksto eilutes: 1094 1150 
+Zodis: extreme, Teksto eilutes: 778 918 
+Zodis: proper, Teksto eilutes: 778 865 866 1050 
+Zodis: agree, Teksto eilutes: 1328 1786 
+Zodis: priešgaisrin, Teksto eilutes: 780 1516 
+Zodis: fire, Teksto eilutes: 780 841 850 
+Zodis: pagalbos, Teksto eilutes: 782 1518 1742 
+Zodis: medical, Teksto eilutes: 782 1172 1174 1180 1182 1183 
+Zodis: square, Teksto eilutes: 79 80 241 297 495 509 543 551 748 765 805 807 829 1056 1076 1077 1111 
+Zodis: būst, Teksto eilutes: 1264 1494 
+Zodis: victims, Teksto eilutes: 782 1040 1077 
+Zodis: examples, Teksto eilutes: 792 1026 
+Zodis: muscovites, Teksto eilutes: 794 827 
+Zodis: she, Teksto eilutes: 1054 1237 
+Zodis: ad, Teksto eilutes: 795 842 862 1416 
+Zodis: brick, Teksto eilutes: 795 827 1062 
+Zodis: powerful, Teksto eilutes: 795 918 
+Zodis: zones, Teksto eilutes: 287 1100 
+Zodis: say, Teksto eilutes: 1045 
+Zodis: plan, Teksto eilutes: 795 1537 
+Zodis: original, Teksto eilutes: 795 1275 1276 1277 1279 1281 1282 1285 1286 1287 1300 1311 1314 1320 1321 1351 1354 1362 1363 1369 1372 1374 1378 1380 1384 1393 1396 1405 1406 1415 1418 1423 1432 1437 1440 1456 1459 1462 1463 1466 1468 1480 1503 1506 1510 1511 1517 1518 1519 1528 1529 1537 1540 1541 1550 1560 1570 1573 1575 1579 1582 1599 1611 1635 1638 1639 1640 1642 1645 1652 1662 1665 1675 1680 1684 1714 1720 1722 1725 1727 1733 1735 1747 
+Zodis: culture, Teksto eilutes: 19 20 42 154 224 304 469 505 596 663 667 842 862 872 1091 1234 1282 1369 1370 1372 
+Zodis: churches, Teksto eilutes: 475 479 789 795 797 815 1001 1022 1026 1064 1259 
+Zodis: mayors, Teksto eilutes: 692 
+Zodis: tickets, Teksto eilutes: 545 549 1150 1152 1158 1162 
+Zodis: avant-garde, Teksto eilutes: 509 
+Zodis: shops, Teksto eilutes: 795 1150 
+Zodis: tanks, Teksto eilutes: 260 1363 
+Zodis: sports, Teksto eilutes: 36 975 1106 1117 1130 
+Zodis: additionally, Teksto eilutes: 1026 1071 
+Zodis: variety, Teksto eilutes: 797 821 866 
+Zodis: material, Teksto eilutes: 799 916 
+Zodis: theotokos, Teksto eilutes: 799 1029 
+Zodis: inc, Teksto eilutes: 918 1786 
+Zodis: sites, Teksto eilutes: 805 1077 
+Zodis: wealthy, Teksto eilutes: 645 648 680 819 
+Zodis: saints, Teksto eilutes: 805 1024 
+Zodis: carmelites, Teksto eilutes: 805 1050 
+Zodis: develop, Teksto eilutes: 827 842 
+Zodis: predominant, Teksto eilutes: 251 626 
+Zodis: joseph, Teksto eilutes: 805 1174 
+Zodis: newcomers, Teksto eilutes: 866 874 1029 
+Zodis: vokieči, Teksto eilutes: 805 1460 1763 
+Zodis: apartment, Teksto eilutes: 302 815 819 829 
+Zodis: uprising, Teksto eilutes: 216 226 228 258 273 605 634 853 854 872 1353 
+Zodis: heart, Teksto eilutes: 810 1045 1085 
+Zodis: non-noble, Teksto eilutes: 638 648 
+Zodis: views, Teksto eilutes: 814 815 
+Zodis: atmosphere, Teksto eilutes: 814 1259 
+Zodis: investment, Teksto eilutes: 827 903 937 
+Zodis: stone, Teksto eilutes: 815 1040 1464 
+Zodis: zeligowski, Teksto eilutes: 1328 1331 
+Zodis: earlier, Teksto eilutes: 179 298 1331 
+Zodis: millions, Teksto eilutes: 815 819 
+Zodis: jams, Teksto eilutes: 815 823 
+Zodis: air, Teksto eilutes: 815 1102 
+Zodis: build, Teksto eilutes: 815 827 
+Zodis: distant, Teksto eilutes: 815 823 
+Zodis: plots, Teksto eilutes: 819 
+Zodis: greenery, Teksto eilutes: 819 821 
+Zodis: religions, Teksto eilutes: 1020 1261 1673 
+Zodis: summer, Teksto eilutes: 131 331 603 1071 
+Zodis: higher, Teksto eilutes: 819 901 966 
+Zodis: amount, Teksto eilutes: 821 827 935 1150 1152 
+Zodis: lithuania's, Teksto eilutes: 148 177 509 620 748 765 769 805 901 950 994 1073 1324 1329 1396 
+Zodis: production, Teksto eilutes: 618 
+Zodis: overall, Teksto eilutes: 821 897 1259 1283 
+Zodis: communication, Teksto eilutes: 823 998 1667 
+Zodis: now, Teksto eilutes: 159 280 283 302 542 543 827 829 1040 1085 1152 1244 
+Zodis: connecting, Teksto eilutes: 823 1139 1145 
+Zodis: guidance, Teksto eilutes: 525 1054 
+Zodis: suburb, Teksto eilutes: 827 
+Zodis: rate, Teksto eilutes: 895 897 
+Zodis: raphael, Teksto eilutes: 827 1024 
+Zodis: studies, Teksto eilutes: 650 916 985 1335 1344 1674 1680 1759 
+Zodis: intended, Teksto eilutes: 880 905 
+Zodis: best, Teksto eilutes: 579 789 977 1104 1658 
+Zodis: underdeveloped, Teksto eilutes: 827 829 
+Zodis: next, Teksto eilutes: 827 850 922 1073 
+Zodis: rosji, Teksto eilutes: 1771 1781 
+Zodis: quarter, Teksto eilutes: 827 866 893 895 1029 1324 
+Zodis: encyclopedia, Teksto eilutes: 4 59 1324 1348 1598 
+Zodis: faustina, Teksto eilutes: 1024 1054 1684 
+Zodis: empire, Teksto eilutes: 159 213 215 216 234 684 850 854 874 910 1564 
+Zodis: shopping, Teksto eilutes: 829 1096 
+Zodis: hotel, Teksto eilutes: 829 1110 1111 1113 
+Zodis: story, Teksto eilutes: 829 1281 1779 
+Zodis: constantly, Teksto eilutes: 829 842 874 
+Zodis: real, Teksto eilutes: 829 903 
+Zodis: activities, Teksto eilutes: 329 491 517 603 605 956 
+Zodis: estate, Teksto eilutes: 829 903 
+Zodis: price, Teksto eilutes: 833 1324 1548 
+Zodis: young, Teksto eilutes: 833 895 916 
+Zodis: payment, Teksto eilutes: 833 945 
+Zodis: scientific, Teksto eilutes: 207 607 913 916 922 926 996 998 1260 
+Zodis: mentions, Teksto eilutes: 298 1020 
+Zodis: remains, Teksto eilutes: 842 897 910 1085 1678 1679 
+Zodis: bc, Teksto eilutes: 842 1122 
+Zodis: populated, Teksto eilutes: 842 862 
+Zodis: fortified, Teksto eilutes: 842 862 
+Zodis: balsiai, Teksto eilutes: 699 815 
+Zodis: national, Teksto eilutes: 148 233 234 253 317 504 505 509 549 563 565 579 593 594 598 665 762 765 829 901 941 954 962 974 983 994 998 1124 1323 1334 1387 1434 
+Zodis: artists, Teksto eilutes: 475 495 563 667 803 1372 
+Zodis: presidents, Teksto eilutes: 310 819 
+Zodis: dream, Teksto eilutes: 163 1290 
+Zodis: writings, Teksto eilutes: 846 1040 
+Zodis: increased, Teksto eilutes: 329 866 1034 
+Zodis: monarchs, Teksto eilutes: 194 1296 
+Zodis: enclosed, Teksto eilutes: 815 1026 
+Zodis: outbreak, Teksto eilutes: 211 850 
+Zodis: our, Teksto eilutes: 1049 1050 
+Zodis: golden, Teksto eilutes: 849 850 
+Zodis: duchy's, Teksto eilutes: 853 854 
+Zodis: performances, Teksto eilutes: 509 545 586 588 594 596 667 
+Zodis: become, Teksto eilutes: 216 302 618 795 874 1050 1073 
+Zodis: decreased, Teksto eilutes: 854 897 
+Zodis: save, Teksto eilutes: 854 1671 
+Zodis: few, Teksto eilutes: 854 866 968 1102 
+Zodis: grew, Teksto eilutes: 858 901 1092 
+Zodis: living, Teksto eilutes: 287 748 815 821 833 853 872 
+Zodis: parking, Teksto eilutes: 815 823 
+Zodis: humanities, Teksto eilutes: 968 998 
+Zodis: surnames, Teksto eilutes: 862 866 
+Zodis: surviving, Teksto eilutes: 862 1017 
+Zodis: sovietization, Teksto eilutes: 281 882 
+Zodis: kowalska, Teksto eilutes: 1024 1054 
+Zodis: what, Teksto eilutes: 165 829 
+Zodis: civitas, Teksto eilutes: 866 1029 
+Zodis: dominican, Teksto eilutes: 869 1046 1056 
+Zodis: printing, Teksto eilutes: 515 517 
+Zodis: spirit, Teksto eilutes: 869 1030 1046 
+Zodis: aspirations, Teksto eilutes: 222 286 
+Zodis: opinion, Teksto eilutes: 872 1281 
+Zodis: christian, Teksto eilutes: 690 1024 1030 1032 1050 1261 
+Zodis: famous, Teksto eilutes: 483 523 579 581 594 603 756 803 877 1030 1040 1111 1330 
+Zodis: merkys, Teksto eilutes: 874 880 1553 1581 
+Zodis: reference, Teksto eilutes: 144 179 1259 1260 
+Zodis: erckert, Teksto eilutes: 874 1580 
+Zodis: followed, Teksto eilutes: 273 491 646 
+Zodis: ranked, Teksto eilutes: 937 964 1104 
+Zodis: accounted, Teksto eilutes: 878 882 1094 
+Zodis: appeared, Teksto eilutes: 477 634 
+Zodis: vilnius, Teksto eilutes: 48 65 69 70 71 72 74 81 83 85 91 92 100 101 109 140 146 148 150 152 154 156 159 166 169 170 174 177 179 183 186 190 194 196 199 204 206 211 213 216 218 221 222 224 226 228 231 233 234 237 242 244 248 249 251 253 260 261 263 265 268 269 273 275 280 281 283 286 287 289 291 298 302 304 307 310 312 316 317 319 321 324 328 329 335 337 475 477 483 490 491 495 499 504 505 508 509 515 517 519 523 525 531 533 535 537 542 543 545 549 551 553 555 560 561 563 565 569 571 575 577 579 585 586 588 590 594 598 603 605 607 609 611 615 617 618 620 623 625 628 631 636 640 645 650 652 657 659 667 671 673 674 676 679 680 683 686 688 690 698 718 743 745 747 748 750 752 754 758 760 765 767 769 771 777 778 780 784 789 794 795 797 799 802 803 805 807 810 814 815 827 829 833 836 839 842 844 846 849 850 853 854 856 858 861 862 865 866 872 874 878 880 888 890 891 893 895 897 901 903 905 909 910 914 916 918 921 922 924 928 930 935 937 939 941 945 950 961 962 964 966 970 975 977 979 981 983 985 987 991 992 998 1001 1002 1017 1019 1020 1022 1024 1026 1029 1030 1032 1034 1039 1040 1042 1045 1050 1053 1054 1056 1058 1062 1064 1066 1071 1073 1077 1085 1089 1091 1092 1094 1096 1098 1100 1102 1104 1106 1110 1111 1113 1115 1121 1124 1126 1128 1132 1134 1138 1139 1141 1143 1145 1152 1160 1164 1165 1170 1172 1174 1176 1178 1180 1182 1183 1185 1186 1189 1190 1192 1194 1196 1200 1235 1236 1238 1239 1240 1241 1242 1243 1244 1245 1246 1248 1249 1253 1254 1255 1256 1258 1259 1260 1261 1262 1263 1270 1271 1276 1277 1279 1280 1287 1290 1291 1293 1299 1305 1314 1323 1324 1325 1327 1333 1334 1349 1350 1359 1360 1363 1369 1372 1375 1376 1380 1386 1387 1389 1390 1398 1412 1416 1423 1429 1450 1460 1493 1496 1529 1532 1534 1552 1553 1567 1577 1581 1597 1604 1623 1635 1638 1645 1646 1650 1653 1658 1659 1683 1688 1696 1709 1710 1715 1716 1718 1719 1720 1726 1727 1730 1732 1733 1736 1756 1757 1758 1761 1767 1769 1771 1772 1775 1777 1780 1781 1782 1784 
+Zodis: regained, Teksto eilutes: 880 1324 
+Zodis: pool, Teksto eilutes: 1128 
+Zodis: z, Teksto eilutes: 1261 1382 1552 1567 1771 1781 
+Zodis: regarded, Teksto eilutes: 880 1022 
+Zodis: nationals, Teksto eilutes: 880 
+Zodis: servants, Teksto eilutes: 880 1024 
+Zodis: migrated, Teksto eilutes: 880 1042 
+Zodis: ideas, Teksto eilutes: 882 1727 
+Zodis: cultural, Teksto eilutes: 141 207 253 308 549 603 667 994 996 1259 1260 1333 1368 1369 1372 1680 
+Zodis: metropolitan, Teksto eilutes: 891 897 1267 
+Zodis: tallinn, Teksto eilutes: 891 1222 
+Zodis: opened, Teksto eilutes: 265 509 545 551 603 922 945 998 1081 1083 1696 
+Zodis: gross, Teksto eilutes: 893 1267 1336 
+Zodis: unemployment, Teksto eilutes: 895 897 
+Zodis: indicators, Teksto eilutes: 895 
+Zodis: counties, Teksto eilutes: 895 
+Zodis: hotels, Teksto eilutes: 1100 1108 1111 1113 1115 1709 1710 
+Zodis: kazimirowski, Teksto eilutes: 1053 1054 
+Zodis: trakai, Teksto eilutes: 179 688 748 1096 1100 
+Zodis: astronomijos, Teksto eilutes: 1450 1599 
+Zodis: long-term, Teksto eilutes: 895 930 1162 
+Zodis: lankos, Teksto eilutes: 1314 1767 
+Zodis: risk, Teksto eilutes: 897 
+Zodis: jorge, Teksto eilutes: 1598 
+Zodis: nearly, Teksto eilutes: 897 901 1102 
+Zodis: particular, Teksto eilutes: 897 1152 
+Zodis: swimming, Teksto eilutes: 1128 1130 1716 
+Zodis: excellent, Teksto eilutes: 900 1019 
+Zodis: past, Teksto eilutes: 901 1139 1335 
+Zodis: nordic, Teksto eilutes: 937 956 1680 
+Zodis: producing, Teksto eilutes: 901 918 
+Zodis: method, Teksto eilutes: 317 491 
+Zodis: holocaust, Teksto eilutes: 152 273 283 880 1040 1348 1352 
+Zodis: experienced, Teksto eilutes: 901 1056 
+Zodis: rising, Teksto eilutes: 903 1236 
+Zodis: organizes, Teksto eilutes: 565 652 992 994 
+Zodis: peak, Teksto eilutes: 903 918 
+Zodis: wikipedia, Teksto eilutes: 59 1786 
+Zodis: offers, Teksto eilutes: 748 814 815 819 916 935 998 1111 
+Zodis: battles, Teksto eilutes: 479 854 
+Zodis: thomas, Teksto eilutes: 910 1236 1325 
+Zodis: rates, Teksto eilutes: 895 897 
+Zodis: marcin, Teksto eilutes: 910 
+Zodis: partly, Teksto eilutes: 1245 1246 
+Zodis: inhabited, Teksto eilutes: 827 846 874 
+Zodis: monasteries, Teksto eilutes: 1026 1259 
+Zodis: observations, Teksto eilutes: 910 
+Zodis: des, Teksto eilutes: 910 1580 
+Zodis: gilibert, Teksto eilutes: 910 1601 
+Zodis: gaon, Teksto eilutes: 1040 1085 
+Zodis: sciences, Teksto eilutes: 910 916 922 926 935 966 996 1450 1577 1621 
+Zodis: journal, Teksto eilutes: 910 1369 1719 
+Zodis: kunigaikštystės, Teksto eilutes: 1300 1462 1558 
+Zodis: universities, Teksto eilutes: 913 964 966 968 985 998 1020 1645 
+Zodis: festivals, Teksto eilutes: 654 1081 
+Zodis: units, Teksto eilutes: 273 302 
+Zodis: miniseries, Teksto eilutes: 1242 1243 
+Zodis: mokslo, Teksto eilutes: 914 1615 1738 
+Zodis: vu, Teksto eilutes: 1615 1645 
+Zodis: neighborhood, Teksto eilutes: 818 1062 
+Zodis: ir, Teksto eilutes: 914 916 998 1262 1264 1337 1341 1349 1351 1356 1358 1418 1429 1456 1460 1468 1494 1500 1517 1542 1543 1544 1545 1549 1577 1590 1641 1654 1664 1694 1701 1702 1704 1707 1713 1715 1724 1727 1738 1741 1742 1757 
+Zodis: so, Teksto eilutes: 1045 1673 
+Zodis: technologij, Teksto eilutes: 914 1653 
+Zodis: parkas, Teksto eilutes: 914 1697 
+Zodis: non-profit, Teksto eilutes: 914 1786 
+Zodis: jonathan, Teksto eilutes: 1281 1329 
+Zodis: sector, Teksto eilutes: 302 935 
+Zodis: rodkowo-wschodniej, Teksto eilutes: 1771 1781 
+Zodis: moksl, Teksto eilutes: 916 922 926 996 1741 
+Zodis: ftmc, Teksto eilutes: 916 1605 
+Zodis: laser, Teksto eilutes: 916 918 
+Zodis: nuclear, Teksto eilutes: 916 918 1242 
+Zodis: chemistry, Teksto eilutes: 916 
+Zodis: phd, Teksto eilutes: 916 922 
+Zodis: fiztech, Teksto eilutes: 916 1605 
+Zodis: field, Teksto eilutes: 916 930 945 
+Zodis: universiteto, Teksto eilutes: 918 922 998 1599 1616 1659 1668 
+Zodis: nation, Teksto eilutes: 237 253 1318 
+Zodis: sculptural, Teksto eilutes: 479 
+Zodis: faculty, Teksto eilutes: 918 928 935 1174 1620 1621 
+Zodis: citizens, Teksto eilutes: 690 853 996 1020 1249 1262 
+Zodis: birthplace, Teksto eilutes: 577 1054 
+Zodis: battle, Teksto eilutes: 242 275 850 
+Zodis: fall, Teksto eilutes: 242 939 
+Zodis: licence, Teksto eilutes: 918 945 956 
+Zodis: country's, Teksto eilutes: 752 901 903 
+Zodis: virginijus, Teksto eilutes: 921 930 
+Zodis: ikšnys, Teksto eilutes: 921 930 
+Zodis: alumni, Teksto eilutes: 523 998 
+Zodis: rated, Teksto eilutes: 977 1242 
+Zodis: faculties, Teksto eilutes: 913 964 
+Zodis: able, Teksto eilutes: 922 1170 
+Zodis: exhibition, Teksto eilutes: 505 509 537 611 1779 
+Zodis: engineering, Teksto eilutes: 924 1719 
+Zodis: economics, Teksto eilutes: 926 968 998 
+Zodis: retreat, Teksto eilutes: 221 222 878 
+Zodis: photographs, Teksto eilutes: 605 
+Zodis: santaros, Teksto eilutes: 928 1180 1615 
+Zodis: completed, Teksto eilutes: 928 1083 
+Zodis: kubilius, Teksto eilutes: 930 
+Zodis: then, Teksto eilutes: 186 251 594 829 854 
+Zodis: pagan, Teksto eilutes: 163 795 841 862 1058 1259 
+Zodis: prize, Teksto eilutes: 930 1618 
+Zodis: amsterdam, Teksto eilutes: 1022 1334 1673 
+Zodis: blockchain, Teksto eilutes: 934 945 1635 
+Zodis: good, Teksto eilutes: 935 1073 
+Zodis: janušauskien, Teksto eilutes: 1560 1579 1582 
+Zodis: shown, Teksto eilutes: 543 588 594 
+Zodis: notably, Teksto eilutes: 935 1032 
+Zodis: mathematics, Teksto eilutes: 935 1620 
+Zodis: informatics, Teksto eilutes: 935 943 1620 
+Zodis: tech, Teksto eilutes: 937 1625 
+Zodis: na, Teksto eilutes: 1552 
+Zodis: startup, Teksto eilutes: 937 945 
+Zodis: unites, Teksto eilutes: 937 1174 
+Zodis: west, Teksto eilutes: 273 799 827 1326 
+Zodis: start-up, Teksto eilutes: 937 1625 
+Zodis: internet, Teksto eilutes: 939 941 1150 1627 
+Zodis: wi-fi, Teksto eilutes: 939 1160 
+Zodis: computer, Teksto eilutes: 943 992 
+Zodis: fintech, Teksto eilutes: 945 1632 
+Zodis: e-money, Teksto eilutes: 945 
+Zodis: bank, Teksto eilutes: 945 949 950 956 1641 
+Zodis: revolut, Teksto eilutes: 945 1634 
+Zodis: finance, Teksto eilutes: 947 950 1077 
+Zodis: sustainable, Teksto eilutes: 950 1719 
+Zodis: vasario, Teksto eilutes: 954 1474 
+Zodis: osios, Teksto eilutes: 954 1474 
+Zodis: concerts, Teksto eilutes: 565 1019 1081 1106 
+Zodis: holding, Teksto eilutes: 956 1126 
+Zodis: ab, Teksto eilutes: 956 
+Zodis: seb, Teksto eilutes: 956 1126 1715 
+Zodis: bankas, Teksto eilutes: 956 1641 
+Zodis: show, Teksto eilutes: 94 95 96 97 304 598 652 
+Zodis: tertiary, Teksto eilutes: 959 985 1657 
+Zodis: brutal, Teksto eilutes: 844 874 
+Zodis: participating, Teksto eilutes: 964 1111 
+Zodis: renting, Teksto eilutes: 1167 1168 
+Zodis: constituted, Teksto eilutes: 228 
+Zodis: programs, Teksto eilutes: 964 
+Zodis: archdiocese, Teksto eilutes: 1024 1064 
+Zodis: pulses, Teksto eilutes: 918 
+Zodis: pitol, Teksto eilutes: 1170 1172 1737 
+Zodis: associated, Teksto eilutes: 966 1024 1050 
+Zodis: ism, Teksto eilutes: 968 998 
+Zodis: kazimieras, Teksto eilutes: 968 998 1262 1460 
+Zodis: simonavičius, Teksto eilutes: 968 998 
+Zodis: nato, Teksto eilutes: 154 307 312 964 1377 
+Zodis: open, Teksto eilutes: 209 916 922 935 998 1054 1126 1604 1715 
+Zodis: colleges, Teksto eilutes: 970 985 
+Zodis: fastest, Teksto eilutes: 901 939 
+Zodis: communities, Teksto eilutes: 799 821 1680 1784 
+Zodis: margolis, Teksto eilutes: 1237 1759 
+Zodis: compulsory, Teksto eilutes: 975 1178 
+Zodis: so-called, Teksto eilutes: 289 
+Zodis: met, Teksto eilutes: 1264 1332 1365 1517 
+Zodis: in, Teksto eilutes: 8 42 92 118 146 148 150 152 154 159 163 174 175 179 184 186 192 194 196 198 199 204 206 207 211 215 216 218 221 222 224 226 228 231 233 234 237 241 242 244 248 249 251 253 255 258 260 263 265 268 269 273 275 280 281 283 286 287 289 291 295 297 298 301 302 304 307 308 310 312 316 317 328 329 331 333 335 475 477 479 483 490 491 495 497 499 502 504 505 508 509 514 515 517 519 523 525 527 531 533 535 537 542 543 545 548 549 551 553 555 560 561 563 565 568 569 571 575 579 581 585 586 588 590 594 596 598 602 603 605 607 609 611 615 617 618 620 625 626 628 631 633 634 636 640 645 646 648 650 652 656 657 659 661 663 674 676 679 680 683 684 688 690 692 698 745 748 750 752 754 760 765 767 769 771 777 778 780 782 784 789 792 795 797 799 802 803 805 807 810 815 818 819 821 826 827 829 832 833 839 842 844 846 849 850 853 854 856 858 862 865 866 869 871 872 874 877 878 880 882 884 888 890 891 893 895 897 900 901 903 909 910 913 914 916 918 922 924 926 928 930 934 935 937 939 941 943 945 949 950 953 954 956 962 964 966 970 975 977 979 983 985 991 992 994 998 1001 1002 1017 1019 1020 1022 1026 1029 1030 1032 1034 1037 1040 1045 1046 1050 1054 1056 1058 1061 1062 1066 1070 1071 1073 1077 1083 1085 1089 1091 1092 1094 1096 1098 1100 1102 1104 1106 1111 1113 1115 1121 1122 1124 1126 1128 1139 1141 1145 1148 1150 1152 1154 1156 1158 1160 1164 1165 1170 1172 1174 1176 1178 1180 1182 1183 1185 1186 1190 1192 1194 1196 1199 1234 1235 1236 1237 1238 1239 1240 1241 1242 1243 1244 1245 1246 1254 1255 1258 1259 1260 1261 1273 1274 1281 1288 1289 1292 1298 1299 1300 1301 1302 1303 1304 1307 1310 1311 1314 1316 1319 1322 1323 1324 1327 1328 1329 1330 1331 1332 1333 1335 1337 1338 1339 1340 1341 1344 1349 1351 1352 1354 1356 1358 1362 1365 1366 1367 1369 1372 1375 1376 1384 1389 1391 1392 1404 1418 1424 1425 1426 1434 1436 1439 1441 1448 1449 1450 1451 1452 1453 1454 1455 1456 1457 1458 1459 1460 1461 1462 1463 1465 1466 1467 1468 1469 1472 1473 1474 1475 1476 1478 1479 1483 1484 1485 1486 1487 1488 1489 1490 1492 1493 1497 1500 1502 1506 1512 1513 1515 1527 1531 1532 1534 1536 1537 1538 1539 1540 1541 1543 1546 1547 1549 1550 1552 1553 1554 1556 1557 1558 1559 1564 1567 1571 1573 1574 1575 1578 1580 1581 1589 1590 1593 1599 1600 1601 1610 1611 1619 1623 1628 1633 1634 1635 1636 1641 1645 1646 1652 1654 1658 1662 1664 1665 1668 1671 1673 1674 1680 1681 1682 1683 1687 1695 1696 1697 1698 1699 1705 1707 1709 1710 1712 1715 1717 1723 1725 1727 1730 1731 1732 1733 1736 1738 1741 1742 1749 1756 1757 1758 1763 1768 1778 1784 
+Zodis: vocational, Teksto eilutes: 981 
+Zodis: libraries, Teksto eilutes: 989 992 1661 
+Zodis: library, Teksto eilutes: 991 992 994 996 998 1666 1669 
+Zodis: high, Teksto eilutes: 136 339 468 748 752 815 895 935 
+Zodis: miesto, Teksto eilutes: 992 1301 1445 1465 1485 1489 1545 1547 1553 1581 1589 1701 1702 1704 1713 1746 1747 1789 
+Zodis: throughout, Teksto eilutes: 159 165 287 331 565 862 1022 
+Zodis: savivaldybės, Teksto eilutes: 992 1485 1489 1499 1536 
+Zodis: annually, Teksto eilutes: 537 551 575 656 661 663 916 943 1050 1096 
+Zodis: biblioteka, Teksto eilutes: 992 994 996 1291 1668 
+Zodis: link, Teksto eilutes: 1141 1288 1368 
+Zodis: reserves, Teksto eilutes: 323 324 1071 
+Zodis: wroblewski, Teksto eilutes: 996 
+Zodis: action, Teksto eilutes: 690 760 
+Zodis: akademijos, Teksto eilutes: 996 1738 
+Zodis: power, Teksto eilutes: 918 1335 
+Zodis: youth, Teksto eilutes: 598 754 802 895 
+Zodis: professors, Teksto eilutes: 998 1174 
+Zodis: temporary, Teksto eilutes: 251 505 878 
+Zodis: dead, Teksto eilutes: 1288 1368 
+Zodis: vėl, Teksto eilutes: 1332 1479 
+Zodis: ne, Teksto eilutes: 1365 1458 1459 1527 1536 1703 
+Zodis: lutheran, Teksto eilutes: 1007 1032 
+Zodis: use, Teksto eilutes: 228 607 833 905 910 922 996 1150 1160 1259 1786 
+Zodis: temperatures, Teksto eilutes: 329 331 333 468 
+Zodis: most, Teksto eilutes: 152 159 199 207 261 283 287 302 479 483 493 551 571 594 603 607 618 620 626 634 661 680 750 756 795 814 815 819 821 842 846 903 918 922 935 985 991 998 1032 1040 1077 1094 1111 1148 1194 1673 
+Zodis: closure, Teksto eilutes: 253 490 
+Zodis: muslim, Teksto eilutes: 1009 1261 
+Zodis: patients, Teksto eilutes: 1172 
+Zodis: tennis, Teksto eilutes: 1126 1130 
+Zodis: republished, Teksto eilutes: 1022 1330 
+Zodis: unit, Teksto eilutes: 273 910 
+Zodis: description, Teksto eilutes: 1022 1673 
+Zodis: persons, Teksto eilutes: 1024 1178 
+Zodis: martyrs, Teksto eilutes: 1024 1058 
+Zodis: crafts, Teksto eilutes: 209 613 618 620 
+Zodis: god, Teksto eilutes: 1024 1034 1056 1673 
+Zodis: treasury, Teksto eilutes: 199 676 1693 
+Zodis: jurgis, Teksto eilutes: 1024 1415 1719 
+Zodis: hannibal, Teksto eilutes: 1030 1236 
+Zodis: basketball, Teksto eilutes: 1122 1130 
+Zodis: stage, Teksto eilutes: 545 594 
+Zodis: musicians, Teksto eilutes: 561 575 577 579 586 1019 1111 
+Zodis: animal, Teksto eilutes: 646 910 
+Zodis: lazdynai, Teksto eilutes: 289 712 726 823 1128 
+Zodis: factory, Teksto eilutes: 255 263 273 827 
+Zodis: ligoni, Teksto eilutes: 1273 1274 
+Zodis: exchange, Teksto eilutes: 950 
+Zodis: divine, Teksto eilutes: 1050 1053 1054 1056 
+Zodis: pilgrims, Teksto eilutes: 1050 1054 
+Zodis: mercy, Teksto eilutes: 1053 1054 
+Zodis: sanctuary, Teksto eilutes: 1053 1054 
+Zodis: museum, Teksto eilutes: 280 504 505 509 548 551 829 966 1040 1064 1077 1300 1403 1650 
+Zodis: football, Teksto eilutes: 1124 1130 
+Zodis: prie, Teksto eilutes: 1332 1339 1355 1789 
+Zodis: samuel, Teksto eilutes: 505 1020 1672 
+Zodis: calvary, Teksto eilutes: 1061 1062 1688 
+Zodis: gratitude, Teksto eilutes: 1061 1062 
+Zodis: cross, Teksto eilutes: 1062 
+Zodis: authentic, Teksto eilutes: 505 1081 
+Zodis: pentecost, Teksto eilutes: 1062 
+Zodis: kaziuko, Teksto eilutes: 656 661 1477 
+Zodis: paveldo, Teksto eilutes: 1064 1381 
+Zodis: merchants, Teksto eilutes: 646 680 844 846 866 872 
+Zodis: host, Teksto eilutes: 1071 1134 1377 
+Zodis: perti, Teksto eilutes: 479 803 
+Zodis: examined, Teksto eilutes: 680 
+Zodis: affairs, Teksto eilutes: 1077 1375 1376 
+Zodis: rapid, Teksto eilutes: 209 901 1148 
+Zodis: dating, Teksto eilutes: 789 810 
+Zodis: collected, Teksto eilutes: 1092 1552 
+Zodis: venues, Teksto eilutes: 1092 1094 
+Zodis: survey, Teksto eilutes: 1096 1115 
+Zodis: results, Teksto eilutes: 690 1571 
+Zodis: visas, Teksto eilutes: 1096 1760 
+Zodis: guests, Teksto eilutes: 586 1092 1094 
+Zodis: western, Teksto eilutes: 477 491 645 650 862 1336 
+Zodis: weather, Teksto eilutes: 468 1073 1386 1389 1390 
+Zodis: arena, Teksto eilutes: 1119 1122 1126 
+Zodis: strongly, Teksto eilutes: 163 821 
+Zodis: rytas, Teksto eilutes: 1122 1190 1192 1727 
+Zodis: eurocup, Teksto eilutes: 1122 
+Zodis: domestic, Teksto eilutes: 1122 1267 
+Zodis: cemetery, Teksto eilutes: 1085 1699 
+Zodis: new, Teksto eilutes: 87 287 295 302 304 497 504 505 509 603 676 680 821 829 888 903 1054 1062 1150 1156 1160 1261 1319 1334 1352 1364 1401 1680 1730 1731 1732 
+Zodis: ussr, Teksto eilutes: 263 596 
+Zodis: into, Teksto eilutes: 163 207 263 275 302 795 829 854 880 964 966 1058 1106 1259 
+Zodis: rented, Teksto eilutes: 1092 1094 
+Zodis: eugeniusz, Teksto eilutes: 1053 1054 
+Zodis: regular, Teksto eilutes: 1139 1148 
+Zodis: volvo, Teksto eilutes: 1154 1726 
+Zodis: realism, Teksto eilutes: 491 596 
+Zodis: station, Teksto eilutes: 1141 1143 1194 
+Zodis: places, Teksto eilutes: 648 805 819 1050 1100 1379 
+Zodis: holy, Teksto eilutes: 659 841 869 1030 1046 1049 1062 
+Zodis: petersburg, Teksto eilutes: 1143 1231 1580 
+Zodis: rusijos, Teksto eilutes: 1559 1758 
+Zodis: motorway, Teksto eilutes: 1145 
+Zodis: route, Teksto eilutes: 1145 1148 1160 1690 
+Zodis: brensztejn, Teksto eilutes: 1566 1768 
+Zodis: southern, Teksto eilutes: 1145 1327 
+Zodis: river, Teksto eilutes: 159 163 302 316 665 765 818 827 862 1058 1073 1139 1719 
+Zodis: trolleybus, Teksto eilutes: 1148 
+Zodis: turist, Teksto eilutes: 1701 1702 1704 1713 
+Zodis: transportas, Teksto eilutes: 1148 1724 
+Zodis: buses, Teksto eilutes: 1148 1154 1160 1730 1731 1733 
+Zodis: possible, Teksto eilutes: 1150 1152 
+Zodis: casimir, Teksto eilutes: 561 626 656 661 754 802 803 1019 1024 
+Zodis: appropriate, Teksto eilutes: 1150 1152 
+Zodis: european, Teksto eilutes: 154 156 302 304 310 477 491 569 618 645 650 939 956 962 968 998 1102 1104 1111 1122 1145 1282 1285 1286 1315 1319 1327 1328 1369 1591 1592 1594 1595 1596 
+Zodis: ways, Teksto eilutes: 1150 1673 
+Zodis: vilniečio, Teksto eilutes: 1152 1729 
+Zodis: release, Teksto eilutes: 1375 1376 
+Zodis: gap, Teksto eilutes: 897 
+Zodis: middle, Teksto eilutes: 588 628 646 821 846 888 1160 1271 1680 
+Zodis: system, Teksto eilutes: 692 918 930 950 956 975 992 1150 1152 1154 1156 
+Zodis: koda, Teksto eilutes: 1154 1164 1165 
+Zodis: timothy, Teksto eilutes: 1317 1346 1569 
+Zodis: brand-new, Teksto eilutes: 1154 
+Zodis: navigation, Teksto eilutes: 1139 1719 
+Zodis: inhabitants, Teksto eilutes: 213 218 255 269 289 821 833 853 884 1317 
+Zodis: armistice, Teksto eilutes: 1326 1330 
+Zodis: gyventojai, Teksto eilutes: 1264 1558 1559 1561 1562 1570 1571 1671 
+Zodis: available, Teksto eilutes: 1162 1167 1168 1786 
+Zodis: kasa, Teksto eilutes: 1273 1274 
+Zodis: orange, Teksto eilutes: 1167 1168 
+Zodis: bikes, Teksto eilutes: 1167 1168 
+Zodis: health, Teksto eilutes: 1170 1178 1180 1743 
+Zodis: lietuvoje, Teksto eilutes: 1342 1355 1456 1492 1560 1579 1582 1622 1633 1734 1760 
+Zodis: even, Teksto eilutes: 213 251 618 646 648 827 872 1030 1096 
+Zodis: anthony, Teksto eilutes: 1024 1236 
+Zodis: teaching, Teksto eilutes: 1174 1185 1186 
+Zodis: hospital, Teksto eilutes: 1174 1180 1185 1186 
+Zodis: clinic, Teksto eilutes: 1174 1185 1186 
+Zodis: case, Teksto eilutes: 676 680 
+Zodis: jurginis, Teksto eilutes: 1553 1581 
+Zodis: orchestra, Teksto eilutes: 545 565 
+Zodis: insurance, Teksto eilutes: 1178 
+Zodis: premiere, Teksto eilutes: 509 579 
+Zodis: korzonas, Teksto eilutes: 605 
+Zodis: kurier, Teksto eilutes: 1189 1190 1748 
+Zodis: litewski, Teksto eilutes: 1189 1190 1748 
+Zodis: newspapers, Teksto eilutes: 1190 1552 
+Zodis: microdistrict, Teksto eilutes: 1192 1194 
+Zodis: signals, Teksto eilutes: 1192 1194 
+Zodis: etymology, Teksto eilutes: 13 158 
+Zodis: troupe, Teksto eilutes: 563 594 
+Zodis: facts, Teksto eilutes: 607 1278 1644 
+Zodis: urnalist, Teksto eilutes: 1196 1754 1755 
+Zodis: sąjunga, Teksto eilutes: 1196 1754 
+Zodis: kazakhstan, Teksto eilutes: 1203 1204 
+Zodis: destroyed, Teksto eilutes: 216 283 1040 1062 1085 1679 1784 
+Zodis: china, Teksto eilutes: 1211 
+Zodis: finland, Teksto eilutes: 1212 
+Zodis: form, Teksto eilutes: 242 269 628 
+Zodis: d, Teksto eilutes: 1215 1259 1316 1362 1383 1563 1707 1768 
+Zodis: taiwan, Teksto eilutes: 1221 
+Zodis: sunday, Teksto eilutes: 482 661 754 
+Zodis: kaip, Teksto eilutes: 1502 1528 1619 1694 1729 
+Zodis: bathhouses, Teksto eilutes: 1170 
+Zodis: facilities, Teksto eilutes: 914 1113 1180 
+Zodis: lecter, Teksto eilutes: 1236 
+Zodis: zawadzki, Teksto eilutes: 514 517 
+Zodis: orthodox, Teksto eilutes: 799 1005 1020 1024 1029 1030 1040 
+Zodis: strategy, Teksto eilutes: 1238 1239 1240 
+Zodis: study, Teksto eilutes: 914 1040 1329 
+Zodis: hydrometeorological, Teksto eilutes: 329 335 1384 1385 
+Zodis: ltd, Teksto eilutes: 1282 1283 
+Zodis: retrieved, Teksto eilutes: 1258 1264 1270 1271 1272 1273 1274 1276 1277 1278 1279 1280 1281 1283 1285 1286 1287 1288 1289 1290 1292 1293 1294 1297 1298 1299 1300 1301 1302 1303 1304 1305 1307 1309 1310 1311 1332 1342 1343 1354 1355 1356 1358 1359 1360 1361 1362 1364 1365 1366 1367 1368 1369 1370 1371 1372 1374 1377 1378 1380 1381 1384 1385 1386 1387 1388 1389 1390 1391 1392 1393 1394 1395 1398 1399 1400 1401 1402 1403 1404 1405 1406 1407 1408 1409 1410 1411 1412 1413 1414 1415 1416 1417 1418 1419 1420 1421 1422 1423 1424 1425 1426 1427 1428 1429 1430 1431 1432 1433 1434 1435 1436 1437 1439 1440 1441 1442 1443 1444 1445 1446 1447 1448 1449 1450 1451 1452 1453 1454 1455 1456 1457 1458 1459 1460 1461 1462 1463 1464 1465 1466 1467 1468 1469 1470 1471 1472 1473 1475 1476 1477 1478 1479 1480 1481 1482 1483 1484 1485 1486 1487 1488 1489 1490 1491 1492 1493 1495 1496 1497 1498 1501 1502 1503 1504 1505 1506 1507 1508 1509 1510 1511 1512 1513 1514 1515 1516 1517 1518 1519 1520 1522 1523 1524 1525 1526 1527 1528 1529 1530 1531 1532 1533 1534 1535 1536 1537 1538 1539 1540 1541 1547 1548 1549 1550 1554 1555 1556 1557 1558 1559 1560 1561 1562 1563 1571 1572 1573 1574 1575 1576 1577 1578 1579 1580 1582 1583 1589 1590 1591 1592 1593 1594 1595 1596 1597 1598 1599 1600 1601 1602 1603 1604 1605 1606 1608 1609 1610 1611 1612 1613 1614 1615 1617 1619 1620 1621 1622 1624 1625 1626 1627 1628 1629 1630 1631 1632 1633 1634 1635 1636 1637 1638 1639 1640 1641 1642 1643 1644 1645 1646 1647 1648 1649 1650 1651 1652 1654 1656 1657 1658 1660 1661 1662 1663 1664 1665 1666 1667 1668 1669 1670 1671 1675 1677 1678 1679 1680 1681 1682 1683 1684 1685 1686 1688 1689 1690 1691 1692 1694 1697 1698 1699 1700 1701 1702 1703 1704 1705 1706 1707 1708 1709 1710 1711 1712 1713 1714 1715 1716 1717 1718 1719 1720 1722 1723 1724 1725 1726 1727 1728 1729 1730 1731 1732 1733 1734 1735 1736 1737 1739 1740 1741 1742 1743 1744 1745 1746 1747 1748 1749 1750 1751 1752 1753 1754 1755 1756 1757 1758 1760 1762 1764 
+Zodis: employees, Teksto eilutes: 657 935 
+Zodis: wisconsin, Teksto eilutes: 1316 1353 
+Zodis: direct, Teksto eilutes: 596 680 815 849 862 903 1111 1141 1143 
+Zodis: pp, Teksto eilutes: 1262 1297 1318 1319 1322 1542 1544 1545 1546 1569 1616 1653 1655 1680 1701 1702 
+Zodis: pagal, Teksto eilutes: 1264 1563 1671 
+Zodis: kalb, Teksto eilutes: 1264 1459 
+Zodis: gyventoj, Teksto eilutes: 1264 1273 1274 1349 1359 1360 1494 1563 1571 
+Zodis: withdrew, Teksto eilutes: 242 263 
+Zodis: collecting, Teksto eilutes: 676 954 
+Zodis: surašymo, Teksto eilutes: 1264 1571 
+Zodis: pdf, Teksto eilutes: 1264 1282 1291 1293 1299 1300 1301 1304 1320 1338 1366 1367 1369 1382 1416 1438 1450 1465 1517 1560 1563 1570 1579 1582 1591 1592 1594 1595 1596 1616 1653 1655 1701 1702 1704 1706 1713 1738 
+Zodis: include, Teksto eilutes: 159 505 579 966 1024 1145 
+Zodis: prisirašiusi, Teksto eilutes: 1273 1274 
+Zodis: and, Teksto eilutes: 13 33 60 62 64 69 70 77 78 146 148 150 152 154 156 158 159 163 165 166 171 172 175 177 183 184 186 189 190 192 196 198 199 207 209 211 213 216 218 222 224 226 228 234 237 242 244 251 253 258 261 263 269 273 275 280 281 283 287 289 291 298 302 304 308 310 317 319 321 324 331 333 335 468 470 472 475 477 479 483 490 491 493 495 497 501 505 509 515 517 519 525 527 530 531 533 535 543 545 548 549 551 555 560 561 563 565 568 569 574 579 581 586 588 590 594 596 598 603 605 607 617 618 620 623 626 628 634 636 638 645 646 648 650 652 654 657 659 661 663 667 671 676 680 683 684 686 688 690 714 745 747 748 750 752 754 756 758 767 769 771 778 780 782 784 789 790 792 794 795 797 799 802 803 805 807 810 814 815 819 821 823 827 829 833 841 842 844 846 849 850 853 854 856 858 862 866 872 874 878 880 884 888 890 891 893 895 897 901 903 905 907 909 910 913 914 916 918 922 924 926 928 930 934 935 937 939 943 945 947 950 954 961 962 964 966 968 970 972 975 977 979 991 994 996 998 1017 1019 1020 1022 1024 1026 1030 1032 1036 1040 1042 1045 1050 1054 1056 1058 1062 1064 1066 1068 1071 1073 1077 1081 1083 1085 1091 1092 1094 1096 1098 1106 1111 1113 1115 1122 1126 1128 1139 1141 1143 1145 1148 1150 1152 1154 1156 1160 1162 1164 1165 1170 1172 1174 1178 1180 1190 1192 1196 1199 1225 1235 1236 1237 1238 1239 1240 1242 1259 1260 1261 1262 1272 1282 1297 1316 1317 1324 1325 1326 1327 1329 1330 1331 1333 1335 1336 1344 1350 1387 1389 1390 1403 1438 1521 1532 1534 1546 1552 1583 1598 1620 1639 1644 1660 1663 1667 1672 1676 1680 1711 1719 1721 1722 1727 1769 1778 1786 
+Zodis: skaičius, Teksto eilutes: 1273 1274 1549 1563 
+Zodis: archived, Teksto eilutes: 1275 1276 1277 1279 1281 1282 1285 1286 1287 1300 1311 1314 1320 1321 1351 1354 1362 1363 1369 1372 1374 1378 1380 1384 1393 1396 1405 1406 1415 1418 1423 1432 1437 1440 1456 1459 1462 1463 1466 1468 1480 1503 1506 1510 1511 1517 1518 1519 1528 1529 1537 1540 1541 1550 1560 1570 1573 1575 1579 1582 1599 1611 1635 1638 1639 1640 1642 1645 1652 1662 1665 1675 1680 1684 1714 1720 1722 1725 1727 1733 1735 1747 
+Zodis: index, Teksto eilutes: 154 467 833 937 1284 1625 
+Zodis: supreme, Teksto eilutes: 298 769 1030 
+Zodis: third, Teksto eilutes: 216 771 853 854 880 895 910 1324 1680 
+Zodis: po, Teksto eilutes: 1291 1552 
+Zodis: vilni, Teksto eilutes: 1291 1332 
+Zodis: viešoji, Teksto eilutes: 1291 1518 
+Zodis: istorija, Teksto eilutes: 1292 1307 1361 1424 1460 1461 1469 1481 1485 1512 1553 1581 1652 1736 
+Zodis: figure, Teksto eilutes: 317 1259 
+Zodis: euro, Teksto eilutes: 1162 
+Zodis: leidykla, Teksto eilutes: 1293 1585 
+Zodis: expensive, Teksto eilutes: 545 646 648 815 829 
+Zodis: vaga, Teksto eilutes: 1293 1659 
+Zodis: briedis, Teksto eilutes: 1295 1306 1308 1312 1357 1767 
+Zodis: sostinės, Teksto eilutes: 663 1268 1478 1731 
+Zodis: federation, Teksto eilutes: 1130 
+Zodis: identified, Teksto eilutes: 874 
+Zodis: edvardas, Teksto eilutes: 1298 1319 1327 
+Zodis: enciklopedija, Teksto eilutes: 1298 1303 1766 
+Zodis: architektūros, Teksto eilutes: 1299 1527 1668 
+Zodis: turizmo, Teksto eilutes: 1701 1702 1704 1713 
+Zodis: county, Teksto eilutes: 100 854 891 895 901 1263 
+Zodis: tolerancijos, Teksto eilutes: 1560 1579 1582 
+Zodis: tautavičius, Teksto eilutes: 1304 1553 1581 
+Zodis: portraits, Teksto eilutes: 477 479 483 491 605 991 
+Zodis: adolfas, Teksto eilutes: 1304 1553 1581 
+Zodis: synagogue, Teksto eilutes: 799 805 1039 1040 1678 1679 
+Zodis: su, Teksto eilutes: 1311 1436 1505 1758 
+Zodis: washington, Teksto eilutes: 1313 1464 
+Zodis: sea, Teksto eilutes: 319 752 795 
+Zodis: conference, Teksto eilutes: 1278 1605 1680 
+Zodis: baltos, Teksto eilutes: 1314 1767 
+Zodis: side, Teksto eilutes: 302 509 1327 
+Zodis: nasdaq, Teksto eilutes: 950 1638 
+Zodis: politics, Teksto eilutes: 1316 1319 1327 1676 
+Zodis: snyder, Teksto eilutes: 1317 1346 1569 
+Zodis: percent, Teksto eilutes: 1317 
+Zodis: b, Teksto eilutes: 1318 1382 
+Zodis: led, Teksto eilutes: 152 216 275 308 594 603 674 799 910 1329 
+Zodis: held, Teksto eilutes: 192 234 312 505 537 543 652 656 661 663 690 943 1054 1077 1160 
+Zodis: alfonsas, Teksto eilutes: 1319 1327 
+Zodis: regions, Teksto eilutes: 287 784 874 895 901 1267 1287 
+Zodis: transformed, Teksto eilutes: 1106 1259 
+Zodis: drive, Teksto eilutes: 897 1073 
+Zodis: senn, Teksto eilutes: 1319 1334 
+Zodis: alfred, Teksto eilutes: 1319 1330 1334 
+Zodis: ed, Teksto eilutes: 1319 1333 1344 1347 1623 
+Zodis: york, Teksto eilutes: 1319 1364 
+Zodis: warszawa, Teksto eilutes: 1322 1790 
+Zodis: publishing, Teksto eilutes: 1324 1331 
+Zodis: nature, Teksto eilutes: 323 324 1034 1618 
+Zodis: schooling, Teksto eilutes: 1344 
+Zodis: disabled, Teksto eilutes: 1172 1178 
+Zodis: jones, Teksto eilutes: 1326 1383 
+Zodis: sometimes, Teksto eilutes: 331 545 
+Zodis: catholics, Teksto eilutes: 680 1020 
+Zodis: kaliningrad, Teksto eilutes: 1143 1228 
+Zodis: mentioned, Teksto eilutes: 103 179 603 827 846 977 1235 
+Zodis: catholic, Teksto eilutes: 175 253 618 657 659 810 842 1004 1011 1017 1024 1026 1050 1064 1172 1259 
+Zodis: seven, Teksto eilutes: 1058 1062 
+Zodis: paradise, Teksto eilutes: 1246 1764 
+Zodis: mediation, Teksto eilutes: 1329 1330 
+Zodis: council, Teksto eilutes: 109 234 251 298 674 680 683 684 688 690 692 760 1030 1329 
+Zodis: kad, Teksto eilutes: 1332 1460 1527 1707 
+Zodis: magdeburg, Teksto eilutes: 192 674 
+Zodis: galėjo, Teksto eilutes: 1332 1557 
