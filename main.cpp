@@ -25,7 +25,7 @@ bool ar_yra_URL(const string& zodis, const unordered_set<string>& url_pabaigos) 
 }
 
 int main() {
-    ifstream tekstas("input\\rimtas_testas.txt");
+    ifstream tekstas("input\\vilniaus_testas.txt");
     ofstream zodziu_danzio_failas("output\\zodziai.txt");
     ofstream url_isvedimo_failas("output\\urls.txt");
     ofstream cross_reference_failas("output\\cross_reference.txt");
