@@ -37,7 +37,7 @@ int main() {
         return 0;
     }
 
-    unordered_map<string, std::pair<int, vector<int>>> zodziu_pasirodymai;
+    unordered_map<string, pair<int, vector<int>>> zodziu_pasirodymai;
     unordered_set<string> url_pabaigos;
 
     string url_pabaiga;
